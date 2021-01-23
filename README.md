@@ -40,19 +40,6 @@ https://github.com/erik73/repository-edge
 
 ## Add-ons provided by this repository
 
-### &#10003; [Mailserver][addon-mail]
-
-![Latest Version][mail-version-shield]
-![Supports armhf Architecture][mail-armhf-shield]
-![Supports armv7 Architecture][mail-armv7-shield]
-![Supports aarch64 Architecture][mail-aarch64-shield]
-![Supports amd64 Architecture][mail-amd64-shield]
-![Supports i386 Architecture][mail-i386-shield]
-
-Complete mail server solution for Home Assistant
-
-[:books: Mailserver add-on documentation][addon-doc-mail]
-
 ### &#10003; [steve][addon-steve]
 
 ![Latest Version][steve-version-shield]
@@ -87,7 +74,6 @@ You could also open an issue here on GitHub. Note, we use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
-- [Open an issue for the add-on: Mailserver][mail-issue]
 - [Open an issue for the add-on: steve][steve-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
@@ -136,15 +122,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-mail]: https://github.com/erik73/addon-mail/tree/v0.5.2
-[addon-doc-mail]: https://github.com/erik73/addon-mail/blob/v0.5.2/README.md
-[mail-issue]: https://github.com/erik73/addon-mail/issues
-[mail-version-shield]: https://img.shields.io/badge/version-v0.5.2-blue.svg
-[mail-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[mail-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[mail-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[mail-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[mail-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-steve]: https://github.com/erik73/addon-steve/tree/v0.3.7
 [addon-doc-steve]: https://github.com/erik73/addon-steve/blob/v0.3.7/README.md
 [steve-issue]: https://github.com/erik73/addon-steve/issues
