@@ -1,6 +1,6 @@
 {
   "name": "steve",
-  "version": "7d6ec19",
+  "version": "4fd4003",
   "slug": "steve",
   "description": "OCPP server for EV charging stations",
   "url": "https://github.com/erik73/addon-steve",
@@ -30,13 +30,7 @@
     "httpport": "str",
     "admin_user": "str",
     "admin_password": "str",
-    "log_level": "list(trace|debug|info|notice|warning|error|fatal)?",
-    "envvars": [
-      {
-        "name": "str",
-        "value": "str"
-      }
-    ]
+    "log_level": "list(trace|debug|info|notice|warning|error|fatal)?"
   },
   "image": "ghcr.io/erik73/steve/{arch}"
 }
