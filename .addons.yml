@@ -8,4 +8,4 @@ addons:
   bookstack:
     repository: erik73/addon-bookstack
     target: bookstack
-    image: ghcr.io/hassio-addons/bookstack/{arch}
+    image: ghcr.io/erik73/bookstack/{arch}
