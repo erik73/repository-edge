@@ -5,3 +5,7 @@ addons:
     repository: erik73/addon-steve
     target: steve
     image: ghcr.io/erik73/steve/{arch}
+  bookstack:
+    repository: erik73/addon-bookstack
+    target: bookstack
+    image: ghcr.io/hassio-addons/bookstack/{arch}
