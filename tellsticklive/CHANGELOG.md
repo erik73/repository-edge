@@ -1,5 +1,2 @@
-## What’s changed
-
-## 🚀 Enhancements
-
-- Prepare for release @erik73 (#5)
+# Changelog since v0.9.3
+- Delete CHANGELOG.md 
