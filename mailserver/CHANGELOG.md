@@ -1,5 +1,5 @@
-## What’s changed
+# Changelog since v0.5.5
+- Merge pull request #11 from erik73/dev
 
-## 🚀 Enhancements
-
-- Provar en commit @erik73 (#10)
+Fix php7 in startup script 
+- Fix php7 in startup script 
