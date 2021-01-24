@@ -1,5 +1,5 @@
-# Changelog since v0.5.5
-- Merge pull request #11 from erik73/dev
+# Changelog since v0.5.6
+- Merge pull request #13 from erik73/Revert
 
-Fix php7 in startup script 
-- Fix php7 in startup script 
+Revert name change 
+- Revert name change 
