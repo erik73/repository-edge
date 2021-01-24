@@ -1,5 +1,7 @@
-# Changelog since v0.5.6
-- Merge pull request #13 from erik73/Revert
+## What’s changed
 
-Revert name change 
-- Revert name change 
+- New repo @erik73 (#14)
+
+## 🚀 Enhancements
+
+- Revert name change @erik73 (#13)
