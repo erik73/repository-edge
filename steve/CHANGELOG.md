@@ -1,4 +1,5 @@
 # Changelog since v0.3.8
+- Update config.json 
 - Update FUNDING.yml 
 - Update CODEOWNERS 
 - Merge pull request #10 from erik73/doc
