@@ -1,4 +1,8 @@
 # Changelog since v0.9.5
+- Merge pull request #7 from erik73/doc
+
+readme fix 
+- readme fix 
 - Update README.md 
 - Update README.md 
 - Update README.md 
