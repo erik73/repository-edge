@@ -1,4 +1,13 @@
 # Changelog since v0.5.7
+- Merge pull request #17 from erik73/doc
+
+Doc 
+- Merge pull request #16 from erik73/base
+
+New base image 
+- Prettified Code! 
+- New base image 
+- Fix doc 
 - Merge pull request #15 from erik73/dependabot/github_actions/frenck/action-addon-linter-v1.4
 
 Bump frenck/action-addon-linter from v1.3.1 to v1.4 
