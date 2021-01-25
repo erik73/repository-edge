@@ -1,4 +1,9 @@
 # Changelog since v0.3.8
+- Merge pull request #10 from erik73/doc
+
+Doc 
+- Prettified Code! 
+- readme fix 
 - Merge pull request #8 from erik73/dependabot/github_actions/frenck/action-addon-linter-v1.4
 
 Bump frenck/action-addon-linter from v1.3.1 to v1.4 

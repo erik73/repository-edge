@@ -191,10 +191,10 @@ SOFTWARE.
 [tellsticklive-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tellsticklive-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [tellsticklive-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-steve]: https://github.com/erik73/addon-steve/tree/a4cf65e
-[addon-doc-steve]: https://github.com/erik73/addon-steve/blob/a4cf65e/README.md
+[addon-steve]: https://github.com/erik73/addon-steve/tree/df60dd0
+[addon-doc-steve]: https://github.com/erik73/addon-steve/blob/df60dd0/README.md
 [steve-issue]: https://github.com/erik73/addon-steve/issues
-[steve-version-shield]: https://img.shields.io/badge/version-a4cf65e-blue.svg
+[steve-version-shield]: https://img.shields.io/badge/version-df60dd0-blue.svg
 [steve-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [steve-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [steve-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
