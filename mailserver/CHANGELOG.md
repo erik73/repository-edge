@@ -1,4 +1,8 @@
 # Changelog since v0.5.7
+- Merge pull request #18 from erik73/icons
+
+Add missing badges 
+- Add missing badges 
 - Merge pull request #17 from erik73/doc
 
 Doc 
