@@ -1,4 +1,6 @@
 # Changelog since v0.3.8
+- Update FUNDING.yml 
+- Update CODEOWNERS 
 - Merge pull request #10 from erik73/doc
 
 Doc 
