@@ -1,10 +1,6 @@
-# Changelog since v0.9.6
-- More DOC fixes 
-- DOCS changes 
-- Fix DOCS 
-- Update DOCS.md 
-- Merge pull request #8 from erik73/Docs
+# Changelog since v0.9.7
+- Merge pull request #9 from erik73/base
 
-Add DOCS.md 
+Base 
 - Prettified Code! 
-- Add DOCS.md 
+- New base image 
