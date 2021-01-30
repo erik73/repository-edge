@@ -1,5 +1,6 @@
-# Changelog since v1.0.1
-- Merge pull request #10 from erik73/image
+# Changelog since v1.1.0
+- Merge pull request #11 from erik73/dev
 
-Switch to new base image, Alpine 3.13.1 
-- Switch to new base image, Alpine 3.13.1 
+update readme and docs 
+- update docs.md 
+- Update readme 
