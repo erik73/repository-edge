@@ -1,5 +1,5 @@
-# Changelog since v0.5.3
-- Merge pull request #11 from erik73/base
+# Changelog since v0.5.4
+- Merge pull request #12 from erik73/jemalloc
 
-New base image 
-- New base image 
+Use base image with jemalloc preinstalled 
+- Use base image with jemalloc preinstalled 
