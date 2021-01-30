@@ -1,6 +1,5 @@
-# Changelog since v0.5.8
-- Update README.md 
-- Merge pull request #19 from erik73/base
+# Changelog since v0.5.9
+- Merge pull request #21 from erik73/dev
 
-New base image 
-- New base image 
+Upgrade base image and socklog overlay 
+- Upgrade base image and socklog overlay 
