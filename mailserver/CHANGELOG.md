@@ -1,9 +1,11 @@
-# Changelog since v0.5.9
-- Merge pull request #22 from erik73/dev
+# Changelog since v1.0.0
+- Merge pull request #23 from erik73/dependabot/github_actions/frenck/action-yamllint-v1.1
 
-Upgrade postfixadmin 3.3.5 
-- Upgrade postfixadmin 
-- Merge pull request #21 from erik73/dev
+Bump frenck/action-yamllint from v1.0.2 to v1.1 
+- Bump frenck/action-yamllint from v1.0.2 to v1.1
 
-Upgrade base image and socklog overlay 
-- Upgrade base image and socklog overlay 
+Bumps [frenck/action-yamllint](https://github.com/frenck/action-yamllint) from v1.0.2 to v1.1.
+- [Release notes](https://github.com/frenck/action-yamllint/releases)
+- [Commits](https://github.com/frenck/action-yamllint/compare/v1.0.2...e21bcc770907b7207a05453ca9f1eb7129c945d1)
+
+Signed-off-by: dependabot[bot] <support@github.com> 
