@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: Mailserver
+# Home Assistant Add-on: Mailserver
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -33,5 +33,5 @@ If you are more interested in stable releases of our add-ons:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-ccd5885-blue.svg
-[release]: https://github.com/erik73/addon-mail/tree/ccd5885
+[release-shield]: https://img.shields.io/badge/version-6402812-blue.svg
+[release]: https://github.com/erik73/addon-mail/tree/6402812
