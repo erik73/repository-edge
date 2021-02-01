@@ -1,13 +1,11 @@
-# Changelog since v0.5.4
-- Merge pull request #14 from erik73/dev
+# Changelog since v1.0.0
+- Merge pull request #15 from erik73/dependabot/github_actions/frenck/action-yamllint-v1.1
 
-Update readme 
-- Update readme 
-- Merge pull request #13 from erik73/socklog
+Bump frenck/action-yamllint from v1.0.2 to v1.1 
+- Bump frenck/action-yamllint from v1.0.2 to v1.1
 
-Upgrade socklog overlay 
-- Upgrade socklog overlay 
-- Merge pull request #12 from erik73/jemalloc
+Bumps [frenck/action-yamllint](https://github.com/frenck/action-yamllint) from v1.0.2 to v1.1.
+- [Release notes](https://github.com/frenck/action-yamllint/releases)
+- [Commits](https://github.com/frenck/action-yamllint/compare/v1.0.2...e21bcc770907b7207a05453ca9f1eb7129c945d1)
 
-Use base image with jemalloc preinstalled 
-- Use base image with jemalloc preinstalled 
+Signed-off-by: dependabot[bot] <support@github.com> 
