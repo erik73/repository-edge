@@ -1,4 +1,8 @@
 # Changelog since v1.0.0
+- Merge pull request #16 from erik73/Ingress
+
+Run on localhost only 
+- Run on localhost only 
 - Merge pull request #15 from erik73/Ingress
 
 Fix nginx config 
