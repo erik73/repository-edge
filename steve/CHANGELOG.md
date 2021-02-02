@@ -1,4 +1,8 @@
 # Changelog since v1.0.0
+- Merge pull request #17 from erik73/Ingress
+
+Do not run on host network 
+- Do not run on host network 
 - Merge pull request #16 from erik73/Ingress
 
 Run on localhost only 

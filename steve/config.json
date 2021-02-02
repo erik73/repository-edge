@@ -1,6 +1,6 @@
 {
   "name": "SteVe",
-  "version": "7cf4183",
+  "version": "eae7dbd",
   "slug": "steve",
   "description": "OCPP server for EV charging stations",
   "url": "https://github.com/erik73/addon-steve",
@@ -18,7 +18,6 @@
   "services": [
     "mysql:need"
   ],
-  "host_network": true,
   "hassio_api": true,
   "options": {
     "timezone": "CET",
