@@ -1,20 +1,4 @@
 # Changelog since v1.0.0
-- Merge pull request #17 from erik73/Ingress
-
-Do not run on host network 
-- Do not run on host network 
-- Merge pull request #16 from erik73/Ingress
-
-Run on localhost only 
-- Run on localhost only 
-- Merge pull request #15 from erik73/Ingress
-
-Fix nginx config 
-- Fix nginx config 
-- Merge pull request #14 from erik73/Ingress
-
-Add ingress config 
-- Add ingress config 
 - Merge pull request #13 from erik73/dependabot/github_actions/frenck/action-yamllint-v1.1
 
 Bump frenck/action-yamllint from v1.0.2 to v1.1 
