@@ -1,4 +1,8 @@
 # Changelog since v1.0.1
+- Merge pull request #33 from erik73/network
+
+Ports added 
+- Ports added 
 - Merge pull request #32 from erik73/network
 
 Remove nginx 
