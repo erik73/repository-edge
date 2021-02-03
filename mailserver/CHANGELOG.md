@@ -1,4 +1,8 @@
 # Changelog since v1.0.1
+- Merge pull request #31 from erik73/network
+
+Remove postfix 
+- Remove postfix 
 - Merge pull request #30 from erik73/network
 
 Remove php-fpm 
