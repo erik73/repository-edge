@@ -1,4 +1,8 @@
 # Changelog since v1.0.1
+- Merge pull request #30 from erik73/network
+
+Remove php-fpm 
+- Remove phpfpm 
 - Merge pull request #29 from erik73/network
 
 Try without dovecot 
