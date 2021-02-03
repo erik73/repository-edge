@@ -173,10 +173,10 @@ SOFTWARE.
 [mailfilter-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [mailfilter-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [mailfilter-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-mailserver]: https://github.com/erik73/addon-mail/tree/a53b877
-[addon-doc-mailserver]: https://github.com/erik73/addon-mail/blob/a53b877/README.md
+[addon-mailserver]: https://github.com/erik73/addon-mail/tree/adb89e8
+[addon-doc-mailserver]: https://github.com/erik73/addon-mail/blob/adb89e8/README.md
 [mailserver-issue]: https://github.com/erik73/addon-mail/issues
-[mailserver-version-shield]: https://img.shields.io/badge/version-a53b877-blue.svg
+[mailserver-version-shield]: https://img.shields.io/badge/version-adb89e8-blue.svg
 [mailserver-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mailserver-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mailserver-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
