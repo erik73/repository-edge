@@ -1,4 +1,8 @@
 # Changelog since v1.0.0
+- Merge pull request #18 from erik73/freshclam
+
+Fix Freshclam config file 
+- Fix Freshclam config file 
 - Merge pull request #16 from erik73/baseimage
 
 Upgrade base image to 1.0.1 
