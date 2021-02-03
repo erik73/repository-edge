@@ -1,4 +1,8 @@
 # Changelog since v1.0.1
+- Merge pull request #32 from erik73/network
+
+Remove nginx 
+- Remove nginx 
 - Merge pull request #31 from erik73/network
 
 Remove postfix 
