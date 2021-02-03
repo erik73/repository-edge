@@ -1,6 +1,6 @@
 {
   "name": "Mailserver",
-  "version": "9f75e9f",
+  "version": "0915a95",
   "slug": "mailserver",
   "description": "Complete mail server solution for Home Assistant",
   "url": "https://github.com/erik73/hassio-addons",
@@ -24,15 +24,13 @@
     "25/tcp": 25,
     "465/tcp": 465,
     "587/tcp": 587,
-    "993/tcp": 993,
-    "514/udp": 514
+    "993/tcp": 993
   },
   "ports_description": {
     "25/tcp": "SMTP",
     "465/tcp": "SMTP",
     "587/tcp": "SMTP",
-    "993/tcp": "IMAPS",
-    "514/udp": "syslog"
+    "993/tcp": "IMAPS"
   },
   "hassio_api": true,
   "options": {
