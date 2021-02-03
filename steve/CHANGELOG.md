@@ -1,4 +1,8 @@
 # Changelog since v1.0.0
+- Merge pull request #18 from erik73/ports
+
+Do not run on host network 
+- Do not run on host network 
 - Merge pull request #13 from erik73/dependabot/github_actions/frenck/action-yamllint-v1.1
 
 Bump frenck/action-yamllint from v1.0.2 to v1.1 
