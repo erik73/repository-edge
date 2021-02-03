@@ -1,6 +1,6 @@
 {
   "name": "Mailserver",
-  "version": "adb89e8",
+  "version": "7226ed6",
   "slug": "mailserver",
   "description": "Complete mail server solution for Home Assistant",
   "url": "https://github.com/erik73/hassio-addons",

@@ -1,4 +1,8 @@
 # Changelog since v1.0.1
+- Merge pull request #29 from erik73/network
+
+Try without dovecot 
+- Try without dovecot 
 - Merge pull request #28 from erik73/network
 
 Do not run on host network 
