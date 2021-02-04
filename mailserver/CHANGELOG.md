@@ -1,4 +1,6 @@
 # Changelog since v1.1.0
+- Use correct socket 
+- Add missing line 
 - Merge pull request #35 from erik73/logfix
 
 Prepare for Supervisor changes in udev tree 
