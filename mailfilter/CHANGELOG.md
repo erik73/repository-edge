@@ -1,4 +1,5 @@
 # Changelog since v1.0.0
+- Remove logfile 
 - Do not redirect clamav output 
 - config files 
 - Merge pull request #18 from erik73/freshclam
