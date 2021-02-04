@@ -1,6 +1,6 @@
-# Changelog since v1.0.1
-- Do not run on host network 
-- Merge pull request #27 from erik73/Docs
+# Changelog since v1.1.0
+- Merge pull request #35 from erik73/logfix
 
-Add more detail to documentation 
-- Add more detail to documentation 
+Prepare for Supervisor changes in udev tree 
+- Use the correct delimiter 
+- Prepare for Supervisor changes in udev tree 
