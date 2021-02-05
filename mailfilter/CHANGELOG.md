@@ -1,26 +1,22 @@
-# Changelog since v1.0.0
-- Remove logfile 
-- Do not redirect clamav output 
-- config files 
-- Merge pull request #18 from erik73/freshclam
+# Changelog since v1.1.0
+- Merge pull request #19 from erik73/dependabot/github_actions/actions/cache-v2.1.4
 
-Fix Freshclam config file 
-- Fix Freshclam config file 
-- Merge pull request #16 from erik73/baseimage
+Bump actions/cache from v2.1.3 to v2.1.4 
+- Merge pull request #20 from erik73/dependabot/github_actions/actionshub/markdownlint-2.0.2
 
-Upgrade base image to 1.0.1 
-- Merge pull request #17 from erik73/socklog
+Bump actionshub/markdownlint from 2.0.0 to 2.0.2 
+- Bump actions/cache from v2.1.3 to v2.1.4
 
-Remove socklog and log to stdout instead 
-- Upgrade base image to 1.0.1 
-- Remove socklog and log to stdout instead 
-- Merge pull request #15 from erik73/dependabot/github_actions/frenck/action-yamllint-v1.1
+Bumps [actions/cache](https://github.com/actions/cache) from v2.1.3 to v2.1.4.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Commits](https://github.com/actions/cache/compare/v2.1.3...26968a09c0ea4f3e233fdddbafd1166051a095f6)
 
-Bump frenck/action-yamllint from v1.0.2 to v1.1 
-- Bump frenck/action-yamllint from v1.0.2 to v1.1
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump actionshub/markdownlint from 2.0.0 to 2.0.2
 
-Bumps [frenck/action-yamllint](https://github.com/frenck/action-yamllint) from v1.0.2 to v1.1.
-- [Release notes](https://github.com/frenck/action-yamllint/releases)
-- [Commits](https://github.com/frenck/action-yamllint/compare/v1.0.2...e21bcc770907b7207a05453ca9f1eb7129c945d1)
+Bumps [actionshub/markdownlint](https://github.com/actionshub/markdownlint) from 2.0.0 to 2.0.2.
+- [Release notes](https://github.com/actionshub/markdownlint/releases)
+- [Changelog](https://github.com/actionshub/markdownlint/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/actionshub/markdownlint/compare/2.0.0...4668c0321d5e398f4776e88e0f87d203dec0fd99)
 
 Signed-off-by: dependabot[bot] <support@github.com> 
