@@ -1,4 +1,8 @@
 # Changelog since v1.1.0
+- Merge pull request #38 from erik73/devlog
+
+Add symbolic link for dev/log if it is missing 
+- Add symbolic link for dev/log if is is missing 
 - Merge pull request #36 from erik73/dependabot/github_actions/actions/cache-v2.1.4
 
 Bump actions/cache from v2.1.3 to v2.1.4 
