@@ -1,6 +1,9 @@
 # Changelog since v1.1.0
 - Update 10-create-config.sh 
 - Update 10-create-config.sh 
+- More symlink fixes 
+- Update 10-create-config.sh 
+- Update 10-create-config.sh 
 - Merge pull request #38 from erik73/devlog
 
 Add symbolic link for dev/log if it is missing 
