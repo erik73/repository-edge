@@ -1,4 +1,8 @@
 # Changelog since v1.1.0
+- Merge pull request #39 from erik73/documentation-fixes
+
+Fix typos in documentation 
+- Fix typos in documentation 
 - Update 10-create-config.sh 
 - Update 10-create-config.sh 
 - Update 10-create-config.sh 
