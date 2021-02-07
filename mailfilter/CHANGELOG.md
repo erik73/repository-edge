@@ -1,4 +1,5 @@
 # Changelog since v1.1.0
+- Add missing path 
 - Merge pull request #21 from erik73/socklog-config-files
 
 Add configuration for socklog-overlay 
