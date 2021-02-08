@@ -1,4 +1,8 @@
 # Changelog since v1.1.0
+- Merge pull request #16 from erik73/adapt-for-new-supervisor
+
+Update config to be compliant with new supervisor 
+- Update config.json 
 - Merge pull request #15 from erik73/dependabot/github_actions/actions/stale-v3.0.16
 
 Bump actions/stale from v3.0.15 to v3.0.16 
