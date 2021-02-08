@@ -1,4 +1,9 @@
 # Changelog since v1.1.1
+- Add empty line 
+- Fix labels 
+- Fix labels 
+- Add labels 
+- remove labels 
 - Merge pull request #18 from erik73:upgrade-base-image
 
 Update base image to resolve S6 bug 
