@@ -1,4 +1,6 @@
 # Changelog since v1.1.1
+- Add new labels 
+- Remove labels 
 - Merge pull request #41 from erik73/dependabot/github_actions/frenck/action-addon-linter-v2
 
 Bump frenck/action-addon-linter from v1.4 to v2 
