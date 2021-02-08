@@ -1,4 +1,7 @@
 # Changelog since v1.1.1
+- Add new labels 
+- Merge branch 'main' of https://github.com/erik73/addon-mailfilter into main 
+- Remove labels 
 - Merge pull request #22 from erik73/dependabot/github_actions/actions/stale-v3.0.16
 
 Bump actions/stale from v3.0.15 to v3.0.16 
