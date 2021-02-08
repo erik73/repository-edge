@@ -1,4 +1,8 @@
 # Changelog since v1.1.1
+- Merge pull request #18 from erik73:upgrade-base-image
+
+Update base image to resolve S6 bug 
+- Update base image to resolve S6 bug 
 - Merge pull request #17 from erik73/dependabot/github_actions/frenck/action-addon-linter-v2
 
 Bump frenck/action-addon-linter from v1.4 to v2 
