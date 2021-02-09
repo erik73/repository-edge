@@ -1,4 +1,8 @@
 # Changelog since v1.1.1
+- Merge pull request #25 from erik73:base-image
+
+Update base image to resolve S6-overlay problems 
+- Update base image to resolve S6-overlay problems 
 - Merge pull request #24 from erik73/jvm-memory
 
 Set jvm Xmx memory in startup script 
