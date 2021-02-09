@@ -1,4 +1,14 @@
 # Changelog since v1.1.1
+- Merge pull request #25 from erik73:base-image
+
+Update base image to resolve S6-overlay problems 
+- Update base image to resolve S6-overlay problems 
+- Merge pull request #24 from erik73/jvm-memory
+
+Set jvm Xmx memory in startup script 
+- Add new labels 
+- Delete labels.yml 
+- Set jvm Xmx memory in startup script 
 - Merge pull request #23 from erik73/dependabot/github_actions/frenck/action-addon-linter-v2
 
 Bump frenck/action-addon-linter from v1.4 to v2 

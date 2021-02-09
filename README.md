@@ -164,10 +164,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-mailfilter]: https://github.com/erik73/addon-mailfilter/tree/582eb78
-[addon-doc-mailfilter]: https://github.com/erik73/addon-mailfilter/blob/582eb78/README.md
+[addon-mailfilter]: https://github.com/erik73/addon-mailfilter/tree/b72bbaa
+[addon-doc-mailfilter]: https://github.com/erik73/addon-mailfilter/blob/b72bbaa/README.md
 [mailfilter-issue]: https://github.com/erik73/addon-mailfilter/issues
-[mailfilter-version-shield]: https://img.shields.io/badge/version-582eb78-blue.svg
+[mailfilter-version-shield]: https://img.shields.io/badge/version-b72bbaa-blue.svg
 [mailfilter-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mailfilter-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mailfilter-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -182,10 +182,10 @@ SOFTWARE.
 [mailserver-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [mailserver-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [mailserver-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-steve]: https://github.com/erik73/addon-steve/tree/5a1b622
-[addon-doc-steve]: https://github.com/erik73/addon-steve/blob/5a1b622/README.md
+[addon-steve]: https://github.com/erik73/addon-steve/tree/94042f2
+[addon-doc-steve]: https://github.com/erik73/addon-steve/blob/94042f2/README.md
 [steve-issue]: https://github.com/erik73/addon-steve/issues
-[steve-version-shield]: https://img.shields.io/badge/version-5a1b622-blue.svg
+[steve-version-shield]: https://img.shields.io/badge/version-94042f2-blue.svg
 [steve-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [steve-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [steve-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
