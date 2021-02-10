@@ -49,7 +49,7 @@ https://github.com/erik73/repository-edge
 ![Supports amd64 Architecture][mailfilter-amd64-shield]
 ![Supports i386 Architecture][mailfilter-i386-shield]
 
-Rspamd Mailfilter for Home Assistant
+Rspamd mailfilter for Home Assistant
 
 [:books: Mailfilter add-on documentation][addon-doc-mailfilter]
 
