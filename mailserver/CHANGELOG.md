@@ -1,4 +1,8 @@
 # Changelog since v1.1.1
+- Merge pull request #42 from erik73/addon-description
+
+Update add-on description 
+- Update add-on description 
 - Add new labels 
 - Remove labels 
 - Merge pull request #41 from erik73/dependabot/github_actions/frenck/action-addon-linter-v2
