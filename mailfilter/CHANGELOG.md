@@ -1,4 +1,8 @@
 # Changelog since v1.1.1
+- Merge pull request #24 from erik73/addon-description
+
+Update add-on description 
+- Update add-on description 
 - Merge pull request #23 from erik73/dependabot/github_actions/frenck/action-addon-linter-v2
 
 Bump frenck/action-addon-linter from v1.4 to v2 
