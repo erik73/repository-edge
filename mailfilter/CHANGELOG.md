@@ -1,4 +1,12 @@
 # Changelog since v1.1.1
+- Merge pull request #25 from erik73/remove-clamav-files-if-disabled
+
+Remove the large clamav definitions if disabled 
+- Merge pull request #26 from erik73/update-base-image
+
+Update base image to 1.0.2 
+- Update base image to 1.0.2 
+- Remove the large clamav definitions if disabled 
 - Merge pull request #24 from erik73/addon-description
 
 Update add-on description 
