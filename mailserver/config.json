@@ -1,6 +1,6 @@
 {
   "name": "Mailserver",
-  "version": "dac8349",
+  "version": "f54598f",
   "slug": "mailserver",
   "description": "Postfix and Dovecot mail server for Home Assistant, with Postfix Admin web interface",
   "url": "https://github.com/erik73/hassio-addons",
@@ -10,7 +10,6 @@
     "armv7",
     "i386"
   ],
-  "stage": "experimental",
   "init": false,
   "ingress": true,
   "panel_icon": "mdi:email",

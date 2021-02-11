@@ -1,4 +1,12 @@
 # Changelog since v1.1.1
+- Merge pull request #43 from erik73/update-base-image
+
+Update base image to 1.0.2 
+- Merge pull request #44 from erik73/remove-experimental-stage
+
+Set addon to production state 
+- Set addon to production state 
+- Update base image to 1.0.2 
 - Merge pull request #42 from erik73/addon-description
 
 Update add-on description 
