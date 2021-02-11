@@ -1,9 +1,5 @@
-## What’s changed
+# Changelog since v1.1.3
+- Merge pull request #28 from erik73/fix
 
-## 🧰 Maintenance
-
-- Revert JVM memory limits @erik73 (#27)
-
-## ⬆️ Dependency updates
-
-- Update base image to 1.0.2 @erik73 (#26)
+Fix run 
+- Fix run 
