@@ -4,9 +4,6 @@
 ![Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE.md)
 
-[![Discord][discord-shield]][discord]
-[![Community Forum][forum-shield]][forum]
-
 ## WARNING! THIS IS AN EDGE REPOSITORY
 
 This Home Assistant Add-ons repository contains edge builds of add-ons. Edge
