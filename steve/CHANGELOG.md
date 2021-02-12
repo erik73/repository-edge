@@ -1,5 +1,5 @@
-# Changelog since v1.1.3
-- Merge pull request #28 from erik73/fix
+## What’s changed
 
-Fix run 
-- Fix run 
+## 🐛 Bug fixes
+
+- Fix run script @erik73 (#28)
