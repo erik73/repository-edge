@@ -1,36 +1,11 @@
-# Changelog since v1.1.1
-- Merge pull request #25 from erik73/remove-clamav-files-if-disabled
+# Changelog since v1.1.2
+- Merge pull request #27 from erik73/dependabot/github_actions/release-drafter/release-drafter-v5.14.0
 
-Remove the large clamav definitions if disabled 
-- Merge pull request #26 from erik73/update-base-image
+Bump release-drafter/release-drafter from v5.13.0 to v5.14.0 
+- Bump release-drafter/release-drafter from v5.13.0 to v5.14.0
 
-Update base image to 1.0.2 
-- Update base image to 1.0.2 
-- Remove the large clamav definitions if disabled 
-- Merge pull request #24 from erik73/addon-description
-
-Update add-on description 
-- Update add-on description 
-- Merge pull request #23 from erik73/dependabot/github_actions/frenck/action-addon-linter-v2
-
-Bump frenck/action-addon-linter from v1.4 to v2 
-- Add new labels 
-- Merge branch 'main' of https://github.com/erik73/addon-mailfilter into main 
-- Remove labels 
-- Bump frenck/action-addon-linter from v1.4 to v2
-
-Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from v1.4 to v2.
-- [Release notes](https://github.com/frenck/action-addon-linter/releases)
-- [Commits](https://github.com/frenck/action-addon-linter/compare/v1.4...5fde0909bcbbf702c477a7705950d8acf939ab1b)
-
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #22 from erik73/dependabot/github_actions/actions/stale-v3.0.16
-
-Bump actions/stale from v3.0.15 to v3.0.16 
-- Bump actions/stale from v3.0.15 to v3.0.16
-
-Bumps [actions/stale](https://github.com/actions/stale) from v3.0.15 to v3.0.16.
-- [Release notes](https://github.com/actions/stale/releases)
-- [Commits](https://github.com/actions/stale/compare/v3.0.15...9d6f46564a515a9ea11e7762ab3957ee58ca50da)
+Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from v5.13.0 to v5.14.0.
+- [Release notes](https://github.com/release-drafter/release-drafter/releases)
+- [Commits](https://github.com/release-drafter/release-drafter/compare/v5.13.0...e5ccf147077e46b0225a80bbe314d795d77bb7a2)
 
 Signed-off-by: dependabot[bot] <support@github.com> 
