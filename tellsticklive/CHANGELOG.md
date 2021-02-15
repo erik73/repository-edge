@@ -1,10 +1,15 @@
-## What’s changed
+# Changelog since v1.1.2
+- Merge pull request #21 from erik73/dependabot/github_actions/release-drafter/release-drafter-v5.14.0
 
-## 📚 Documentation
+Bump release-drafter/release-drafter from v5.13.0 to v5.14.0 
+- Merge pull request #20 from erik73/base
 
-- Some fixes to documentation @erik73 (#19)
+Update base image to 1.0.2 
+- Bump release-drafter/release-drafter from v5.13.0 to v5.14.0
 
-## ⬆️ Dependency updates
+Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from v5.13.0 to v5.14.0.
+- [Release notes](https://github.com/release-drafter/release-drafter/releases)
+- [Commits](https://github.com/release-drafter/release-drafter/compare/v5.13.0...e5ccf147077e46b0225a80bbe314d795d77bb7a2)
 
-- Bump frenck/action-addon-linter from v1.4 to v2 @dependabot (#17)
-- Update base image to resolve S6 bug @erik73 (#18)
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Update base image to 1.0.2 
