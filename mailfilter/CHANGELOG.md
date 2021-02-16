@@ -1,4 +1,8 @@
 # Changelog since v1.1.2
+- Merge pull request #28 from erik73/update-base
+
+Update base image to 1.0.3 
+- Update base image to 1.0.3 
 - Merge pull request #27 from erik73/dependabot/github_actions/release-drafter/release-drafter-v5.14.0
 
 Bump release-drafter/release-drafter from v5.13.0 to v5.14.0 
