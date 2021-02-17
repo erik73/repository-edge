@@ -1,4 +1,8 @@
 # Changelog since v1.1.4
+- Merge pull request #24 from erik73/docs
+
+Add new option to DOCS 
+- Add new option to DOCS 
 - run script 
 - sed again 
 - Sed fix 
