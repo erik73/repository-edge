@@ -1,5 +1,5 @@
-# Changelog since v1.1.3
-- Merge pull request #22 from erik73/update-base
+# Changelog since v1.1.4
+- Merge pull request #23 from erik73/delay-setting
 
-Update base image to 1.0.3 
-- Update base image to 1.0.3 
+Create option to add delay for live connection 
+- Create option to add delay for live connection 
