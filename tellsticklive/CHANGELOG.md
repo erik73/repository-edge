@@ -1,13 +1,11 @@
-# Changelog since v1.1.4
-- Merge pull request #24 from erik73/docs
+# Changelog since v1.1.5
+- Merge pull request #25 from erik73/dependabot/github_actions/docker/build-push-action-v2.3.0
 
-Add new option to DOCS 
-- Add new option to DOCS 
-- run script 
-- sed again 
-- Sed fix 
-- Fix sed 
-- Merge pull request #23 from erik73/delay-setting
+Bump docker/build-push-action from v2.2.2 to v2.3.0 
+- Bump docker/build-push-action from v2.2.2 to v2.3.0
 
-Create option to add delay for live connection 
-- Create option to add delay for live connection 
+Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from v2.2.2 to v2.3.0.
+- [Release notes](https://github.com/docker/build-push-action/releases)
+- [Commits](https://github.com/docker/build-push-action/compare/v2.2.2...9379083e426e2e84abb80c8c091f5cdeb7d3fd7a)
+
+Signed-off-by: dependabot[bot] <support@github.com> 
