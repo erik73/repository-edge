@@ -1,4 +1,8 @@
 # Changelog since v1.1.3
+- Merge pull request #49 from erik73/postfixadmin
+
+Update Postfix Admin to version 3.3.7 
+- Update Postfix Admin to version 3.3.7 
 - Merge pull request #48 from erik73/dependabot/github_actions/actions/stale-v3.0.17
 
 Bump actions/stale from v3.0.16 to v3.0.17 
