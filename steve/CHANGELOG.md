@@ -1,4 +1,8 @@
 # Changelog since v1.1.5
+- Merge pull request #34 from erik73/soap
+
+Add SOAP return port 
+- Add SOAP return port 
 - Merge pull request #33 from erik73/dependabot/github_actions/actions/stale-v3.0.17
 
 Bump actions/stale from v3.0.16 to v3.0.17 
