@@ -1,6 +1,6 @@
 {
   "name": "SteVe",
-  "version": "b331148",
+  "version": "1b1d10c",
   "slug": "steve",
   "description": "OCPP server for EV charging stations",
   "url": "https://github.com/erik73/addon-steve",
