@@ -1,4 +1,8 @@
 # Changelog since v1.1.5
+- Merge pull request #30 from erik73/update_base
+
+Update Alpine to 3.13.4 
+- Update Alpine to 3.13.4 
 - Merge pull request #29 from erik73/dependabot/github_actions/ludeeus/action-shellcheck-1.1.0
 
 Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0 
