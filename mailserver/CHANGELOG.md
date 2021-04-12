@@ -1,4 +1,8 @@
 # Changelog since v1.1.6
+- Merge pull request #60 from erik73/smtp_auth
+
+Add auth to config files 
+- Add auth to config files 
 - Merge pull request #58 from erik73/dependabot/github_actions/docker/setup-qemu-action-v1.0.2
 
 Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 
