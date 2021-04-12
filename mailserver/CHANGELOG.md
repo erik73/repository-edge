@@ -1,4 +1,9 @@
 # Changelog since v1.1.6
+- Merge pull request #64 from erik73/final_fixes
+
+Final fixes 
+- Merge branch 'final_fixes' of https://github.com/erik73/addon-mail into final_fixes 
+- Docs fix 
 - Merge pull request #63 from erik73/final_fixes
 
 Missing line feed 
