@@ -1,4 +1,10 @@
 # Changelog since v1.1.6
+- Merge pull request #61 from erik73/config_changes
+
+Config changes 
+- Fix broken if statement 
+- modify files 
+- Add config options for relay credentials 
 - Merge pull request #60 from erik73/smtp_auth
 
 Add auth to config files 
