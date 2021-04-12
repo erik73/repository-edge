@@ -1,4 +1,8 @@
 # Changelog since v1.1.6
+- Merge pull request #62 from erik73/final_fixes
+
+Another approach to config files 
+- Another approach to config files 
 - Merge pull request #61 from erik73/config_changes
 
 Config changes 
