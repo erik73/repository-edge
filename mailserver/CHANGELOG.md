@@ -1,56 +1,20 @@
-# Changelog since v1.1.6
-- Merge pull request #64 from erik73/final_fixes
+## What’s changed
 
-Final fixes 
-- Merge branch 'final_fixes' of https://github.com/erik73/addon-mail into final_fixes 
-- Docs fix 
-- Merge pull request #63 from erik73/final_fixes
+- Config changes @erik73 (#61)
+- Another approach to config files @erik73 (#62)
+- Missing line feed @erik73 (#63)
 
-Missing line feed 
-- Prettified Code! 
-- Documentation updates 
-- Missing line feed 
-- Merge pull request #62 from erik73/final_fixes
+## ✨ New features
 
-Another approach to config files 
-- Another approach to config files 
-- Merge pull request #61 from erik73/config_changes
+- Add auth to config files @erik73 (#60)
 
-Config changes 
-- Fix broken if statement 
-- modify files 
-- Add config options for relay credentials 
-- Merge pull request #60 from erik73/smtp_auth
+## 📚 Documentation
 
-Add auth to config files 
-- Add auth to config files 
-- Merge pull request #58 from erik73/dependabot/github_actions/docker/setup-qemu-action-v1.0.2
+- Final fixes @erik73 (#64)
+- Fix spelling @erik73 (#65)
 
-Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 
-- Bump docker/setup-qemu-action from v1.0.1 to v1.0.2
+## ⬆️ Dependency updates
 
-Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from v1.0.1 to v1.0.2.
-- [Release notes](https://github.com/docker/setup-qemu-action/releases)
-- [Commits](https://github.com/docker/setup-qemu-action/compare/v1.0.1...25f0500ff22e406f7191a2a8ba8cda16901ca018)
-
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #57 from erik73/dependabot/github_actions/docker/setup-buildx-action-v1.1.2
-
-Bump docker/setup-buildx-action from v1.1.1 to v1.1.2 
-- Bump docker/setup-buildx-action from v1.1.1 to v1.1.2
-
-Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from v1.1.1 to v1.1.2.
-- [Release notes](https://github.com/docker/setup-buildx-action/releases)
-- [Commits](https://github.com/docker/setup-buildx-action/compare/v1.1.1...2a4b53665e15ce7d7049afb11ff1f70ff1610609)
-
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #56 from erik73/dependabot/github_actions/docker/build-push-action-v2.4.0
-
-Bump docker/build-push-action from v2.3.0 to v2.4.0 
-- Bump docker/build-push-action from v2.3.0 to v2.4.0
-
-Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from v2.3.0 to v2.4.0.
-- [Release notes](https://github.com/docker/build-push-action/releases)
-- [Commits](https://github.com/docker/build-push-action/compare/v2.3.0...e1b7f96249f2e4c8e4ac1519b9608c0d48944a1f)
-
-Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump docker/build-push-action from v2.3.0 to v2.4.0 @dependabot (#56)
+- Bump docker/setup-buildx-action from v1.1.1 to v1.1.2 @dependabot (#57)
+- Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 @dependabot (#58)
