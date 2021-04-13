@@ -1,20 +1,11 @@
-## What’s changed
+# Changelog since v1.2.0
+- Merge pull request #66 from erik73/dependabot/github_actions/actions/cache-v2.1.5
 
-- Config changes @erik73 (#61)
-- Another approach to config files @erik73 (#62)
-- Missing line feed @erik73 (#63)
+Bump actions/cache from v2.1.4 to v2.1.5 
+- Bump actions/cache from v2.1.4 to v2.1.5
 
-## ✨ New features
+Bumps [actions/cache](https://github.com/actions/cache) from v2.1.4 to v2.1.5.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Commits](https://github.com/actions/cache/compare/v2.1.4...1a9e2138d905efd099035b49d8b7a3888c653ca8)
 
-- Add auth to config files @erik73 (#60)
-
-## 📚 Documentation
-
-- Final fixes @erik73 (#64)
-- Fix spelling @erik73 (#65)
-
-## ⬆️ Dependency updates
-
-- Bump docker/build-push-action from v2.3.0 to v2.4.0 @dependabot (#56)
-- Bump docker/setup-buildx-action from v1.1.1 to v1.1.2 @dependabot (#57)
-- Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 @dependabot (#58)
+Signed-off-by: dependabot[bot] <support@github.com> 
