@@ -1,4 +1,8 @@
 # Changelog since v1.2.1
+- Merge pull request #48 from erik73/bump_mariadb
+
+Bump MariaDB version 
+- Bump MariaDB version 
 - Merge pull request #44 from erik73/dependabot/github_actions/brpaz/hadolint-action-v1.4.0
 
 Bump brpaz/hadolint-action from v1.3.1 to v1.4.0 
