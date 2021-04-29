@@ -1,10 +1,20 @@
 # Changelog since v1.1.6
+- Merge pull request #38 from erik73/dependabot/github_actions/docker/login-action-v1.9.0
+
+Bump docker/login-action from v1.8.0 to v1.9.0 
 - Merge pull request #37 from erik73/dependabot/github_actions/docker/setup-qemu-action-v1.1.0
 
 Bump docker/setup-qemu-action from v1.0.2 to v1.1.0 
 - Merge pull request #36 from erik73/dependabot/github_actions/docker/setup-buildx-action-v1.2.0
 
 Bump docker/setup-buildx-action from v1.1.2 to v1.2.0 
+- Bump docker/login-action from v1.8.0 to v1.9.0
+
+Bumps [docker/login-action](https://github.com/docker/login-action) from v1.8.0 to v1.9.0.
+- [Release notes](https://github.com/docker/login-action/releases)
+- [Commits](https://github.com/docker/login-action/compare/v1.8.0...28218f9b04b4f3f62068d7b6ce6ca5b26e35336c)
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Bump docker/setup-qemu-action from v1.0.2 to v1.1.0
 
 Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from v1.0.2 to v1.1.0.
