@@ -31,5 +31,5 @@ If you are more interested in stable releases of our add-ons:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-5174a53-blue.svg
-[release]: https://github.com/erik73/addon-tellsticklive/tree/5174a53
+[release-shield]: https://img.shields.io/badge/version-8648d62-blue.svg
+[release]: https://github.com/erik73/addon-tellsticklive/tree/8648d62
