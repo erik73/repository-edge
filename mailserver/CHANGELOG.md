@@ -1,4 +1,14 @@
 # Changelog since v1.2.0
+- Merge pull request #72 from erik73/dependabot/github_actions/docker/setup-buildx-action-v1.3.0
+
+Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 
+- Bump docker/setup-buildx-action from v1.2.0 to v1.3.0
+
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from v1.2.0 to v1.3.0.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v1.2.0...0d135e0c2fc0dba0729c1a47ecfcf5a3c7f8579e)
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #70 from erik73/dependabot/github_actions/docker/setup-qemu-action-v1.1.0
 
 Bump docker/setup-qemu-action from v1.0.2 to v1.1.0 
