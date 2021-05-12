@@ -1,4 +1,25 @@
 # Changelog since v1.2.0
+- Merge pull request #76 from erik73/dependabot/github_actions/brpaz/hadolint-action-1.5.0
+
+Bump brpaz/hadolint-action from 1.4.0 to 1.5.0 
+- Merge pull request #75 from erik73/dependabot/github_actions/frenck/action-addon-linter-2.1
+
+Bump frenck/action-addon-linter from 2 to 2.1 
+- Bump brpaz/hadolint-action from 1.4.0 to 1.5.0
+
+Bumps [brpaz/hadolint-action](https://github.com/brpaz/hadolint-action) from 1.4.0 to 1.5.0.
+- [Release notes](https://github.com/brpaz/hadolint-action/releases)
+- [Changelog](https://github.com/hadolint/hadolint-action/blob/master/.releaserc)
+- [Commits](https://github.com/brpaz/hadolint-action/compare/v1.4.0...v1.5.0)
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump frenck/action-addon-linter from 2 to 2.1
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2 to 2.1.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2...v2.1)
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #72 from erik73/dependabot/github_actions/docker/setup-buildx-action-v1.3.0
 
 Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 
