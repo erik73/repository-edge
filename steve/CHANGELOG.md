@@ -1,4 +1,14 @@
 # Changelog since v1.2.1
+- Merge pull request #53 from erik73/dependabot/github_actions/actions/stale-3.0.19
+
+Bump actions/stale from 3.0.18 to 3.0.19 
+- Bump actions/stale from 3.0.18 to 3.0.19
+
+Bumps [actions/stale](https://github.com/actions/stale) from 3.0.18 to 3.0.19.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.18...v3.0.19)
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #51 from erik73/dependabot/github_actions/brpaz/hadolint-action-1.5.0
 
 Bump brpaz/hadolint-action from 1.4.0 to 1.5.0 
