@@ -1,4 +1,8 @@
 # Changelog since v1.3.1
+- Merge pull request #65 from erik73/bump_mariadb
+
+Update mariadb 
+- Update mariadb 
 - Merge pull request #60 from erik73/dependabot/github_actions/frenck/action-addon-information-1.2
 
 Bump frenck/action-addon-information from 1.1 to 1.2 
