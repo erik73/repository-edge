@@ -1,4 +1,8 @@
 # Changelog since v1.2.0
+- Merge pull request #89 from erik73/update_base
+
+Base image update to Alpine 3.14 
+- Base image update to Alpine 3.14 
 - Merge pull request #88 from erik73/bump_postfixadmin
 
 Bump postfixadmin to 3.3.9 
