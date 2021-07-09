@@ -1,4 +1,8 @@
 # Changelog since v1.2.0
+- Merge pull request #88 from erik73/bump_postfixadmin
+
+Bump postfixadmin to 3.3.9 
+- Bump postfixadmin to 3.3.9 
 - Merge pull request #86 from erik73/dependabot/github_actions/docker/build-push-action-2.6.1
 
 Bump docker/build-push-action from 2.5.0 to 2.6.1 
