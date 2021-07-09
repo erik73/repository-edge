@@ -1,4 +1,16 @@
 # Changelog since v1.3.1
+- Merge pull request #66 from erik73/bump_openjdk
+
+Bump openjdk 
+- Merge pull request #67 from erik73/bump_maven
+
+Bump maven 
+- Merge pull request #68 from erik73/bump_alpine
+
+Update base image Alpine 3.14.0 
+- Bump Openjdk11 
+- Update maven 
+- Update base image Alpine 3.14.0 
 - Merge pull request #61 from erik73/dependabot/github_actions/docker/login-action-1.10.0
 
 Bump docker/login-action from 1.9.0 to 1.10.0 
