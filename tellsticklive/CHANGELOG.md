@@ -1,4 +1,8 @@
 # Changelog since v1.1.6
+- Merge pull request #54 from erik73/New_base_image
+
+Update base image 
+- Update base image 
 - Merge pull request #52 from erik73/dependabot/github_actions/docker/build-push-action-2.6.1
 
 Bump docker/build-push-action from 2.5.0 to 2.6.1 
