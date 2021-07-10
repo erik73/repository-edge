@@ -1,4 +1,8 @@
 # Changelog since v1.1.4
+- Merge pull request #58 from erik73/bump_base
+
+Update base image Alpine 3.14.0 
+- Update base image Alpine 3.14.0 
 - Merge pull request #56 from erik73/dependabot/github_actions/docker/build-push-action-2.6.1
 
 Bump docker/build-push-action from 2.5.0 to 2.6.1 
