@@ -1,10 +1,14 @@
 # Changelog since v1.2.1
+- Merge pull request #94 from RubenNL/plus-address-forwarding
+
+Allow plus address forwarding 
 - Merge pull request #93 from erik73/dependabot/github_actions/frenck/action-addon-linter-2.2
 
 Bump frenck/action-addon-linter from 2.1 to 2.2 
 - Merge pull request #92 from erik73/dependabot/github_actions/actions/stale-4
 
 Bump actions/stale from 3.0.19 to 4 
+- allow Plus address forwarding https://fvdm.com/code/plus-address-forwarding-in-postfix#toc-configuration-tldr 
 - Bump frenck/action-addon-linter from 2.1 to 2.2
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.1 to 2.2.
