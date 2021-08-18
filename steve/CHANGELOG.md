@@ -1,4 +1,8 @@
 # Changelog since v1.3.3
+- Merge pull request #74 from erik73/Bump_mariadb
+
+Bump mariadb-client 
+- Bump mariadb-client 
 - Merge pull request #71 from erik73/dependabot/github_actions/frenck/action-addon-linter-2.2
 
 Bump frenck/action-addon-linter from 2.1 to 2.2 
