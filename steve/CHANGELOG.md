@@ -1,8 +1,26 @@
 # Changelog since v1.3.3
+- Merge pull request #73 from erik73/dependabot/github_actions/dessant/lock-threads-2.1.2
+
+Bump dessant/lock-threads from 2.1.1 to 2.1.2 
 - Merge pull request #74 from erik73/Bump_mariadb
 
 Bump mariadb-client 
 - Bump mariadb-client 
+- Bump dessant/lock-threads from 2.1.1 to 2.1.2
+
+Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 2.1.1 to 2.1.2.
+- [Release notes](https://github.com/dessant/lock-threads/releases)
+- [Changelog](https://github.com/dessant/lock-threads/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/dessant/lock-threads/compare/v2.1.1...v2.1.2)
+
+---
+updated-dependencies:
+- dependency-name: dessant/lock-threads
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #71 from erik73/dependabot/github_actions/frenck/action-addon-linter-2.2
 
 Bump frenck/action-addon-linter from 2.1 to 2.2 
