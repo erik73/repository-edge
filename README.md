@@ -134,10 +134,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-mailfilter]: https://github.com/erik73/addon-mailfilter/tree/a7a1717
-[addon-doc-mailfilter]: https://github.com/erik73/addon-mailfilter/blob/a7a1717/README.md
+[addon-mailfilter]: https://github.com/erik73/addon-mailfilter/tree/6d79787
+[addon-doc-mailfilter]: https://github.com/erik73/addon-mailfilter/blob/6d79787/README.md
 [mailfilter-issue]: https://github.com/erik73/addon-mailfilter/issues
-[mailfilter-version-shield]: https://img.shields.io/badge/version-a7a1717-blue.svg
+[mailfilter-version-shield]: https://img.shields.io/badge/version-6d79787-blue.svg
 [mailfilter-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mailfilter-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mailfilter-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
