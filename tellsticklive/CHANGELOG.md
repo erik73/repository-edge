@@ -1,7 +1,24 @@
 # Changelog since v1.1.7
+- Merge pull request #65 from erik73/dependabot/github_actions/frenck/action-addon-linter-2.4
+
+Bump frenck/action-addon-linter from 2.3 to 2.4 
 - Merge pull request #64 from erik73/dependabot/github_actions/dessant/lock-threads-3
 
 Bump dessant/lock-threads from 2.1.2 to 3 
+- Bump frenck/action-addon-linter from 2.3 to 2.4
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.3 to 2.4.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.3...v2.4)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-linter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Bump dessant/lock-threads from 2.1.2 to 3
 
 Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 2.1.2 to 3.
