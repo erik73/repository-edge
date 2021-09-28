@@ -1,4 +1,22 @@
 # Changelog since v1.1.7
+- Merge pull request #64 from erik73/dependabot/github_actions/dessant/lock-threads-3
+
+Bump dessant/lock-threads from 2.1.2 to 3 
+- Bump dessant/lock-threads from 2.1.2 to 3
+
+Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 2.1.2 to 3.
+- [Release notes](https://github.com/dessant/lock-threads/releases)
+- [Changelog](https://github.com/dessant/lock-threads/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/dessant/lock-threads/compare/v2.1.2...v3)
+
+---
+updated-dependencies:
+- dependency-name: dessant/lock-threads
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #63 from erik73/dependabot/github_actions/creyD/prettier_action-4.0
 
 Bump creyD/prettier_action from 3.3 to 4.0 
