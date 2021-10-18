@@ -1,4 +1,22 @@
 # Changelog since v1.1.5
+- Merge pull request #71 from erik73/dependabot/github_actions/actions/checkout-2.3.5
+
+Bump actions/checkout from 2.3.4 to 2.3.5 
+- Bump actions/checkout from 2.3.4 to 2.3.5
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.4 to 2.3.5.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v2.3.4...v2.3.5)
+
+---
+updated-dependencies:
+- dependency-name: actions/checkout
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #69 from erik73/dependabot/github_actions/dessant/lock-threads-3
 
 Bump dessant/lock-threads from 2.1.2 to 3 
