@@ -1,4 +1,8 @@
 # Changelog since v1.1.5
+- Merge pull request #75 from erik73/update_base
+
+Update base image 
+- Update base image 
 - Merge pull request #73 from erik73/dependabot/github_actions/frenck/action-addon-linter-2.5
 
 Bump frenck/action-addon-linter from 2.4 to 2.5 
