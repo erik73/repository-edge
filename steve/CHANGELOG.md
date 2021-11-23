@@ -1,4 +1,10 @@
 # Changelog since v1.3.3
+- Merge pull request #88 from erik73/Update_base
+
+Update base 
+- Update build.json 
+- Update Dockerfile 
+- Update Dockerfile 
 - Merge pull request #86 from erik73/dependabot/github_actions/actions/checkout-2.4.0
 
 Bump actions/checkout from 2.3.5 to 2.4.0 
