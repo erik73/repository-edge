@@ -1,4 +1,8 @@
 # Changelog since v1.2.2
+- Merge pull request #112 from erik73/config
+
+enable ingress stream 
+- enable ingress stream 
 - Merge pull request #110 from erik73/update_base
 
 Update base 
