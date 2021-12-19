@@ -1,4 +1,12 @@
 # Changelog since v1.2.2
+- Merge pull request #110 from erik73/update_base
+
+Update base 
+- Merge pull request #111 from erik73/update_postfixadmin
+
+Bump Postfixadmin 
+- Alpine 3.15.0 
+- Bump Postfixadmin 
 - Merge pull request #109 from erik73/dependabot/github_actions/creyD/prettier_action-4.1.1
 
 Bump creyD/prettier_action from 4.0 to 4.1.1 
