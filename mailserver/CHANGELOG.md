@@ -1,4 +1,5 @@
 # Changelog since v1.2.2
+- Update config file för X-frame-options 
 - Go back to latest version 
 - Revert postfixadmin version 
 - Merge pull request #112 from erik73/config
