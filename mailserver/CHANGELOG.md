@@ -1,4 +1,5 @@
 # Changelog since v1.2.2
+- Go back to latest version 
 - Revert postfixadmin version 
 - Merge pull request #112 from erik73/config
 
