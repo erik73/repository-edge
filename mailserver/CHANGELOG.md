@@ -1,4 +1,6 @@
 # Changelog since v1.2.2
+- create config 
+- Fix typo 
 - Update config file för X-frame-options 
 - Go back to latest version 
 - Revert postfixadmin version 
