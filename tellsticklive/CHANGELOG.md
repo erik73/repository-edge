@@ -1,4 +1,21 @@
 # Changelog since v1.1.7
+- Merge pull request #73 from erik73/dependabot/github_actions/docker/login-action-1.12.0
+
+Bump docker/login-action from 1.10.0 to 1.12.0 
+- Bump docker/login-action from 1.10.0 to 1.12.0
+
+Bumps [docker/login-action](https://github.com/docker/login-action) from 1.10.0 to 1.12.0.
+- [Release notes](https://github.com/docker/login-action/releases)
+- [Commits](https://github.com/docker/login-action/compare/v1.10.0...v1.12.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/login-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #72 from erik73/dependabot/github_actions/creyD/prettier_action-4.1.1
 
 Bump creyD/prettier_action from 4.0 to 4.1.1 
