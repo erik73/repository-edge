@@ -1,7 +1,24 @@
 # Changelog since v1.2.3
+- Merge pull request #119 from erik73/dependabot/github_actions/release-drafter/release-drafter-5.17.6
+
+Bump release-drafter/release-drafter from 5.17.5 to 5.17.6 
 - Merge pull request #118 from erik73/dependabot/github_actions/docker/build-push-action-2.8.0
 
 Bump docker/build-push-action from 2.7.0 to 2.8.0 
+- Bump release-drafter/release-drafter from 5.17.5 to 5.17.6
+
+Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from 5.17.5 to 5.17.6.
+- [Release notes](https://github.com/release-drafter/release-drafter/releases)
+- [Commits](https://github.com/release-drafter/release-drafter/compare/v5.17.5...v5.17.6)
+
+---
+updated-dependencies:
+- dependency-name: release-drafter/release-drafter
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Bump docker/build-push-action from 2.7.0 to 2.8.0
 
 Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 2.7.0 to 2.8.0.
