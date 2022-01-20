@@ -29,5 +29,5 @@ If you are more interested in stable releases of our add-ons:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-b20847d-blue.svg
-[release]: https://github.com/erik73/addon-steve/tree/b20847d
+[release-shield]: https://img.shields.io/badge/version-744eebb-blue.svg
+[release]: https://github.com/erik73/addon-steve/tree/744eebb
