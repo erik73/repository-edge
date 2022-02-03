@@ -1,4 +1,8 @@
 # Changelog since v1.3.4
+- Merge pull request #103 from erik73/erik73-patch-1
+
+Update dependencies 
+- Update dependencies 
 - Merge pull request #101 from erik73/dependabot/github_actions/release-drafter/release-drafter-5.17.6
 
 Bump release-drafter/release-drafter from 5.17.5 to 5.17.6 
