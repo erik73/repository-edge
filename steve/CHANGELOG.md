@@ -1,8 +1,25 @@
 # Changelog since v1.3.4
+- Merge pull request #102 from erik73/dependabot/github_actions/docker/build-push-action-2.9.0
+
+Bump docker/build-push-action from 2.8.0 to 2.9.0 
 - Merge pull request #103 from erik73/erik73-patch-1
 
 Update dependencies 
 - Update dependencies 
+- Bump docker/build-push-action from 2.8.0 to 2.9.0
+
+Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 2.8.0 to 2.9.0.
+- [Release notes](https://github.com/docker/build-push-action/releases)
+- [Commits](https://github.com/docker/build-push-action/compare/v2.8.0...v2.9.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/build-push-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #101 from erik73/dependabot/github_actions/release-drafter/release-drafter-5.17.6
 
 Bump release-drafter/release-drafter from 5.17.5 to 5.17.6 
