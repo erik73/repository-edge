@@ -1,4 +1,21 @@
 # Changelog since v1.1.5
+- Merge pull request #87 from erik73/dependabot/github_actions/release-drafter/release-drafter-5.18.0
+
+Bump release-drafter/release-drafter from 5.17.6 to 5.18.0 
+- Bump release-drafter/release-drafter from 5.17.6 to 5.18.0
+
+Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from 5.17.6 to 5.18.0.
+- [Release notes](https://github.com/release-drafter/release-drafter/releases)
+- [Commits](https://github.com/release-drafter/release-drafter/compare/v5.17.6...v5.18.0)
+
+---
+updated-dependencies:
+- dependency-name: release-drafter/release-drafter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #86 from erik73/dependabot/github_actions/docker/build-push-action-2.9.0
 
 Bump docker/build-push-action from 2.8.0 to 2.9.0 
