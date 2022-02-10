@@ -1,4 +1,21 @@
 # Changelog since v1.1.5
+- Merge pull request #88 from erik73/dependabot/github_actions/release-drafter/release-drafter-5.18.1
+
+Bump release-drafter/release-drafter from 5.18.0 to 5.18.1 
+- Bump release-drafter/release-drafter from 5.18.0 to 5.18.1
+
+Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from 5.18.0 to 5.18.1.
+- [Release notes](https://github.com/release-drafter/release-drafter/releases)
+- [Commits](https://github.com/release-drafter/release-drafter/compare/v5.18.0...v5.18.1)
+
+---
+updated-dependencies:
+- dependency-name: release-drafter/release-drafter
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #87 from erik73/dependabot/github_actions/release-drafter/release-drafter-5.18.0
 
 Bump release-drafter/release-drafter from 5.17.6 to 5.18.0 
