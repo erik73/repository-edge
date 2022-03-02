@@ -1,4 +1,22 @@
 # Changelog since v1.2.3
+- Merge pull request #125 from erik73/dependabot/github_actions/actions/checkout-3
+
+Bump actions/checkout from 2.4.0 to 3 
+- Bump actions/checkout from 2.4.0 to 3
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 2.4.0 to 3.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v2.4.0...v3)
+
+---
+updated-dependencies:
+- dependency-name: actions/checkout
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #123 from erik73/dependabot/github_actions/docker/login-action-1.13.0
 
 Bump docker/login-action from 1.12.0 to 1.13.0 
