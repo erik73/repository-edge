@@ -1,7 +1,24 @@
 # Changelog since v1.2.3
+- Merge pull request #129 from erik73/dependabot/github_actions/release-drafter/release-drafter-5.19.0
+
+Bump release-drafter/release-drafter from 5.18.1 to 5.19.0 
 - Merge pull request #128 from erik73/dependabot/github_actions/frenck/action-addon-information-1.4
 
 Bump frenck/action-addon-information from 1.3 to 1.4 
+- Bump release-drafter/release-drafter from 5.18.1 to 5.19.0
+
+Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from 5.18.1 to 5.19.0.
+- [Release notes](https://github.com/release-drafter/release-drafter/releases)
+- [Commits](https://github.com/release-drafter/release-drafter/compare/v5.18.1...v5.19.0)
+
+---
+updated-dependencies:
+- dependency-name: release-drafter/release-drafter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Bump frenck/action-addon-information from 1.3 to 1.4
 
 Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.3 to 1.4.
