@@ -1,4 +1,38 @@
 # Changelog since v1.2.3
+- Merge pull request #128 from erik73/dependabot/github_actions/frenck/action-addon-information-1.4
+
+Bump frenck/action-addon-information from 1.3 to 1.4 
+- Bump frenck/action-addon-information from 1.3 to 1.4
+
+Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.3 to 1.4.
+- [Release notes](https://github.com/frenck/action-addon-information/releases)
+- [Commits](https://github.com/frenck/action-addon-information/compare/v1.3...v1.4)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-information
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Merge pull request #127 from erik73/dependabot/github_actions/frenck/action-addon-linter-2.8
+
+Bump frenck/action-addon-linter from 2.6 to 2.8 
+- Bump frenck/action-addon-linter from 2.6 to 2.8
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.6 to 2.8.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.6...v2.8)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-linter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #126 from erik73/dependabot/github_actions/docker/login-action-1.14.1
 
 Bump docker/login-action from 1.13.0 to 1.14.1 
