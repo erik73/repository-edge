@@ -1,4 +1,25 @@
 # Changelog since v1.3.4
+- Merge pull request #114 from erik73/dependabot/github_actions/actions/cache-3
+
+Bump actions/cache from 2.1.7 to 3 
+- Merge pull request #116 from erik73/update_dependencies
+
+Update Mariadb 
+- Update Mariadb 
+- Bump actions/cache from 2.1.7 to 3
+
+Bumps [actions/cache](https://github.com/actions/cache) from 2.1.7 to 3.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Commits](https://github.com/actions/cache/compare/v2.1.7...v3)
+
+---
+updated-dependencies:
+- dependency-name: actions/cache
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #113 from erik73/dependabot/github_actions/docker/build-push-action-2.10.0
 
 Bump docker/build-push-action from 2.9.0 to 2.10.0 
