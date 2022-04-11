@@ -1,4 +1,22 @@
 # Changelog since v1.1.5
+- Merge pull request #100 from erik73/dependabot/github_actions/actions/stale-5
+
+Bump actions/stale from 4 to 5 
+- Bump actions/stale from 4 to 5
+
+Bumps [actions/stale](https://github.com/actions/stale) from 4 to 5.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Changelog](https://github.com/actions/stale/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/stale/compare/v4...v5)
+
+---
+updated-dependencies:
+- dependency-name: actions/stale
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #98 from erik73/dependabot/github_actions/peter-evans/repository-dispatch-2
 
 Bump peter-evans/repository-dispatch from 1.1.3 to 2 
