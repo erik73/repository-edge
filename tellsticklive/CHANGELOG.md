@@ -1,4 +1,8 @@
 # Changelog since v1.1.7
+- Merge pull request #94 from erik73/update_alpine
+
+Alpine 3.15.4 
+- Alpine 3.15.4 
 - Merge pull request #93 from erik73/dependabot/github_actions/actions/stale-5
 
 Bump actions/stale from 4 to 5 
