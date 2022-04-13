@@ -1,5 +1,9 @@
-## What’s changed
+# Changelog since v1.1.7
+- Merge pull request #103 from erik73/test_version
 
-## ⬆️ Dependency updates
-
-- Revert lua @erik73 (#102)
+Rspamd 3.2 
+- Enable IPO 
+- turn off fortify 
+- Disable IPO 
+- Update LUA 
+- Test version 3.2 
