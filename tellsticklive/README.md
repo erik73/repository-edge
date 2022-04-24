@@ -29,7 +29,7 @@ If you are more interested in stable releases of our add-ons:
 
 <https://github.com/erik73/hassio-addons>
 
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-2a443bd-blue.svg
-[release]: https://github.com/erik73/addon-tellsticklive/tree/2a443bd
+[release-shield]: https://img.shields.io/badge/version-16aebd9-blue.svg
+[release]: https://github.com/erik73/addon-tellsticklive/tree/16aebd9
