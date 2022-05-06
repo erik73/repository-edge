@@ -1,4 +1,7 @@
 # Changelog since v1.2.5
+- Merge pull request #140 from erik73/dependabot/github_actions/docker/login-action-2.0.0
+
+Bump docker/login-action from 1.14.1 to 2.0.0 
 - Merge pull request #139 from erik73/dependabot/github_actions/docker/build-push-action-3.0.0
 
 Bump docker/build-push-action from 2.10.0 to 3.0.0 
@@ -22,6 +25,20 @@ Signed-off-by: dependabot[bot] <support@github.com>
 - Merge pull request #137 from erik73/dependabot/github_actions/docker/setup-buildx-action-2.0.0
 
 Bump docker/setup-buildx-action from 1.7.0 to 2.0.0 
+- Bump docker/login-action from 1.14.1 to 2.0.0
+
+Bumps [docker/login-action](https://github.com/docker/login-action) from 1.14.1 to 2.0.0.
+- [Release notes](https://github.com/docker/login-action/releases)
+- [Commits](https://github.com/docker/login-action/compare/v1.14.1...v2.0.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/login-action
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Bump docker/build-push-action from 2.10.0 to 3.0.0
 
 Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 2.10.0 to 3.0.0.
