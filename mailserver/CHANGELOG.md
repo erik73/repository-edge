@@ -1,4 +1,21 @@
 # Changelog since v1.2.5
+- Merge pull request #141 from erik73/dependabot/github_actions/release-drafter/release-drafter-5.20.0
+
+Bump release-drafter/release-drafter from 5.19.0 to 5.20.0 
+- Bump release-drafter/release-drafter from 5.19.0 to 5.20.0
+
+Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from 5.19.0 to 5.20.0.
+- [Release notes](https://github.com/release-drafter/release-drafter/releases)
+- [Commits](https://github.com/release-drafter/release-drafter/compare/v5.19.0...v5.20.0)
+
+---
+updated-dependencies:
+- dependency-name: release-drafter/release-drafter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #140 from erik73/dependabot/github_actions/docker/login-action-2.0.0
 
 Bump docker/login-action from 1.14.1 to 2.0.0 
