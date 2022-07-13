@@ -1,4 +1,21 @@
 # Changelog since v1.1.8
+- Merge pull request #102 from erik73/dependabot/github_actions/frenck/action-yamllint-1.2
+
+Bump frenck/action-yamllint from 1.1 to 1.2 
+- Bump frenck/action-yamllint from 1.1 to 1.2
+
+Bumps [frenck/action-yamllint](https://github.com/frenck/action-yamllint) from 1.1 to 1.2.
+- [Release notes](https://github.com/frenck/action-yamllint/releases)
+- [Commits](https://github.com/frenck/action-yamllint/compare/v1.1...v1.2)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-yamllint
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #101 from erik73/dependabot/github_actions/frenck/action-addon-linter-2.9
 
 Bump frenck/action-addon-linter from 2.8 to 2.9 
