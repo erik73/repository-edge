@@ -1,4 +1,8 @@
 # Changelog since v1.3.6
+- Merge pull request #129 from erik73/erik73-patch-1
+
+Update MariaDB 
+- Update MariaDB 
 - Merge pull request #126 from erik73/dependabot/github_actions/release-drafter/release-drafter-5.20.0
 
 Bump release-drafter/release-drafter from 5.19.0 to 5.20.0 
