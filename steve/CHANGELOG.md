@@ -1,4 +1,13 @@
 # Changelog since v1.3.6
+- Spelling 
+- Merge pull request #131 from erik73/update_base
+
+Update base and S6-overlay 
+- Update dependencies 
+- Update scripts for S6-overlay 3 
+- Executable 
+- Set executable 
+- New base image 
 - Merge pull request #130 from erik73/dependabot/github_actions/docker/build-push-action-3.1.0
 
 Bump docker/build-push-action from 3.0.0 to 3.1.0 
