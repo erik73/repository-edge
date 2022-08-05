@@ -1,4 +1,12 @@
 # Changelog since v1.2.5
+- keep version 
+- AARCH not nedded 
+- Define build ARCH 
+- Remove dual S6-arch 
+- Fix another Lint error 
+- Dockerfile lint error 
+- Fix config-script 
+- Do not install socklog 
 - Merge pull request #145 from erik73/update_alpine_S6-overlay
 
 Update alpine s6-overlay 
