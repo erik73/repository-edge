@@ -1,4 +1,12 @@
 # Changelog since v1.2.5
+- Merge pull request #145 from erik73/update_alpine_S6-overlay
+
+Update alpine s6-overlay 
+- Fix scripts for new S6-overlay 
+- Remove socklog 
+- Include overlay syslogd 
+- Make scripts executable 
+- Alpine 3.16.1 
 - Merge pull request #144 from erik73/dependabot/github_actions/docker/build-push-action-3.1.0
 
 Bump docker/build-push-action from 3.0.0 to 3.1.0 

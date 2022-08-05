@@ -1,6 +1,6 @@
 {
   "name": "Mailserver",
-  "version": "2c02b28",
+  "version": "634e6ad",
   "slug": "mailserver",
   "description": "Postfix and Dovecot mail server for Home Assistant, with Postfix Admin web interface",
   "url": "https://github.com/erik73/hassio-addons",
