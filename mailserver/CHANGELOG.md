@@ -1,4 +1,5 @@
 # Changelog since v1.2.5
+- Remove unused group 
 - keep version 
 - AARCH not nedded 
 - Define build ARCH 
