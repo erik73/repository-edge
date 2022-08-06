@@ -1,4 +1,5 @@
 # Changelog since v1.2.5
+- Do not set permission 
 - Test another group 
 - Remove unused group 
 - keep version 
