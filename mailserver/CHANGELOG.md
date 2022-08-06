@@ -1,4 +1,5 @@
 # Changelog since v1.2.5
+- Test another group 
 - Remove unused group 
 - keep version 
 - AARCH not nedded 
