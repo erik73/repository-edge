@@ -1,4 +1,5 @@
 # Changelog since v1.2.5
+- Add missing pipe 
 - Use PHP8 
 - No users file 
 - Do not set permission 
