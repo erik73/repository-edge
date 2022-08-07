@@ -1,4 +1,5 @@
 # Changelog since v1.2.5
+- Add syslog users 
 - Fixes for PHP8 
 - Add missing pipe 
 - Use PHP8 
