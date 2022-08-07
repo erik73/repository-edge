@@ -1,4 +1,5 @@
 # Changelog since v1.2.5
+- Use PHP8 
 - No users file 
 - Do not set permission 
 - Test another group 
