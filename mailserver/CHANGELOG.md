@@ -1,4 +1,6 @@
 # Changelog since v1.2.5
+- Merge branch 'main' of https://github.com/erik73/addon-mail into main 
+- Fix logging socket 
 - Merge pull request #146 from erik73/dependabot/github_actions/docker/build-push-action-3.1.1
 
 Bump docker/build-push-action from 3.1.0 to 3.1.1 
