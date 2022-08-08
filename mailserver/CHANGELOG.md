@@ -1,4 +1,5 @@
 # Changelog since v1.2.5
+- set s6 env 
 - Merge branch 'main' of https://github.com/erik73/addon-mail into main 
 - Fix logging socket 
 - Merge pull request #146 from erik73/dependabot/github_actions/docker/build-push-action-3.1.1
