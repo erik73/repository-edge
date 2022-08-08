@@ -1,6 +1,6 @@
 {
   "name": "Mailfilter",
-  "version": "3f7c119",
+  "version": "419614a",
   "slug": "mailfilter",
   "description": "Rspamd mailfilter for Home Assistant",
   "url": "https://github.com/erik73/hassio-addons",
