@@ -1,4 +1,5 @@
 # Changelog since v1.2.5
+- use php-fpm8 
 - set s6 env 
 - Merge branch 'main' of https://github.com/erik73/addon-mail into main 
 - Fix logging socket 
