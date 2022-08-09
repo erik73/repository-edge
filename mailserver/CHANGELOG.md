@@ -1,4 +1,5 @@
 # Changelog since v1.2.5
+- Next attempt fixing syslog 
 - Fix S6-syslog socket path 
 - use php-fpm8 
 - set s6 env 
