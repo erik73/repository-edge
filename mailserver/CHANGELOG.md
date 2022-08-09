@@ -1,4 +1,5 @@
 # Changelog since v1.2.5
+- Fix S6-syslog socket path 
 - use php-fpm8 
 - set s6 env 
 - Merge branch 'main' of https://github.com/erik73/addon-mail into main 
