@@ -1,4 +1,14 @@
 # Changelog since v2.0.0
+- Merge pull request #114 from erik73/s6-overlay_v3
+
+S6 overlay v3 
+- Setup S6-socklog 
+- Fix scripts for S6-overlay v3 
+- Make cont-init.d executable 
+- Make service scripts executable 
+- install syslogd-overlay 
+- Alpine 3.16.1 
+- Disable shellcheck SC2016 
 - Merge pull request #113 from erik73/dependabot/github_actions/docker/build-push-action-3.1.1
 
 Bump docker/build-push-action from 3.1.0 to 3.1.1 
