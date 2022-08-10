@@ -1,4 +1,7 @@
 # Changelog since v1.2.5
+- Disbale SC2016 Shellcheck 
+- Try to fix linting errors 
+- Avoid duplicated lines in logs 
 - Fix stdout 
 - Fix syntax 
 - Remove test 
