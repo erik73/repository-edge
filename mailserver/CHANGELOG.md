@@ -1,4 +1,5 @@
 # Changelog since v1.2.5
+- Try to get syslogd to stdout 
 - Remove S6-readonly ENV 
 - Next attempt fixing syslog 
 - Fix S6-syslog socket path 
