@@ -1,4 +1,5 @@
 # Changelog since v1.2.5
+- Fix stdout 
 - Fix syntax 
 - Remove test 
 - Try to get syslogd to stdout 
