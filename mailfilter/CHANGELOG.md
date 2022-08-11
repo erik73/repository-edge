@@ -1,4 +1,5 @@
 # Changelog since v2.0.0
+- Fix logging 
 - Merge pull request #114 from erik73/s6-overlay_v3
 
 S6 overlay v3 
