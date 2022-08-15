@@ -1,4 +1,14 @@
 # Changelog since v1.1.8
+- Merge pull request #105 from erik73/update_s6-overlay
+
+Update s6 overlay 
+- Use my fork for telldus 
+- Update build.json 
+- Alpine 3.16.2 
+- Try master branch for Telldus 
+- Adapt scripts for s6-overlay v3 
+- Make scripts executable 
+- Upgrade base image 
 - Merge pull request #104 from erik73/dependabot/github_actions/docker/build-push-action-3.1.1
 
 Bump docker/build-push-action from 3.1.0 to 3.1.1 
