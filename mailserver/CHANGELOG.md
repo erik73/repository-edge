@@ -1,7 +1,13 @@
-# Changelog since v1.2.6
-- Merge pull request #147 from RubenNL/max-size-25.6MB
+# Changelog since v1.2.7
+- Merge pull request #148 from RubenNL/configurable-message-size
 
-Allow messages with a max of 25.6MB, instead of the default 10. 
-- Allow messages with a max of 25.6MB, instead of the default 10.
-I choose 25.6 because i see that number a lot on the internet.
-The default 10MB is not enough for me, because lots of services (gmail for example) allows up to 25mb. 
+Configurable max message size. 
+- default value for bashio::config to prevent possible issues with existing config. 
+- Couple changes to make it easier to use.
+
+* Changed the config option to mb instead of bytes.
+* Made the default 10 mb instead of 50.
+* Updated the DOCS.md file. 
+- Remove space from replacement. 
+- Configurable max message size.
+My last change was not enough for the max of Gmail, for some reason. I have now doubled it again, and made it a config option, as you requested. 
