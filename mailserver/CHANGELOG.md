@@ -1,4 +1,8 @@
 # Changelog since v1.2.7
+- Merge pull request #149 from erik73/fix_cont-init
+
+Try to fix messagesize 
+- Try to fix messagesize 
 - Merge pull request #148 from RubenNL/configurable-message-size
 
 Configurable max message size. 
