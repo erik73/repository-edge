@@ -1,4 +1,13 @@
 # Changelog since v1.1.8
+- Merge pull request #106 from erik73/test_erik
+
+Test erik 
+- Update build.json 
+- Update Dockerfile 
+- Update build.json 
+- Update Dockerfile 
+- Update build.json 
+- Update Dockerfile 
 - Merge pull request #105 from erik73/update_s6-overlay
 
 Update s6 overlay 
