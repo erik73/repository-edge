@@ -1,4 +1,5 @@
 # Changelog since v1.1.8
+- Update run path 
 - Set init to false 
 - Merge pull request #106 from erik73/test_erik
 
