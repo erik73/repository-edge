@@ -1,4 +1,6 @@
 # Changelog since v1.1.8
+- Update build.json 
+- Update Dockerfile 
 - Update finish 
 - Update run 
 - Correct run path 
