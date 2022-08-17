@@ -1,4 +1,5 @@
 # Changelog since v1.1.8
+- Use another base image 
 - Update build.json 
 - Update Dockerfile 
 - Update finish 
