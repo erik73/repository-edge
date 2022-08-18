@@ -1,17 +1,18 @@
-# Changelog since v1.2.7
-- Merge pull request #149 from erik73/fix_cont-init
+# Changelog since v1.2.8
+- Merge pull request #150 from erik73/dependabot/github_actions/release-drafter/release-drafter-5.20.1
 
-Try to fix messagesize 
-- Try to fix messagesize 
-- Merge pull request #148 from RubenNL/configurable-message-size
+Bump release-drafter/release-drafter from 5.20.0 to 5.20.1 
+- Bump release-drafter/release-drafter from 5.20.0 to 5.20.1
 
-Configurable max message size. 
-- default value for bashio::config to prevent possible issues with existing config. 
-- Couple changes to make it easier to use.
+Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from 5.20.0 to 5.20.1.
+- [Release notes](https://github.com/release-drafter/release-drafter/releases)
+- [Commits](https://github.com/release-drafter/release-drafter/compare/v5.20.0...v5.20.1)
 
-* Changed the config option to mb instead of bytes.
-* Made the default 10 mb instead of 50.
-* Updated the DOCS.md file. 
-- Remove space from replacement. 
-- Configurable max message size.
-My last change was not enough for the max of Gmail, for some reason. I have now doubled it again, and made it a config option, as you requested. 
+---
+updated-dependencies:
+- dependency-name: release-drafter/release-drafter
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
