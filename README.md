@@ -161,10 +161,10 @@ SOFTWARE.
 [steve-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [steve-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [steve-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-tellsticklive]: https://github.com/erik73/addon-tellsticklive/tree/391f763
-[addon-doc-tellsticklive]: https://github.com/erik73/addon-tellsticklive/blob/391f763/README.md
+[addon-tellsticklive]: https://github.com/erik73/addon-tellsticklive/tree/9f3141e
+[addon-doc-tellsticklive]: https://github.com/erik73/addon-tellsticklive/blob/9f3141e/README.md
 [tellsticklive-issue]: https://github.com/erik73/addon-tellsticklive/issues
-[tellsticklive-version-shield]: https://img.shields.io/badge/version-391f763-blue.svg
+[tellsticklive-version-shield]: https://img.shields.io/badge/version-9f3141e-blue.svg
 [tellsticklive-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tellsticklive-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tellsticklive-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
