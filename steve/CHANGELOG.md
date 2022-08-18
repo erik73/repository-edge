@@ -1,4 +1,21 @@
 # Changelog since v1.3.7
+- Merge pull request #133 from erik73/dependabot/github_actions/release-drafter/release-drafter-5.20.1
+
+Bump release-drafter/release-drafter from 5.20.0 to 5.20.1 
+- Bump release-drafter/release-drafter from 5.20.0 to 5.20.1
+
+Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from 5.20.0 to 5.20.1.
+- [Release notes](https://github.com/release-drafter/release-drafter/releases)
+- [Commits](https://github.com/release-drafter/release-drafter/compare/v5.20.0...v5.20.1)
+
+---
+updated-dependencies:
+- dependency-name: release-drafter/release-drafter
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #132 from erik73/dependabot/github_actions/docker/build-push-action-3.1.1
 
 Bump docker/build-push-action from 3.1.0 to 3.1.1 
