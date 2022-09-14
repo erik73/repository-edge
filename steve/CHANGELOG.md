@@ -1,4 +1,8 @@
 # Changelog since v1.3.7
+- Merge pull request #136 from erik73/erik73-dependencies
+
+Bump dependencies 
+- Bump dependencies 
 - Merge pull request #134 from erik73/dependabot/github_actions/frenck/action-addon-linter-2.10
 
 Bump frenck/action-addon-linter from 2.9 to 2.10 
