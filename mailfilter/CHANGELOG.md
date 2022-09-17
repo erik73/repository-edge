@@ -1,4 +1,21 @@
 # Changelog since v2.0.1
+- Merge pull request #118 from erik73/dependabot/github_actions/release-drafter/release-drafter-5.21.0
+
+Bump release-drafter/release-drafter from 5.20.1 to 5.21.0 
+- Bump release-drafter/release-drafter from 5.20.1 to 5.21.0
+
+Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from 5.20.1 to 5.21.0.
+- [Release notes](https://github.com/release-drafter/release-drafter/releases)
+- [Commits](https://github.com/release-drafter/release-drafter/compare/v5.20.1...v5.21.0)
+
+---
+updated-dependencies:
+- dependency-name: release-drafter/release-drafter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #117 from erik73/dependabot/github_actions/frenck/action-yamllint-1.3
 
 Bump frenck/action-yamllint from 1.2 to 1.3 
