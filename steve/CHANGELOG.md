@@ -1,4 +1,22 @@
 # Changelog since v1.3.7
+- Merge pull request #138 from erik73/dependabot/github_actions/actions/stale-6
+
+Bump actions/stale from 5 to 6 
+- Bump actions/stale from 5 to 6
+
+Bumps [actions/stale](https://github.com/actions/stale) from 5 to 6.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Changelog](https://github.com/actions/stale/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/stale/compare/v5...v6)
+
+---
+updated-dependencies:
+- dependency-name: actions/stale
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #137 from erik73/dependabot/github_actions/release-drafter/release-drafter-5.21.0
 
 Bump release-drafter/release-drafter from 5.20.1 to 5.21.0 
