@@ -1,4 +1,5 @@
 # Changelog since v1.3.7
+- Fix config error 
 - Run on localhost 
 - New conf 
 - Try new NGINX conf 
