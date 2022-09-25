@@ -1,4 +1,16 @@
 # Changelog since v1.3.7
+- Merge pull request #139 from erik73/web_interface
+
+Ingress Web interface 
+- NGINX config 
+- Use correct port 
+- Update NGINX config 
+- Enable nginx 
+- Add lint rules 
+- Fix dockerfile 
+- Fix lint 2 
+- Lint problems 1 
+- Use master branch of SteVe 
 - Merge pull request #138 from erik73/dependabot/github_actions/actions/stale-6
 
 Bump actions/stale from 5 to 6 
