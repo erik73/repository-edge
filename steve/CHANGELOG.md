@@ -1,4 +1,5 @@
 # Changelog since v1.3.7
+- Add ingress port 
 - Add Nginx init file 
 - Fix Nginx service files 
 - Merge pull request #139 from erik73/web_interface
