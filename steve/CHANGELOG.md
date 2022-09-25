@@ -1,4 +1,6 @@
 # Changelog since v1.3.7
+- New conf 
+- Try new NGINX conf 
 - Add ingress port 
 - Add Nginx init file 
 - Fix Nginx service files 
