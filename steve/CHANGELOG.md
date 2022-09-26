@@ -1,4 +1,6 @@
 # Changelog since v1.3.7
+- Add folder 
+- Remove file not nedded 
 - Fix config error 
 - Run on localhost 
 - New conf 
