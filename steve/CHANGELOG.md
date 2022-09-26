@@ -1,4 +1,6 @@
 # Changelog since v1.3.7
+- New NGINX conf 
+- Next test 
 - Add folder 
 - Remove file not nedded 
 - Fix config error 
