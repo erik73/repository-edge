@@ -1,4 +1,11 @@
 # Changelog since v2.0.1
+- Merge pull request #120 from erik73/rspamd_3.3
+
+Update Dockerfile 
+- Update base 
+- Update base 
+- Bump S6-overlay 
+- Update Dockerfile 
 - Merge pull request #119 from erik73/dependabot/github_actions/actions/stale-6
 
 Bump actions/stale from 5 to 6 
