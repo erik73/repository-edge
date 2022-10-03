@@ -1,4 +1,6 @@
 # Changelog since v1.1.8
+- Update build.json 
+- Update Dockerfile 
 - Merge pull request #111 from erik73/dependabot/github_actions/actions/stale-6
 
 Bump actions/stale from 5 to 6 
