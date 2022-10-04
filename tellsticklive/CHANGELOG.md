@@ -1,4 +1,5 @@
 # Changelog since v1.1.8
+- Init false 
 - Upgrade base 
 - Use my fork for telldus 
 - Update build.json 
