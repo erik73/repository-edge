@@ -1,6 +1,6 @@
 {
   "name": "TellStick with Telldus Live",
-  "version": "646182d",
+  "version": "1cf6133",
   "slug": "tellsticklive",
   "description": "TellStick and TellStick Duo service with Telldus Live",
   "url": "https://github.com/erik73/hassio-addons",
@@ -12,7 +12,6 @@
     "i386"
   ],
   "startup": "system",
-  "init": false,
   "stdin": true,
   "usb": true,
   "options": {
