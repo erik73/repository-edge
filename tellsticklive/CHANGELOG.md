@@ -1,7 +1,61 @@
 # Changelog since v1.1.8
+- Merge pull request #119 from erik73/dependabot/github_actions/docker/login-action-2.1.0
+
+Bump docker/login-action from 2.0.0 to 2.1.0 
+- Merge pull request #118 from erik73/dependabot/github_actions/docker/setup-qemu-action-2.1.0
+
+Bump docker/setup-qemu-action from 2.0.0 to 2.1.0 
+- Merge pull request #117 from erik73/dependabot/github_actions/docker/setup-buildx-action-2.1.0
+
+Bump docker/setup-buildx-action from 2.0.0 to 2.1.0 
+- Merge pull request #116 from erik73/dependabot/github_actions/docker/build-push-action-3.2.0
+
+Bump docker/build-push-action from 3.1.1 to 3.2.0 
 - Merge pull request #115 from erik73/dependabot/github_actions/frenck/action-yamllint-1.3
 
 Bump frenck/action-yamllint from 1.2 to 1.3 
+- Bump docker/login-action from 2.0.0 to 2.1.0
+
+Bumps [docker/login-action](https://github.com/docker/login-action) from 2.0.0 to 2.1.0.
+- [Release notes](https://github.com/docker/login-action/releases)
+- [Commits](https://github.com/docker/login-action/compare/v2.0.0...v2.1.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/login-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump docker/setup-qemu-action from 2.0.0 to 2.1.0
+
+Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from 2.0.0 to 2.1.0.
+- [Release notes](https://github.com/docker/setup-qemu-action/releases)
+- [Commits](https://github.com/docker/setup-qemu-action/compare/v2.0.0...v2.1.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/setup-qemu-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump docker/setup-buildx-action from 2.0.0 to 2.1.0
+
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 2.0.0 to 2.1.0.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v2.0.0...v2.1.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/setup-buildx-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #114 from erik73/dependabot/github_actions/actions/stale-6
 
 Bump actions/stale from 5 to 6 
@@ -11,6 +65,20 @@ Bump release-drafter/release-drafter from 5.20.0 to 5.21.0
 - Merge pull request #112 from erik73/dependabot/github_actions/frenck/action-addon-linter-2.10
 
 Bump frenck/action-addon-linter from 2.9 to 2.10 
+- Bump docker/build-push-action from 3.1.1 to 3.2.0
+
+Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 3.1.1 to 3.2.0.
+- [Release notes](https://github.com/docker/build-push-action/releases)
+- [Commits](https://github.com/docker/build-push-action/compare/v3.1.1...v3.2.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/build-push-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Bump frenck/action-yamllint from 1.2 to 1.3
 
 Bumps [frenck/action-yamllint](https://github.com/frenck/action-yamllint) from 1.2 to 1.3.
