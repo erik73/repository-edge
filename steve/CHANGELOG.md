@@ -1,4 +1,5 @@
 # Changelog since v1.3.7
+- New base and new steve version 
 - Merge pull request #143 from erik73/dependabot/github_actions/docker/login-action-2.1.0
 
 Bump docker/login-action from 2.0.0 to 2.1.0 
