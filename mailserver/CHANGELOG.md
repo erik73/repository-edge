@@ -1,4 +1,21 @@
 # Changelog since v1.2.8
+- Merge pull request #162 from erik73/dependabot/github_actions/docker/setup-buildx-action-2.2.1
+
+Bump docker/setup-buildx-action from 2.2.0 to 2.2.1 
+- Bump docker/setup-buildx-action from 2.2.0 to 2.2.1
+
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 2.2.0 to 2.2.1.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v2.2.0...v2.2.1)
+
+---
+updated-dependencies:
+- dependency-name: docker/setup-buildx-action
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #161 from erik73/dependabot/github_actions/release-drafter/release-drafter-5.21.1
 
 Bump release-drafter/release-drafter from 5.21.0 to 5.21.1 
