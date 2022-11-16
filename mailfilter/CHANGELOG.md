@@ -1,4 +1,8 @@
 # Changelog since v2.0.2
+- Merge pull request #130 from erik73/bump-rspamd
+
+Rspamd 3.4 
+- Rspamd 3.4 
 - Merge pull request #127 from erik73/dependabot/github_actions/docker/setup-buildx-action-2.2.1
 
 Bump docker/setup-buildx-action from 2.2.0 to 2.2.1 
