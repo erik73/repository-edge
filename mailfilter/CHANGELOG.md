@@ -1,4 +1,9 @@
 # Changelog since v2.0.2
+- Merge pull request #131 from erik73/update-base
+
+Update base image 
+- Update base 
+- Update base 
 - Merge pull request #130 from erik73/bump-rspamd
 
 Rspamd 3.4 
