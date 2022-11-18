@@ -1,4 +1,8 @@
 # Changelog since v1.3.7
+- Merge pull request #147 from erik73/update-base
+
+Alpine 3.16.3 
+- Alpine 3.16.3 
 - Merge pull request #146 from erik73/dependabot/github_actions/docker/setup-buildx-action-2.2.1
 
 Bump docker/setup-buildx-action from 2.2.0 to 2.2.1 
