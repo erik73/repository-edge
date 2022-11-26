@@ -1,4 +1,8 @@
 # Changelog since v1.2.9
+- Merge pull request #167 from erik73/php-fpm
+
+Use php-fpm81 
+- Use php-fpm81 
 - Merge pull request #166 from erik73/fix_init_script
 
 Fix init script to use PHP81 
