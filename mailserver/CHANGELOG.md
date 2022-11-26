@@ -1,4 +1,8 @@
 # Changelog since v1.2.9
+- Merge pull request #168 from erik73/move_config
+
+Rename php config directory 
+- Rename php config directory 
 - Merge pull request #167 from erik73/php-fpm
 
 Use php-fpm81 
