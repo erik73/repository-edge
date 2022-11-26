@@ -1,4 +1,5 @@
-# Changelog since v2.0.0
-- Remove ingress 
-- Merge branch 'main' of https://github.com/erik73/addon-steve 
-- Fix web interface 
+## What’s changed
+
+## ⬆️ Dependency updates
+
+- Alpine 3.17.0 @erik73 (#148)
