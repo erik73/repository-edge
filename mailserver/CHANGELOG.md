@@ -1,4 +1,8 @@
 # Changelog since v1.2.9
+- Merge pull request #169 from erik73/move_config
+
+Use correct directory name for php81 
+- Use correct directory name for php81 
 - Merge pull request #168 from erik73/move_config
 
 Rename php config directory 
