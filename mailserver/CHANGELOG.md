@@ -1,25 +1,19 @@
-# Changelog since v1.2.9
-- Merge pull request #169 from erik73/move_config
+# Changelog since v1.2.10
+- Merge pull request #170 from erik73/dependabot/github_actions/dessant/lock-threads-4
 
-Use correct directory name for php81 
-- Use correct directory name for php81 
-- Merge pull request #168 from erik73/move_config
+Bump dessant/lock-threads from 3 to 4 
+- Bump dessant/lock-threads from 3 to 4
 
-Rename php config directory 
-- Rename php config directory 
-- Merge pull request #167 from erik73/php-fpm
+Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 3 to 4.
+- [Release notes](https://github.com/dessant/lock-threads/releases)
+- [Changelog](https://github.com/dessant/lock-threads/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/dessant/lock-threads/compare/v3...v4)
 
-Use php-fpm81 
-- Use php-fpm81 
-- Merge pull request #166 from erik73/fix_init_script
+---
+updated-dependencies:
+- dependency-name: dessant/lock-threads
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
 
-Fix init script to use PHP81 
-- Fix init script to use PHP81 
-- Merge pull request #165 from erik73/bump_php81
-
-Use PHP 8.1 
-- Use PHP 8.1 
-- Merge pull request #164 from erik73/bump_alpine
-
-Alpine 3.17.0 
-- Alpine 3.17.0 
+Signed-off-by: dependabot[bot] <support@github.com> 
