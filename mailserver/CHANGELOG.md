@@ -1,4 +1,8 @@
 # Changelog since v1.2.10
+- Merge pull request #171 from erik73/bump_postfixadmin
+
+Postfixadmin 3.3.12 
+- Postfixadmin 3.3.12 
 - Merge pull request #170 from erik73/dependabot/github_actions/dessant/lock-threads-4
 
 Bump dessant/lock-threads from 3 to 4 
