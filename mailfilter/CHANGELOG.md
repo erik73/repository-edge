@@ -1,4 +1,5 @@
 # Changelog since v2.0.5
+- Update 10-create_config.sh 
 - Merge pull request #135 from erik73/dkim_signing
 
 dkim_signing 
