@@ -1,4 +1,8 @@
 # Changelog since v2.0.5
+- Merge pull request #135 from erik73/dkim_signing
+
+dkim_signing 
+- dkim_signing 
 - Merge pull request #133 from erik73/dependabot/github_actions/dessant/lock-threads-4
 
 Bump dessant/lock-threads from 3 to 4 
