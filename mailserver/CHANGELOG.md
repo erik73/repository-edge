@@ -1,5 +1,5 @@
-## What’s changed
+# Changelog since v1.2.12
+- Merge pull request #174 from erik73/bump_postfixadmin
 
-## 🐛 Bug fixes
-
-- Fix php8 to php81 @DvinPROG (#172)
+Postfixadmin 3.3.13 
+- Postfixadmin 3.3.13 
