@@ -1,4 +1,9 @@
 # Changelog since v1.2.13
+- Merge pull request #176 from erik73/update_documentation
+
+Update documentation 
+- Prettified Code! 
+- Update docs 
 - Merge pull request #175 from erik73/dependabot/github_actions/actionshub/markdownlint-2.1.2
 
 Bump actionshub/markdownlint from 2.0.2 to 2.1.2 
