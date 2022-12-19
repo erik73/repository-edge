@@ -1,4 +1,12 @@
 # Changelog since v2.1.0
+- Update 10-create_config.sh 
+- Update DOCS.md 
+- Update DOCS.md 
+- Update DOCS.md 
+- Update DOCS.md 
+- Update DOCS.md 
+- Prettified Code! 
+- Update DOCS.md 
 - Prettified Code! 
 - Create DOCS.md 
 - Merge pull request #136 from erik73/dependabot/github_actions/actionshub/markdownlint-2.1.2
