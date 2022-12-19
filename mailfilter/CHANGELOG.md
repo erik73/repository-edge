@@ -1,4 +1,6 @@
 # Changelog since v2.1.0
+- Update README.md 
+- Update .mdlrc 
 - Update 10-create_config.sh 
 - Update DOCS.md 
 - Update DOCS.md 
