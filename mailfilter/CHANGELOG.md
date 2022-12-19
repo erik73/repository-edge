@@ -1,26 +1,20 @@
-# Changelog since v2.0.5
-- Fix config files 
-- Update config.json 
-- Update 10-create_config.sh 
-- Merge pull request #135 from erik73/dkim_signing
+# Changelog since v2.1.0
+- Prettified Code! 
+- Create DOCS.md 
+- Merge pull request #136 from erik73/dependabot/github_actions/actionshub/markdownlint-2.1.2
 
-dkim_signing 
-- dkim_signing 
-- Merge pull request #133 from erik73/dependabot/github_actions/dessant/lock-threads-4
+Bump actionshub/markdownlint from 2.0.2 to 2.1.2 
+- Bump actionshub/markdownlint from 2.0.2 to 2.1.2
 
-Bump dessant/lock-threads from 3 to 4 
-- Bump dessant/lock-threads from 3 to 4
-
-Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 3 to 4.
-- [Release notes](https://github.com/dessant/lock-threads/releases)
-- [Changelog](https://github.com/dessant/lock-threads/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/dessant/lock-threads/compare/v3...v4)
+Bumps [actionshub/markdownlint](https://github.com/actionshub/markdownlint) from 2.0.2 to 2.1.2.
+- [Release notes](https://github.com/actionshub/markdownlint/releases)
+- [Commits](https://github.com/actionshub/markdownlint/compare/2.0.2...v2.1.2)
 
 ---
 updated-dependencies:
-- dependency-name: dessant/lock-threads
+- dependency-name: actionshub/markdownlint
   dependency-type: direct:production
-  update-type: version-update:semver-major
+  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com> 
