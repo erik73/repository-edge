@@ -1,4 +1,5 @@
 # Changelog since v2.0.2
+- Bump Git 
 - Merge pull request #149 from erik73/dependabot/github_actions/dessant/lock-threads-4
 
 Bump dessant/lock-threads from 3 to 4 
