@@ -1,30 +1,19 @@
-# Changelog since v2.1.0
-- Update README.md 
-- Update .mdlrc 
-- Update 10-create_config.sh 
-- Update DOCS.md 
-- Update DOCS.md 
-- Update DOCS.md 
-- Update DOCS.md 
-- Update DOCS.md 
-- Prettified Code! 
-- Update DOCS.md 
-- Prettified Code! 
-- Create DOCS.md 
-- Merge pull request #136 from erik73/dependabot/github_actions/actionshub/markdownlint-2.1.2
+# Changelog since v2.1.1
+- Merge pull request #137 from erik73/dependabot/github_actions/actions/stale-7
 
-Bump actionshub/markdownlint from 2.0.2 to 2.1.2 
-- Bump actionshub/markdownlint from 2.0.2 to 2.1.2
+Bump actions/stale from 6 to 7 
+- Bump actions/stale from 6 to 7
 
-Bumps [actionshub/markdownlint](https://github.com/actionshub/markdownlint) from 2.0.2 to 2.1.2.
-- [Release notes](https://github.com/actionshub/markdownlint/releases)
-- [Commits](https://github.com/actionshub/markdownlint/compare/2.0.2...v2.1.2)
+Bumps [actions/stale](https://github.com/actions/stale) from 6 to 7.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Changelog](https://github.com/actions/stale/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/stale/compare/v6...v7)
 
 ---
 updated-dependencies:
-- dependency-name: actionshub/markdownlint
+- dependency-name: actions/stale
   dependency-type: direct:production
-  update-type: version-update:semver-minor
+  update-type: version-update:semver-major
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com> 
