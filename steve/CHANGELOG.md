@@ -1,4 +1,22 @@
 # Changelog since v2.0.2
+- Merge pull request #152 from erik73/dependabot/github_actions/actions/stale-7
+
+Bump actions/stale from 6 to 7 
+- Bump actions/stale from 6 to 7
+
+Bumps [actions/stale](https://github.com/actions/stale) from 6 to 7.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Changelog](https://github.com/actions/stale/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/stale/compare/v6...v7)
+
+---
+updated-dependencies:
+- dependency-name: actions/stale
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #151 from erik73/dependabot/github_actions/actionshub/markdownlint-2.1.2
 
 Bump actionshub/markdownlint from 2.0.2 to 2.1.2 
