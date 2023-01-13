@@ -1,4 +1,21 @@
 # Changelog since v2.1.1
+- Merge pull request #139 from erik73/dependabot/github_actions/frenck/action-yamllint-1.4
+
+Bump frenck/action-yamllint from 1.3 to 1.4 
+- Bump frenck/action-yamllint from 1.3 to 1.4
+
+Bumps [frenck/action-yamllint](https://github.com/frenck/action-yamllint) from 1.3 to 1.4.
+- [Release notes](https://github.com/frenck/action-yamllint/releases)
+- [Commits](https://github.com/frenck/action-yamllint/compare/v1.3...v1.4)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-yamllint
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #138 from erik73/dependabot/github_actions/release-drafter/release-drafter-5.22.0
 
 Bump release-drafter/release-drafter from 5.21.1 to 5.22.0 
