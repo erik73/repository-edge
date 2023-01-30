@@ -1,4 +1,21 @@
 # Changelog since v1.2.13
+- Merge pull request #182 from erik73/dependabot/github_actions/ludeeus/action-shellcheck-2.0.0
+
+Bump ludeeus/action-shellcheck from 1.1.0 to 2.0.0 
+- Bump ludeeus/action-shellcheck from 1.1.0 to 2.0.0
+
+Bumps [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) from 1.1.0 to 2.0.0.
+- [Release notes](https://github.com/ludeeus/action-shellcheck/releases)
+- [Commits](https://github.com/ludeeus/action-shellcheck/compare/1.1.0...2.0.0)
+
+---
+updated-dependencies:
+- dependency-name: ludeeus/action-shellcheck
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #181 from erik73/dependabot/github_actions/frenck/action-addon-linter-2.11
 
 Bump frenck/action-addon-linter from 2.10 to 2.11 
