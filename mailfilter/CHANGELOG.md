@@ -1,4 +1,38 @@
 # Changelog since v2.1.1
+- Merge pull request #142 from erik73/dependabot/github_actions/docker/setup-buildx-action-2.3.0
+
+Bump docker/setup-buildx-action from 2.2.1 to 2.3.0 
+- Bump docker/setup-buildx-action from 2.2.1 to 2.3.0
+
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 2.2.1 to 2.3.0.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v2.2.1...v2.3.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/setup-buildx-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Merge pull request #141 from erik73/dependabot/github_actions/frenck/action-addon-linter-2.11
+
+Bump frenck/action-addon-linter from 2.10 to 2.11 
+- Bump frenck/action-addon-linter from 2.10 to 2.11
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.10 to 2.11.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.10...v2.11)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-linter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #140 from erik73/dependabot/github_actions/docker/build-push-action-3.3.0
 
 Bump docker/build-push-action from 3.2.0 to 3.3.0 
