@@ -1,4 +1,21 @@
 # Changelog since v1.1.8
+- Merge pull request #133 from erik73/dependabot/github_actions/docker/setup-buildx-action-2.4.0
+
+Bump docker/setup-buildx-action from 2.3.0 to 2.4.0 
+- Bump docker/setup-buildx-action from 2.3.0 to 2.4.0
+
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 2.3.0 to 2.4.0.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v2.3.0...v2.4.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/setup-buildx-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #132 from erik73/dependabot/github_actions/ludeeus/action-shellcheck-2.0.0
 
 Bump ludeeus/action-shellcheck from 1.1.0 to 2.0.0 
