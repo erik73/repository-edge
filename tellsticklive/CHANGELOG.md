@@ -1,4 +1,21 @@
 # Changelog since v1.1.8
+- Merge pull request #135 from erik73/dependabot/github_actions/docker/setup-buildx-action-2.4.1
+
+Bump docker/setup-buildx-action from 2.4.0 to 2.4.1 
+- Bump docker/setup-buildx-action from 2.4.0 to 2.4.1
+
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 2.4.0 to 2.4.1.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v2.4.0...v2.4.1)
+
+---
+updated-dependencies:
+- dependency-name: docker/setup-buildx-action
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #134 from erik73/dependabot/github_actions/docker/build-push-action-4.0.0
 
 Bump docker/build-push-action from 3.3.0 to 4.0.0 
