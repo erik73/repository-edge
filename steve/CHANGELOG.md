@@ -1,4 +1,5 @@
 # Changelog since v2.0.2
+- Bump MariaDB 
 - Merge pull request #162 from erik73/dependabot/github_actions/docker/setup-buildx-action-2.4.1
 
 Bump docker/setup-buildx-action from 2.4.0 to 2.4.1 
