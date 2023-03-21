@@ -1,4 +1,5 @@
 # Changelog since v2.1.2
+- Downgrade LUA 
 - Merge pull request #155 from erik73/rspamd_3.5
 
 Rspamd 3.5 
