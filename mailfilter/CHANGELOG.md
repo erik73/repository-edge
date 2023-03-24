@@ -1,4 +1,22 @@
 # Changelog since v2.1.2
+- Merge pull request #156 from erik73/dependabot/github_actions/actions/stale-8
+
+Bump actions/stale from 7 to 8 
+- Bump actions/stale from 7 to 8
+
+Bumps [actions/stale](https://github.com/actions/stale) from 7 to 8.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Changelog](https://github.com/actions/stale/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/stale/compare/v7...v8)
+
+---
+updated-dependencies:
+- dependency-name: actions/stale
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Downgrade LUA 
 - Merge pull request #155 from erik73/rspamd_3.5
 
