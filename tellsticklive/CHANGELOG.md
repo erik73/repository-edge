@@ -1,4 +1,5 @@
 # Changelog since v1.1.8
+- Add package versions 
 - Merge pull request #145 from erik73/Add-renovate
 
 Add renovate 
