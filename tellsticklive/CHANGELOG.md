@@ -1,4 +1,15 @@
 # Changelog since v1.1.8
+- Merge pull request #145 from erik73/Add-renovate
+
+Add renovate 
+- Prettified Code! 
+- Update base and add renovate 
+- Update base 
+- Fix yaml syntax 
+- Move to yaml 
+- Fix labels 
+- Fix syntax 
+- Update workflows 
 - Merge pull request #143 from erik73/dependabot/github_actions/docker/setup-buildx-action-2.5.0
 
 Bump docker/setup-buildx-action from 2.4.1 to 2.5.0 
