@@ -1,4 +1,37 @@
 # Changelog since v2.0.3
+- Merge pull request #175 from erik73/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v2.0.7 
+- ⬆️ Update Add-on base image to v2.0.7 
+- Create renovate.json 
+- Delete build.json 
+- Prettified Code! 
+- Delete config.json 
+- Create config.yaml 
+- Create build.yaml 
+- Delete renovate.json 
+- Merge pull request #173 from erik73/renovate/ghcr.io-erik73-base-amd64-2.x
+
+Update ghcr.io/erik73/base/amd64 Docker tag to v2.0.7 
+- Prettified Code! 
+- Update ghcr.io/erik73/base/amd64 Docker tag to v2.0.7 
+- Prettified Code! 
+- Create renovate.json 
+- Merge pull request #172 from erik73/renovate/configure
+
+Configure Renovate 
+- Update stale.yaml 
+- Update release-drafter.yaml 
+- Create pr-labels.yaml 
+- Update lock.yaml 
+- Update labels.yaml 
+- Update deploy.yaml 
+- Update ci.yaml 
+- Delete dependabot.yaml 
+- Delete renovate.json 
+- Create renovate.json 
+- Prettified Code! 
+- Add renovate.json 
 - Merge pull request #171 from erik73/dependabot/github_actions/actions/stale-8
 
 Bump actions/stale from 7 to 8 
