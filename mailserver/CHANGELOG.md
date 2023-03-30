@@ -1,4 +1,5 @@
 # Changelog since v1.2.14
+- Update Dockerfile 
 - Merge branch 'main' of https://github.com/erik73/addon-mail 
 - Add postfixadmin to Renovate 
 - Merge pull request #201 from erik73/renovate/just-containers-s6-overlay-3.x
