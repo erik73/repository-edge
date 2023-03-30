@@ -1,4 +1,10 @@
 # Changelog since v1.2.14
+- Merge pull request #197 from erik73/renovate/configure
+
+Configure Renovate 
+- Add package versions 
+- Prettified Code! 
+- Add renovate.json 
 - Merge pull request #196 from erik73/dependabot/github_actions/actions/stale-8
 
 Bump actions/stale from 7 to 8 
