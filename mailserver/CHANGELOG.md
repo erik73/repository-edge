@@ -1,4 +1,10 @@
 # Changelog since v1.2.14
+- Merge pull request #201 from erik73/renovate/just-containers-s6-overlay-3.x
+
+⬆️ Update just-containers/s6-overlay to v3.1.4.1 
+- ⬆️ Update just-containers/s6-overlay to v3.1.4.1 
+- Merge branch 'main' of https://github.com/erik73/addon-mail 
+- Remove php-cli and php-json 
 - Merge pull request #200 from erik73/renovate/add-on-base-image
 
 ⬆️ Update Add-on base image to v2.0.7 
