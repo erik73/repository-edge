@@ -1,4 +1,28 @@
 # Changelog since v1.2.14
+- Merge pull request #200 from erik73/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v2.0.7 
+- Disable SC2086 
+- Disable SC2086 
+- ⬆️ Update Add-on base image to v2.0.7 
+- Update 10-create-config.sh 
+- Update stale.yaml 
+- Update release-drafter.yaml 
+- Create pr-labels.yaml 
+- Update lock.yaml 
+- Update labels.yaml 
+- Update deploy.yaml 
+- Update ci.yaml 
+- Update renovate.json 
+- Update Dockerfile 
+- Prettified Code! 
+- Delete config.json 
+- Create config.yaml 
+- Delete build.json 
+- Create build.yaml 
+- Delete renovate.json 
+- Delete dependabot.yaml 
+- Create renovate.json 
 - Merge pull request #197 from erik73/renovate/configure
 
 Configure Renovate 
