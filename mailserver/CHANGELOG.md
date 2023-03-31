@@ -1,4 +1,6 @@
 # Changelog since v1.2.14
+- Fix shellcheck 
+- Socklog 
 - PHP81 
 - Update Dockerfile 
 - Merge branch 'main' of https://github.com/erik73/addon-mail 
