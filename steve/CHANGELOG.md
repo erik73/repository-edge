@@ -1,4 +1,6 @@
 # Changelog since v2.0.3
+- Update renovate.json 
+- Update Dockerfile 
 - Add SteVe to renovate 
 - ⬆️ Update Add-on base image to v2.0.8 
 - Add SteVe to renovate 
