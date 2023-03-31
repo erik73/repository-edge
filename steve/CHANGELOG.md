@@ -1,4 +1,5 @@
 # Changelog since v2.0.3
+- Add SteVe to renovate 
 - ⬆️ Update Add-on base image to v2.0.8 
 - Add SteVe to renovate 
 - Add SteVe to Renovate 
