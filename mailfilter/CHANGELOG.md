@@ -1,4 +1,11 @@
 # Changelog since v2.1.2
+- Merge pull request #166 from erik73/native_rspamd
+
+Native rspamd 
+- Add aditional packages 
+- Speeling mistake 
+- Fix dockerfile syntax 
+- Use Alpine native Rspamd 
 - Merge pull request #164 from erik73/renovate/rspamd-rspamd-3.x
 
 ⬆️ Update rspamd/rspamd to v3.5 
