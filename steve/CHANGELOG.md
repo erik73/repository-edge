@@ -1,5 +1,6 @@
 # Changelog since v2.0.3
 - Update renovate.json 
+- Update renovate.json 
 - Update Dockerfile 
 - Update renovate.json 
 - Update renovate.json 
