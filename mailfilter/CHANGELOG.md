@@ -1,4 +1,38 @@
 # Changelog since v2.1.2
+- Merge pull request #164 from erik73/renovate/rspamd-rspamd-3.x
+
+⬆️ Update rspamd/rspamd to v3.5 
+- ⬆️ Update Add-on base image to v2.0.8 
+- ⬆️ Update rspamd/rspamd to v3.5 
+- Merge pull request #163 from erik73/renovate/add-on-base-image
+
+⬆️ Update ghcr.io/erik73/base/amd64 Docker tag to v2.0.8 
+- ⬆️ Update ghcr.io/erik73/base/amd64 Docker tag to v2.0.8 
+- Fix renovate 
+- test 
+- Add package rule 
+- Add quotes 
+- Use github tags 
+- Fix RSPAMD 
+- Add rspamd to dependencies 
+- Merge pull request #162 from erik73/renovate/alpine_3_17-openssl-dev-3.x
+
+⬆️ Update alpine_3_17/openssl-dev to v3.0.8-r3 
+- ⬆️ Update alpine_3_17/openssl-dev to v3.0.8-r3 
+- Merge pull request #161 from erik73/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v2.0.7 
+- ⬆️ Update Add-on base image to v2.0.7 
+- Merge pull request #160 from erik73/renovate-config
+
+Renovate config 
+- Fix shellcheck 
+- Fix renovate config 
+- Merge pull request #157 from erik73/renovate/configure
+
+Configure Renovate 
+- Prettified Code! 
+- Add renovate.json 
 - Merge pull request #156 from erik73/dependabot/github_actions/actions/stale-8
 
 Bump actions/stale from 7 to 8 
