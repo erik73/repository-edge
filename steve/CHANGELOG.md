@@ -1,4 +1,8 @@
 # Changelog since v2.0.3
+- Merge pull request #179 from erik73/renovate/steve-occp-3.x
+
+⬆️ Update SteVe OCCP to v3.5.0 
+- ⬆️ Update SteVe OCCP to v3.5.0 
 - Update renovate.json 
 - Update Dockerfile 
 - Update renovate.json 
