@@ -1,4 +1,5 @@
 # Changelog since v1.2.14
+- ⬆️ Update Add-on base image to v2.0.8 
 - Fix shellcheck 
 - Socklog 
 - PHP81 
