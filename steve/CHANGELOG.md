@@ -1,4 +1,6 @@
 # Changelog since v2.0.3
+- Add SteVe to renovate 
+- Add SteVe to Renovate 
 - Merge pull request #175 from erik73/renovate/add-on-base-image
 
 ⬆️ Update Add-on base image to v2.0.7 
