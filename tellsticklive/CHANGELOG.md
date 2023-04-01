@@ -1,4 +1,6 @@
 # Changelog since v1.1.8
+- Delete release-drafter.yml 
+- Delete labels.yml 
 - Add package versions 
 - Merge pull request #145 from erik73/Add-renovate
 
