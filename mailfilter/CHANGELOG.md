@@ -1,4 +1,8 @@
 # Changelog since v2.1.2
+- Merge pull request #167 from erik73/revert-166-native_rspamd
+
+Revert "Native rspamd" 
+- Revert "Native rspamd" 
 - Merge pull request #166 from erik73/native_rspamd
 
 Native rspamd 
