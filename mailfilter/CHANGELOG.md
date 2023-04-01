@@ -1,4 +1,6 @@
 # Changelog since v2.1.2
+- Delete release-drafter.yml 
+- Delete labels.yml 
 - Merge pull request #167 from erik73/revert-166-native_rspamd
 
 Revert "Native rspamd" 
