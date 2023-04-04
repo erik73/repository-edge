@@ -1,4 +1,8 @@
 # Changelog since v2.1.2
+- Merge pull request #168 from erik73/renovate/just-containers-s6-overlay-3.x
+
+⬆️ Update just-containers/s6-overlay to v3.1.4.2 
+- ⬆️ Update just-containers/s6-overlay to v3.1.4.2 
 - Delete release-drafter.yml 
 - Delete labels.yml 
 - Merge pull request #167 from erik73/revert-166-native_rspamd
