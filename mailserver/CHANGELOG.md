@@ -1,4 +1,6 @@
 # Changelog since v1.2.15
+- Update README.md 
+- Update .README.j2 
 - Merge pull request #205 from erik73/maintenance
 
 Year 2023 
