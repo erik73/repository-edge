@@ -1,4 +1,8 @@
 # Changelog since v2.1.2
+- Merge pull request #170 from erik73/alpine_rspamd
+
+Fix cont-init 
+- Fix cont-init 
 - Merge pull request #169 from erik73/alpine_rspamd
 
 Use rspamd Alpine build 
