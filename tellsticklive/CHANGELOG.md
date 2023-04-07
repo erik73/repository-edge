@@ -1,4 +1,5 @@
 # Changelog since v1.1.8
+- ⬆️ Update Add-on base image to v3.0.1 
 - 2023 
 - 2023 
 - 2023 
