@@ -1,4 +1,7 @@
 # Changelog since v1.1.8
+- 2023 
+- 2023 
+- 2023 
 - Merge pull request #147 from erik73/renovate/major-add-on-base-image
 
 ⬆️ Update Add-on base image to v3 (major) 
