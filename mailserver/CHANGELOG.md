@@ -1,4 +1,8 @@
 # Changelog since v1.2.16
+- Merge pull request #213 from erik73/renovate/alpine_3_17-php81-pdo_mysql-8.x
+
+⬆️ Update alpine_3_17/php81-pdo_mysql to v8.1.18-r0 
+- ⬆️ Update alpine_3_17/php81-pdo_mysql to v8.1.18-r0 
 - Merge pull request #212 from erik73/renovate/alpine_3_17-php81-session-8.x
 
 ⬆️ Update alpine_3_17/php81-session to v8.1.18-r0 
