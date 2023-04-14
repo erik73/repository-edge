@@ -1,4 +1,8 @@
 # Changelog since v1.2.16
+- Merge pull request #210 from erik73/renovate/alpine_3_17-php81-mysqli-8.x
+
+⬆️ Update alpine_3_17/php81-mysqli to v8.1.18-r0 
+- ⬆️ Update alpine_3_17/php81-mysqli to v8.1.18-r0 
 - Merge pull request #209 from erik73/renovate/alpine_3_17-php81-mbstring-8.x
 
 ⬆️ Update alpine_3_17/php81-mbstring to v8.1.18-r0 
