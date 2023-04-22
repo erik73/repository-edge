@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- ⬆️ Update Add-on base image to v2.0.11 
 - ⬆️ Update alpine_3_17/redis to v7.0.11-r0 
 - ⬆️ Update Add-on base image to v2.0.10 
 - Merge pull request #172 from erik73/renovate/add-on-base-image
