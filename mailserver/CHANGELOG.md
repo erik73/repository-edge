@@ -1,4 +1,5 @@
 # Changelog since v1.2.16
+- ⬆️ Update Add-on base image to v2.0.11 
 - ⬆️ Update Add-on base image to v2.0.10 
 - Merge pull request #213 from erik73/renovate/alpine_3_17-php81-pdo_mysql-8.x
 
