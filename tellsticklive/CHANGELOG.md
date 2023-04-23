@@ -1,4 +1,5 @@
 # Changelog since v1.1.8
+- ⬆️ Update Add-on base image to v3.0.2 
 - Merge pull request #149 from erik73/renovate/major-add-on-base-image
 
 ⬆️ Update Add-on base image to v3 (major) 
