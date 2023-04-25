@@ -1,4 +1,5 @@
 # Changelog since v1.2.16
+- Update renovate to group packages 
 - Group PHP updates in Renovate 
 - ⬆️ Update Add-on base image to v2.0.11 
 - ⬆️ Update Add-on base image to v2.0.10 
