@@ -1,4 +1,8 @@
 # Changelog since v3.0.0
+- Merge pull request #177 from erik73/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v2.0.12 
+- ⬆️ Update Add-on base image to v2.0.12 
 - Merge pull request #176 from erik73/renovate/just-containers-s6-overlay-3.x
 
 ⬆️ Update just-containers/s6-overlay to v3.1.5.0 
