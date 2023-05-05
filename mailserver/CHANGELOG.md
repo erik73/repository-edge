@@ -1,4 +1,8 @@
 # Changelog since v1.2.16
+- Merge pull request #216 from erik73/renovate/just-containers-s6-overlay-3.x
+
+⬆️ Update just-containers/s6-overlay to v3.1.5.0 
+- ⬆️ Update just-containers/s6-overlay to v3.1.5.0 
 - Update renovate to group packages 
 - Group PHP updates in Renovate 
 - ⬆️ Update Add-on base image to v2.0.11 
