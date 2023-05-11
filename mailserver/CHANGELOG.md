@@ -1,4 +1,8 @@
 # Changelog since v1.2.16
+- Merge pull request #224 from erik73/fix_version
+
+Fix package versions 
+- Fix package versions 
 - Merge pull request #223 from erik73/renovate/alpine_3_18-nginx-1.x
 
 ⬆️ Update alpine_3_18/nginx to v1.24.0-r3 
