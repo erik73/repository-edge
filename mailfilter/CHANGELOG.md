@@ -1,5 +1,6 @@
 # Changelog since v3.0.0
 - Update renovate package rules 
+- Update renovate package rules 
 - Update package rules 
 - Use Alpine 3.18 repo 
 - Merge pull request #177 from erik73/renovate/add-on-base-image
