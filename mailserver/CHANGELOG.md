@@ -1,4 +1,5 @@
 # Changelog since v1.2.16
+- Use Alpine 3.18 repo 
 - Merge pull request #217 from erik73/renovate/add-on-base-image
 
 ⬆️ Update Add-on base image to v2.0.12 
