@@ -1,4 +1,11 @@
 # Changelog since v3.0.0
+- Merge pull request #179 from erik73/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v2.0.13 
+- ⬆️ Update Add-on base image to v2.0.13 
+- Fix typo in docker file 
+- Remove packages not neeeded 
+- Package versions 
 - Update renovate package rules 
 - Update renovate package rules 
 - Update package rules 
