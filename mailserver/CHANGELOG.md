@@ -1,4 +1,24 @@
 # Changelog since v1.2.16
+- Merge pull request #223 from erik73/renovate/alpine_3_18-nginx-1.x
+
+⬆️ Update alpine_3_18/nginx to v1.24.0-r3 
+- ⬆️ Update alpine_3_18/nginx to v1.24.0-r3 
+- Merge pull request #222 from erik73/renovate/alpine_3_18-mariadb-client-10.x
+
+⬆️ Update alpine_3_18/mariadb-client to v10.11.2-r6 
+- ⬆️ Update alpine_3_18/mariadb-client to v10.11.2-r6 
+- Merge pull request #221 from erik73/renovate/postfix
+
+⬆️ Update Postfix to v3.8.0-r1 
+- ⬆️ Update Postfix to v3.8.0-r1 
+- Merge pull request #220 from erik73/renovate/alpine_3_18-rspamd-client-3.x
+
+⬆️ Update alpine_3_18/rspamd-client to v3.5-r7 
+- ⬆️ Update alpine_3_18/rspamd-client to v3.5-r7 
+- Merge pull request #218 from erik73/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v2.0.13 
+- ⬆️ Update Add-on base image to v2.0.13 
 - ⬆️ Update PHP to v8.1.19-r1 
 - Use Alpine 3.18 repo 
 - Merge pull request #217 from erik73/renovate/add-on-base-image
