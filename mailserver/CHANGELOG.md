@@ -1,4 +1,5 @@
 # Changelog since v1.2.16
+- ⬆️ Update PHP to v8.1.19-r1 
 - Use Alpine 3.18 repo 
 - Merge pull request #217 from erik73/renovate/add-on-base-image
 
