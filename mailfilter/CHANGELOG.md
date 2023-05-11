@@ -1,4 +1,16 @@
 # Changelog since v3.0.0
+- Merge pull request #182 from erik73/renovate/rspamd
+
+⬆️ Update Rspamd to v3.5-r7 
+- ⬆️ Update Rspamd to v3.5-r7 
+- Merge pull request #181 from erik73/renovate/major-clamav
+
+⬆️ Update Clamav to v1 (major) 
+- ⬆️ Update Clamav to v1 
+- Merge pull request #180 from erik73/renovate/alpine_3_18-nginx-1.x
+
+⬆️ Update alpine_3_18/nginx to v1.24.0-r3 
+- ⬆️ Update alpine_3_18/nginx to v1.24.0-r3 
 - Merge pull request #179 from erik73/renovate/add-on-base-image
 
 ⬆️ Update Add-on base image to v2.0.13 
