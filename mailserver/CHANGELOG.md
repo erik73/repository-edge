@@ -1,4 +1,5 @@
 # Changelog since v1.2.16
+- ⬆️ Update PHP to v8.1.19-r2 
 - Merge pull request #224 from erik73/fix_version
 
 Fix package versions 
