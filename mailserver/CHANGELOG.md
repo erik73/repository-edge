@@ -1,4 +1,8 @@
 # Changelog since v1.2.16
+- Merge pull request #226 from erik73/renovate/alpine_3_18-mariadb-client-10.x
+
+⬆️ Update alpine_3_18/mariadb-client to v10.11.3-r0 
+- ⬆️ Update alpine_3_18/mariadb-client to v10.11.3-r0 
 - ⬆️ Update PHP to v8.1.19-r2 
 - Merge pull request #224 from erik73/fix_version
 
