@@ -1,10 +1,5 @@
-# Changelog since v2.0.5
-- Use Alpine 3.18 repo 
-- Merge pull request #186 from erik73/renovate/add-on-base-image
+# Changelog since v2.0.6
+- Merge pull request #194 from erik73/renovate/alpine_3_18-mariadb-client-10.x
 
-⬆️ Update Add-on base image to v2.0.12 
-- ⬆️ Update Add-on base image to v2.0.12 
-- ⬆️ Update alpine_3_17/git to v2.38.5-r0 
-- ⬆️ Update alpine_3_17/openjdk11 to v11.0.19_p7-r0 
-- ⬆️ Update Add-on base image to v2.0.11 
-- ⬆️ Update Add-on base image to v2.0.10 
+⬆️ Update alpine_3_18/mariadb-client to v10.11.3-r0 
+- ⬆️ Update alpine_3_18/mariadb-client to v10.11.3-r0 
