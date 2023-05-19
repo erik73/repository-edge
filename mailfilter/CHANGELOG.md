@@ -1,4 +1,8 @@
 # Changelog since v3.0.0
+- Merge pull request #183 from erik73/hyperscan_fix
+
+Re-create Hyperscan files 
+- Re-create Hyperscan files 
 - Merge pull request #182 from erik73/renovate/rspamd
 
 ⬆️ Update Rspamd to v3.5-r7 
