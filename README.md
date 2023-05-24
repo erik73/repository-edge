@@ -152,10 +152,10 @@ SOFTWARE.
 [mailserver-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [mailserver-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [mailserver-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-steve]: https://github.com/erik73/addon-steve/tree/224465a
-[addon-doc-steve]: https://github.com/erik73/addon-steve/blob/224465a/README.md
+[addon-steve]: https://github.com/erik73/addon-steve/tree/953c76b
+[addon-doc-steve]: https://github.com/erik73/addon-steve/blob/953c76b/README.md
 [steve-issue]: https://github.com/erik73/addon-steve/issues
-[steve-version-shield]: https://img.shields.io/badge/version-224465a-blue.svg
+[steve-version-shield]: https://img.shields.io/badge/version-953c76b-blue.svg
 [steve-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [steve-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [steve-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
