@@ -1,5 +1,9 @@
-# Changelog since v2.0.8
-- Merge pull request #200 from erik73/fixes
+# Changelog since v2.0.9
+- Merge pull request #201 from erik73/renovate/alpine_3_18-mariadb-client-10.x
 
-Remove Maven memory limit 
-- Remove Maven memory limit 
+⬆️ Update alpine_3_18/mariadb-client to v10.11.4-r0 
+- ⬆️ Update alpine_3_18/mariadb-client to v10.11.4-r0 
+- Merge pull request #202 from erik73/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v2.0.15 
+- ⬆️ Update Add-on base image to v2.0.15 
