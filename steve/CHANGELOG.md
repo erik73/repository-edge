@@ -1,4 +1,8 @@
 # Changelog since v2.0.9
+- Merge pull request #203 from erik73/renovate/major-add-on-base-image
+
+⬆️ Update Add-on base image to v3 (major) 
+- ⬆️ Update Add-on base image to v3 
 - Merge pull request #201 from erik73/renovate/alpine_3_18-mariadb-client-10.x
 
 ⬆️ Update alpine_3_18/mariadb-client to v10.11.4-r0 
