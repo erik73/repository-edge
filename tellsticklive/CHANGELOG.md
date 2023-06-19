@@ -1,4 +1,40 @@
 # Changelog since v1.1.8
+- Update Dockerfile 
+- Update renovate.json 
+- Update renovate.json 
+- Merge pull request #160 from erik73/renovate/alpine_3_18-git-2.x
+
+⬆️ Update alpine_3_18/git to v2.40.1-r0 
+- ⬆️ Update alpine_3_18/git to v2.40.1-r0 
+- Merge pull request #159 from erik73/renovate/alpine_3_18-cmake-3.x
+
+⬆️ Update alpine_3_18/cmake to v3.26.4-r0 
+- ⬆️ Update alpine_3_18/cmake to v3.26.4-r0 
+- Merge pull request #158 from erik73/renovate/alpine_3_18-socat-1.x
+
+⬆️ Update alpine_3_18/socat to v1.7.4.4-r1 
+- ⬆️ Update alpine_3_18/socat to v1.7.4.4-r1 
+- Merge pull request #157 from erik73/renovate/alpine_3_18-confuse-dev-3.x
+
+⬆️ Update alpine_3_18/confuse-dev to v3.3-r3 
+- ⬆️ Update alpine_3_18/confuse-dev to v3.3-r3 
+- Merge pull request #156 from erik73/renovate/alpine_3_18-confuse-3.x
+
+⬆️ Update alpine_3_18/confuse to v3.3-r3 
+- Merge pull request #155 from erik73/renovate/alpine_3_18-argp-standalone-1.x
+
+⬆️ Update alpine_3_18/argp-standalone to v1.5.0-r1 
+- ⬆️ Update alpine_3_18/confuse to v3.3-r3 
+- ⬆️ Update alpine_3_18/argp-standalone to v1.5.0-r1 
+- Merge pull request #154 from erik73/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v3.0.8 
+- ⬆️ Update Add-on base image to v3.0.8 
+- Use 3.18 repo 
+- Merge pull request #153 from erik73/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v3.0.7 
+- ⬆️ Update Add-on base image to v3.0.7 
 - ⬆️ Update Add-on base image to v3.0.3 
 - ⬆️ Update alpine_3_17/git to v2.38.5-r0 
 - ⬆️ Update Add-on base image to v3.0.2 
