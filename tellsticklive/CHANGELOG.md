@@ -1,4 +1,8 @@
 # Changelog since v1.1.8
+- Merge pull request #161 from erik73/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v3.0.9 
+- ⬆️ Update Add-on base image to v3.0.9 
 - Update Dockerfile 
 - Update renovate.json 
 - Update renovate.json 
