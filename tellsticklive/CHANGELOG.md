@@ -1,4 +1,5 @@
 # Changelog since v1.1.8
+- ⬆️ Update alpine_3_18/cmake to v3.26.5-r0 
 - Merge pull request #161 from erik73/renovate/add-on-base-image
 
 ⬆️ Update Add-on base image to v3.0.9 
