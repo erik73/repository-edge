@@ -1,4 +1,5 @@
 # Changelog since v3.0.3
+- ⬆️ Update Add-on base image to v3.0.4 
 - Remove ARG that is not used anymore. 
 - ⬆️ Update Rspamd to v3.6-r0 
 - ⬆️ Update Add-on base image to v3.0.3 
