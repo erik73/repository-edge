@@ -1,4 +1,8 @@
 # Changelog since v1.2.21
+- Merge pull request #250 from erik73/renovate/dovecot
+
+⬆️ Update Dovecot to v2.3.20-r11 
+- ⬆️ Update Dovecot to v2.3.20-r11 
 - Merge pull request #249 from erik73/renovate/add-on-base-image
 
 ⬆️ Update Add-on base image to v3.0.7 
