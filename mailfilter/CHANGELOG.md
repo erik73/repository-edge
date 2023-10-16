@@ -1,3 +1,2 @@
-# Changelog since v3.1.0
-- ⬆️ Update Add-on base image to v3.0.7 
-- ⬆️ Update Add-on base image to v3.0.6 
+# Changelog since v3.1.1
+- ⬆️ Update alpine_3_18/nginx to v1.24.0-r7 
