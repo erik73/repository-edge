@@ -1,14 +1,2 @@
-# Changelog since v1.2.21
-- Merge pull request #250 from erik73/renovate/dovecot
-
-⬆️ Update Dovecot to v2.3.20-r11 
-- ⬆️ Update Dovecot to v2.3.20-r11 
-- Merge pull request #249 from erik73/renovate/add-on-base-image
-
-⬆️ Update Add-on base image to v3.0.7 
-- ⬆️ Update Add-on base image to v3.0.7 
-- ⬆️ Update Add-on base image to v3.0.6 
-- ⬆️ Update alpine_3_18/mariadb-client to v10.11.5-r0 
-- ⬆️ Update Postfix to v3.8.2-r0 
-- ⬆️ Update PHP to v8.1.23-r0 
-- ⬆️ Update Add-on base image to v3.0.5 
+# Changelog since v2.0.0
+- ⬆️ Update alpine_3_18/nginx to v1.24.0-r7 
