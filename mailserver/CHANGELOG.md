@@ -1,4 +1,8 @@
 # Changelog since v2.0.0
+- Merge pull request #255 from erik73/renovate/just-containers-s6-overlay-3.x
+
+⬆️ Update just-containers/s6-overlay to v3.1.6.0 
+- ⬆️ Update just-containers/s6-overlay to v3.1.6.0 
 - ⬆️ Update PHP to v8.1.25-r0 
 - ⬆️ Update Postfix to v3.8.3-r0 
 - ⬆️ Update Add-on base image to v3.0.9 
