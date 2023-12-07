@@ -1,4 +1,5 @@
 # Changelog since v1.1.8
+- Prepare for Alpine 3.19 
 - ⬆️ Update Add-on base image to v3.0.15 
 - ⬆️ Update Add-on base image to v3.0.14 
 - ⬆️ Update Add-on base image to v3.0.13 
