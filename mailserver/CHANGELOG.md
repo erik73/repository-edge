@@ -1,4 +1,5 @@
 # Changelog since v2.0.1
+- ⬆️ Update alpine_3_19/rspamd-client to v3.7.4-r0 
 - ⬆️ Update alpine_3_19/mariadb-client to v10.11.5-r3 
 - ⬆️ Update Postfix to v3.8.3-r1 
 - ⬆️ Update Dovecot to v2.3.21-r17 
