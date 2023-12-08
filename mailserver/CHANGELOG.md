@@ -1,4 +1,8 @@
 # Changelog since v2.0.1
+- Merge pull request #267 from erik73/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v3.0.13 
+- ⬆️ Update Add-on base image to v3.0.13 
 - ⬆️ Update alpine_3_19/rspamd-client to v3.7.4-r0 
 - ⬆️ Update alpine_3_19/mariadb-client to v10.11.5-r3 
 - ⬆️ Update Postfix to v3.8.3-r1 
