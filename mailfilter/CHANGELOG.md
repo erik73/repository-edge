@@ -1,4 +1,8 @@
 # Changelog since v3.1.2
+- Merge pull request #218 from erik73/Fix_Hyperscan
+
+Recreate Hyperscan files 
+- Recreate Hyperscan files 
 - Update Dockerfile 
 - Merge pull request #216 from erik73/renovate/alpine_3_19-redis-7.x
 
