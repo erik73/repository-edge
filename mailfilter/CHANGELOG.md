@@ -1,4 +1,6 @@
 # Changelog since v3.1.2
+- Change memory recommendation 
+- Update .README.j2 
 - Merge pull request #219 from erik73/cleanup
 
 clean up script file 
