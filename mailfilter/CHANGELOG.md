@@ -1,4 +1,8 @@
 # Changelog since v3.1.2
+- Merge pull request #219 from erik73/cleanup
+
+clean up script file 
+- clean up script file 
 - Merge pull request #218 from erik73/Fix_Hyperscan
 
 Recreate Hyperscan files 
