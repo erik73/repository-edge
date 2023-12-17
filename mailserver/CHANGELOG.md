@@ -1,4 +1,5 @@
 # Changelog since v2.0.1
+- ⬆️ Update PHP to v8.1.26-r1 
 - Merge pull request #267 from erik73/renovate/add-on-base-image
 
 ⬆️ Update Add-on base image to v3.0.13 
