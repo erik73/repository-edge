@@ -1,4 +1,5 @@
 # Changelog since v2.0.1
+- ⬆️ Update Postfix to v3.8.4-r0 
 - ⬆️ Update PHP to v8.1.27-r0 
 - ⬆️ Update alpine_3_19/nginx to v1.24.0-r14 
 - ⬆️ Update PHP to v8.1.26-r1 

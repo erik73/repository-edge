@@ -1,5 +1,5 @@
 name: Mailserver
-version: 003e804
+version: d819693
 slug: mailserver
 description: Postfix and Dovecot mail server for Home Assistant, with Postfix Admin
   web interface
