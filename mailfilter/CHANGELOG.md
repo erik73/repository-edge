@@ -1,4 +1,13 @@
 # Changelog since v3.1.2
+- Merge pull request #220 from erik73/testing
+
+Try Alpine 3.7.5 
+- Update Dockerfile 
+- Update Dockerfile 
+- Update Dockerfile 
+- Update Dockerfile 
+- Update Dockerfile 
+- Try edge 
 - Change memory recommendation 
 - Update .README.j2 
 - Merge pull request #219 from erik73/cleanup
