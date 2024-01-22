@@ -1,4 +1,44 @@
 # Changelog since v1.1.8
+- Merge pull request #178 from erik73/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v3.0.16 
+- ⬆️ Update Add-on base image to v3.0.16 
+- Merge pull request #177 from erik73/renovate/alpine_3_19-libstdc++-13.x
+
+⬆️ Update alpine_3_19/libstdc++ to v13 
+- ⬆️ Update alpine_3_19/libstdc++ to v13 
+- Merge pull request #176 from erik73/renovate/alpine_3_19-gcc-13.x
+
+⬆️ Update alpine_3_19/gcc to v13 
+- ⬆️ Update alpine_3_19/gcc to v13 
+- Merge pull request #175 from erik73/renovate/alpine_3_19-socat-1.x
+
+⬆️ Update alpine_3_19/socat to v1.8.0.0-r0 
+- ⬆️ Update alpine_3_19/socat to v1.8.0.0-r0 
+- Merge pull request #174 from erik73/renovate/alpine_3_19-git-2.x
+
+⬆️ Update alpine_3_19/git to v2.43.0-r0 
+- ⬆️ Update alpine_3_19/git to v2.43.0-r0 
+- Merge pull request #173 from erik73/renovate/alpine_3_19-cmake-3.x
+
+⬆️ Update alpine_3_19/cmake to v3.27.8-r0 
+- ⬆️ Update alpine_3_19/cmake to v3.27.8-r0 
+- Merge pull request #172 from erik73/renovate/alpine_3_19-libftdi1-dev-1.x
+
+⬆️ Update alpine_3_19/libftdi1-dev to v1.5-r2 
+- ⬆️ Update alpine_3_19/libftdi1-dev to v1.5-r2 
+- Merge pull request #171 from erik73/renovate/alpine_3_19-libftdi1-1.x
+
+⬆️ Update alpine_3_19/libftdi1 to v1.5-r2 
+- ⬆️ Update alpine_3_19/libftdi1 to v1.5-r2 
+- Merge pull request #170 from erik73/renovate/alpine_3_19-confuse-dev-3.x
+
+⬆️ Update alpine_3_19/confuse-dev to v3.3-r4 
+- ⬆️ Update alpine_3_19/confuse-dev to v3.3-r4 
+- Merge pull request #169 from erik73/renovate/alpine_3_19-confuse-3.x
+
+⬆️ Update alpine_3_19/confuse to v3.3-r4 
+- ⬆️ Update alpine_3_19/confuse to v3.3-r4 
 - Prepare for Alpine 3.19 
 - ⬆️ Update Add-on base image to v3.0.15 
 - ⬆️ Update Add-on base image to v3.0.14 
