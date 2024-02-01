@@ -1,6 +1,2 @@
-# Changelog since v2.0.3
-- ⬆️ Update Add-on base image to v3.0.16 
-- ⬆️ Update alpine_3_19/mariadb-client to v10.11.6-r0 
-- ⬆️ Update Postfix to v3.8.5-r0 
-- ⬆️ Update Add-on base image to v3.0.15 
-- ⬆️ Update Add-on base image to v3.0.14 
+# Changelog since v2.0.4
+- ⬆️ Update alpine_3_19/nginx to v1.24.0-r15 
