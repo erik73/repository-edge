@@ -1,5 +1,5 @@
 name: SteVe
-version: f1e620d
+version: b0eb4e0
 slug: steve
 description: OCPP server for EV charging stations
 url: https://github.com/erik73/addon-steve
