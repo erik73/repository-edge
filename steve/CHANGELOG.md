@@ -1,5 +1,5 @@
-# Changelog since v2.0.16
-- ⬆️ Update alpine_3_19/nginx to v1.24.0-r16 
-- ⬆️ Update alpine_3_19/openjdk11 to v11.0.23_p9-r0 
-- ⬆️ Update Add-on base image to v3.0.17 
-- ⬆️ Update alpine_3_19/nginx to v1.24.0-r15 
+# Changelog since v2.0.17
+- Merge pull request #237 from erik73/renovate/alpine_3_19-git-2.x
+
+⬆️ Update alpine_3_19/git to v2.43.4-r0 
+- ⬆️ Update alpine_3_19/git to v2.43.4-r0 
