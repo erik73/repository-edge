@@ -1,4 +1,8 @@
 # Changelog since v2.0.5
+- Merge pull request #294 from erik73/renovate/alpine_3_20-nginx-1.x
+
+⬆️ Update alpine_3_20/nginx to v1.26.0-r1 
+- ⬆️ Update alpine_3_20/nginx to v1.26.0-r1 
 - Merge pull request #293 from erik73/renovate/postfix
 
 ⬆️ Update Postfix to v3.9.0-r1 
