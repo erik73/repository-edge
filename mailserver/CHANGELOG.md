@@ -1,4 +1,8 @@
 # Changelog since v2.0.5
+- Merge pull request #296 from erik73/fix-php
+
+Fix php again 
+- Fix php again 
 - Merge pull request #295 from erik73/fix-php
 
 Fix php version 
