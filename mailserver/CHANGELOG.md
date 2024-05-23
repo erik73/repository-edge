@@ -1,4 +1,8 @@
 # Changelog since v2.0.5
+- Merge pull request #292 from erik73/renovate/php
+
+⬆️ Update PHP to v8.2.19-r0 
+- ⬆️ Update PHP to v8.2.19-r0 
 - Merge pull request #291 from erik73/renovate/add-on-base-image
 
 ⬆️ Update Add-on base image to v3.0.19 
