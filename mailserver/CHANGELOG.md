@@ -1,4 +1,8 @@
 # Changelog since v2.0.5
+- Merge pull request #295 from erik73/fix-php
+
+Fix php version 
+- Fix php version 
 - Merge pull request #294 from erik73/renovate/alpine_3_20-nginx-1.x
 
 ⬆️ Update alpine_3_20/nginx to v1.26.0-r1 
