@@ -1,4 +1,12 @@
 # Changelog since v2.0.5
+- Merge pull request #293 from erik73/renovate/postfix
+
+⬆️ Update Postfix to v3.9.0-r1 
+- ⬆️ Update Postfix to v3.9.0-r1 
+- Merge pull request #290 from erik73/renovate/alpine_3_20-rspamd-client-3.x
+
+⬆️ Update alpine_3_20/rspamd-client to v3.8.4-r0 
+- ⬆️ Update alpine_3_20/rspamd-client to v3.8.4-r0 
 - ⬆️ Update alpine_3_20/mariadb-client to v10.11.8-r0 
 - Merge pull request #292 from erik73/renovate/php
 
