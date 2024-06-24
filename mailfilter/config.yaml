@@ -1,5 +1,5 @@
 name: Mailfilter
-version: 08ecae7
+version: f3960ff
 slug: mailfilter
 description: Rspamd mailfilter for Home Assistant
 url: https://github.com/erik73/hassio-addons
