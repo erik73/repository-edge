@@ -1,4 +1,5 @@
 # Changelog since v2.0.18
+- OpenJDK17 
 - User master branch for tests 
 - ⬆️ Update alpine_3_20/openjdk11 to v11.0.24_p8-r0 
 - ⬆️ Update Add-on base image to v3.0.22 
