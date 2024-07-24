@@ -1,4 +1,30 @@
 # Changelog since v1.1.8
+- ⬆️ Update Add-on base image to v3.0.18 
+- Merge pull request #186 from erik73/renovate/alpine_3_20-git-2.x
+
+⬆️ Update alpine_3_20/git to v2.45.2-r0 
+- ⬆️ Update alpine_3_20/git to v2.45.2-r0 
+- Merge pull request #185 from erik73/renovate/alpine_3_20-cmake-3.x
+
+⬆️ Update alpine_3_20/cmake to v3.29.3-r0 
+- ⬆️ Update alpine_3_20/cmake to v3.29.3-r0 
+- Merge pull request #184 from erik73/renovate/alpine_3_20-libstdc++-13.x
+
+⬆️ Update alpine_3_20/libstdc++ to v13.2.1_git20240309-r0 
+- ⬆️ Update alpine_3_20/libstdc++ to v13.2.1_git20240309-r0 
+- Merge pull request #183 from erik73/renovate/alpine_3_20-libftdi1-dev-1.x
+
+⬆️ Update alpine_3_20/libftdi1-dev to v1.5-r3 
+- ⬆️ Update alpine_3_20/libftdi1-dev to v1.5-r3 
+- Merge pull request #182 from erik73/renovate/alpine_3_20-libftdi1-1.x
+
+⬆️ Update alpine_3_20/libftdi1 to v1.5-r3 
+- ⬆️ Update alpine_3_20/libftdi1 to v1.5-r3 
+- Merge pull request #181 from erik73/renovate/alpine_3_20-gcc-13.x
+
+⬆️ Update alpine_3_20/gcc to v13.2.1_git20240309-r0 
+- ⬆️ Update alpine_3_20/gcc to v13.2.1_git20240309-r0 
+- Update renovate.json 
 - Merge pull request #179 from erik73/renovate/add-on-base-image
 
 ⬆️ Update Add-on base image to v3.0.17 
