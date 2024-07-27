@@ -1,4 +1,5 @@
 # Changelog since v2.0.6
+- ⬆️ Update Add-on base image to v3.0.23 
 - ⬆️ Update PHP to v8.2.21-r0 
 - ⬆️ Update Add-on base image to v3.0.22 
 - ⬆️ Update Add-on base image to v3.0.21 
