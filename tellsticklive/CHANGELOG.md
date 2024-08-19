@@ -1,4 +1,5 @@
 # Changelog since v1.1.8
+- ⬆️ Update Add-on base image to v3.0.20 
 - ⬆️ Update Add-on base image to v3.0.19 
 - ⬆️ Update Add-on base image to v3.0.18 
 - Merge pull request #186 from erik73/renovate/alpine_3_20-git-2.x
