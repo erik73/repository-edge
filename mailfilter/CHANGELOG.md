@@ -1,4 +1,5 @@
 # Changelog since v3.1.6
+- ⬆️ Update Add-on base image to v3.0.25 
 - Merge pull request #243 from erik73/renovate/alpine_3_20-nginx-1.x
 
 ⬆️ Update alpine_3_20/nginx to v1.26.2-r0 
