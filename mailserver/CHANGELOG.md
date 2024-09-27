@@ -1,4 +1,5 @@
 # Changelog since v2.0.8
+- ⬆️ Update PHP to v8.2.24-r0 
 - ⬆️ Update Add-on base image to v3.0.26 
 - ⬆️ Update Add-on base image to v3.0.25 
 - ⬆️ Update Dovecot to v2.3.21.1-r0 
