@@ -1,4 +1,8 @@
 # Changelog since v3.1.6
+- Merge pull request #247 from erik73/renovate/just-containers-s6-overlay-3.x
+
+⬆️ Update just-containers/s6-overlay to v3.2.0.2 
+- ⬆️ Update just-containers/s6-overlay to v3.2.0.2 
 - ⬆️ Update alpine_3_20/redis to v7.2.5-r1 
 - ⬆️ Update Add-on base image to v3.0.26 
 - ⬆️ Update Add-on base image to v3.0.25 
