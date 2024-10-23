@@ -1,4 +1,5 @@
 # Changelog since v1.1.8
+- ⬆️ Update Add-on base image to v3.0.22 
 - ⬆️ Update Add-on base image to v3.0.21 
 - ⬆️ Update Add-on base image to v3.0.20 
 - ⬆️ Update Add-on base image to v3.0.19 
