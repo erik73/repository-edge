@@ -1,4 +1,5 @@
 # Changelog since v2.0.20
+- ⬆️ Update alpine_3_20/mariadb-client to v10.11.10-r0 
 - ⬆️ Update alpine_3_20/openjdk17 to v17.0.13_p11-r0 
 - ⬆️ Update Add-on base image to v3.0.28 (#260)
 
