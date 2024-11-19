@@ -1,4 +1,9 @@
 # Changelog since v1.1.8
+- Merge pull request #192 from erik73/renovate/migrate-config
+
+⬆️: migrate renovate config 
+- Prettified Code! 
+- ⬆️: migrate config .github/renovate.json 
 - ⬆️ Update Add-on base image to v3.0.22 
 - ⬆️ Update Add-on base image to v3.0.21 
 - ⬆️ Update Add-on base image to v3.0.20 
