@@ -1,4 +1,7 @@
 # Changelog since v2.0.9
+- ⬆️ Update Postfix to v3.9.1-r0 (#322)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update PHP to v8.2.26-r0 (#321)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
