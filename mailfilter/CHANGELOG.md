@@ -1,4 +1,5 @@
 # Changelog since v3.1.7
+- Update renovate.json 
 - Merge pull request #251 from erik73/renovate/migrate-config
 
 ⬆️: migrate renovate config 
