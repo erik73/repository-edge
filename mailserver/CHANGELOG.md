@@ -1,4 +1,8 @@
 # Changelog since v2.0.9
+- Merge pull request #326 from erik73/renovate/alpine_3_21-mariadb-client-11.x
+
+⬆️ Update alpine_3_21/mariadb-client to v11 
+- ⬆️ Update alpine_3_21/mariadb-client to v11 
 - Merge pull request #324 from erik73/renovate/alpine_3_21-rspamd-client-3.x
 
 ⬆️ Update alpine_3_21/rspamd-client to v3.10.2-r1 
