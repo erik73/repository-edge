@@ -1,4 +1,40 @@
 # Changelog since v1.1.8
+- Merge pull request #202 from erik73/renovate/major-add-on-base-image
+
+⬆️ Update Add-on base image to v4 (major) 
+- ⬆️ Update Add-on base image to v4 
+- Merge pull request #201 from erik73/renovate/major-add-on-base-image
+
+⬆️ Update Add-on base image to v4 (major) 
+- ⬆️ Update Add-on base image to v4 
+- Merge pull request #200 from erik73/renovate/alpine_3_21-libstdc++-14.x
+
+⬆️ Update alpine_3_21/libstdc++ to v14 
+- ⬆️ Update alpine_3_21/libstdc++ to v14 
+- Merge pull request #199 from erik73/renovate/alpine_3_21-gcc-14.x
+
+⬆️ Update alpine_3_21/gcc to v14 
+- ⬆️ Update alpine_3_21/gcc to v14 
+- Merge pull request #198 from erik73/renovate/alpine_3_21-git-2.x
+
+⬆️ Update alpine_3_21/git to v2.47.1-r0 
+- ⬆️ Update alpine_3_21/git to v2.47.1-r0 
+- Merge pull request #197 from erik73/renovate/alpine_3_21-cmake-3.x
+
+⬆️ Update alpine_3_21/cmake to v3.31.1-r0 
+- ⬆️ Update alpine_3_21/cmake to v3.31.1-r0 
+- Merge pull request #196 from erik73/renovate/alpine_3_21-socat-1.x
+
+⬆️ Update alpine_3_21/socat to v1.8.0.1-r0 
+- Merge pull request #195 from erik73/renovate/alpine_3_21-libftdi1-dev-1.x
+
+⬆️ Update alpine_3_21/libftdi1-dev to v1.5-r4 
+- ⬆️ Update alpine_3_21/socat to v1.8.0.1-r0 
+- ⬆️ Update alpine_3_21/libftdi1-dev to v1.5-r4 
+- Merge pull request #194 from erik73/renovate/alpine_3_21-libftdi1-1.x
+
+⬆️ Update alpine_3_21/libftdi1 to v1.5-r4 
+- ⬆️ Update alpine_3_21/libftdi1 to v1.5-r4 
 - Update renovate.json 
 - ⬆️ Update Add-on base image to v3.0.23 (#193)
 
