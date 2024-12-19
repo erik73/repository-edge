@@ -1,4 +1,7 @@
 # Changelog since v2.0.20
+- ⬆️ Update Add-on base image to v4.0.1 (#270)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #269 from erik73/renovate/alpine_3_21-mariadb-client-11.x
 
 ⬆️ Update alpine_3_21/mariadb-client to v11 
