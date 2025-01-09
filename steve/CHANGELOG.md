@@ -1,4 +1,12 @@
 # Changelog since v2.0.20
+- Merge pull request #271 from erik73/renovate/alpine_3_21-nginx-1.x
+
+⬆️ Update alpine_3_21/nginx to v1.26.2-r4 
+- ⬆️ Update alpine_3_21/nginx to v1.26.2-r4 
+- Merge pull request #272 from erik73/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v4.0.2 
+- ⬆️ Update Add-on base image to v4.0.2 
 - ⬆️ Update Add-on base image to v4.0.1 (#270)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
