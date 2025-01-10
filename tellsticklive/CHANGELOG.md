@@ -1,4 +1,7 @@
 # Changelog since v1.1.8
+- ⬆️ Update Add-on base image to v4.0.1 (#203)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #202 from erik73/renovate/major-add-on-base-image
 
 ⬆️ Update Add-on base image to v4 (major) 
