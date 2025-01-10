@@ -1,4 +1,7 @@
 # Changelog since v4.0.0
+- ⬆️ Update alpine_3_21/redis to v7.2.7-r0 (#261)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #260 from erik73/renovate/add-on-base-image
 
 ⬆️ Update Add-on base image to v4.0.2 
