@@ -1,4 +1,7 @@
 # Changelog since v1.1.8
+- ⬆️ Update alpine_3_21/git to v2.47.2-r0 (#204)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Add-on base image to v4.0.1 (#203)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
