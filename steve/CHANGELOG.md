@@ -1,4 +1,7 @@
 # Changelog since v2.0.20
+- ⬆️ Update alpine_3_21/openjdk17 to v17.0.14_p7-r0 (#274)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_21/git to v2.47.2-r0 (#273)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
