@@ -1,4 +1,8 @@
 # Changelog since v3.0.1
+- Merge pull request #334 from erik73/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v4.0.4 
+- ⬆️ Update Add-on base image to v4.0.4 
 - Merge pull request #332 from erik73/renovate/add-on-base-image
 
 ⬆️ Update Add-on base image to v4.0.2 
