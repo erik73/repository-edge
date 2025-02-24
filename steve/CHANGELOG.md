@@ -1,4 +1,11 @@
 # Changelog since v2.0.20
+- Merge pull request #278 from erik73/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v4.0.7 
+- ⬆️ Update Add-on base image to v4.0.7 
+- ⬆️ Update Add-on base image to v4.0.6 (#277)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Add-on base image to v4.0.5 (#276)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
