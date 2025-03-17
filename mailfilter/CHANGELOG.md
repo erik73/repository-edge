@@ -1,4 +1,7 @@
 # Changelog since v4.0.1
+- ⬆️ Update alpine_3_21/nginx to v1.26.3-r0 (#268)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Clamav to v1.4.2-r0 (#267)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
