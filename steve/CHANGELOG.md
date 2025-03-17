@@ -1,4 +1,7 @@
 # Changelog since v2.0.20
+- ⬆️ Update alpine_3_21/nginx to v1.26.3-r0 (#280)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_21/mariadb-client to v11.4.5-r0 (#279)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
