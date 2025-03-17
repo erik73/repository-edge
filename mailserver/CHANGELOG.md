@@ -1,4 +1,7 @@
 # Changelog since v3.0.1
+- ⬆️ Update alpine_3_21/nginx to v1.26.3-r0 (#342)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update PHP to v8.2.28-r0 (#341)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
