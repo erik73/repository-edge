@@ -1,4 +1,7 @@
 # Changelog since v2.0.20
+- ⬆️ Update alpine_3_21/openjdk17 to v17.0.15_p6-r0 (#281)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_21/nginx to v1.26.3-r0 (#280)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
