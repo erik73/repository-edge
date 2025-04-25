@@ -1,4 +1,5 @@
 # Changelog since v2.0.20
+- Fix SSL 
 - Spelling 
 - Year 2025 
 - update config file 
