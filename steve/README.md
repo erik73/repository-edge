@@ -2,11 +2,11 @@
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
-SteVe OCCP server.
+SteVe OCPP server.
 
 ## About
 
-Steve is an OCCP server for communicationg with charge points
+Steve is an OCPP server for communicationg with charge points
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
@@ -29,5 +29,5 @@ If you are more interested in stable releases of our add-ons:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-1854228-blue.svg
-[release]: https://github.com/erik73/addon-steve/tree/1854228
+[release-shield]: https://img.shields.io/badge/version-45f08c3-blue.svg
+[release]: https://github.com/erik73/addon-steve/tree/45f08c3
