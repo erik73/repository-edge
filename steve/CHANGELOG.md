@@ -1,4 +1,8 @@
 # Changelog since v2.0.20
+- Merge pull request #282 from erik73/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v4.0.8 
+- ⬆️ Update Add-on base image to v4.0.8 
 - Fix SSL 
 - Spelling 
 - Year 2025 
