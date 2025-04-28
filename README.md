@@ -63,6 +63,19 @@ Postfix and Dovecot mail server for Home Assistant, with Postfix Admin web inter
 
 [:books: Mailserver add-on documentation][addon-doc-mailserver]
 
+### &#10003; [MariaDB][addon-mariadb]
+
+![Latest Version][mariadb-version-shield]
+![Supports armhf Architecture][mariadb-armhf-shield]
+![Supports armv7 Architecture][mariadb-armv7-shield]
+![Supports aarch64 Architecture][mariadb-aarch64-shield]
+![Supports amd64 Architecture][mariadb-amd64-shield]
+![Supports i386 Architecture][mariadb-i386-shield]
+
+A SQL database server
+
+[:books: MariaDB add-on documentation][addon-doc-mariadb]
+
 ### &#10003; [SteVe][addon-steve]
 
 ![Latest Version][steve-version-shield]
@@ -105,6 +118,7 @@ on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: Mailfilter][mailfilter-issue]
 - [Open an issue for the add-on: Mailserver][mailserver-issue]
+- [Open an issue for the add-on: MariaDB][mariadb-issue]
 - [Open an issue for the add-on: SteVe][steve-issue]
 - [Open an issue for the add-on: TellStick with Telldus Live][tellsticklive-issue]
 
@@ -152,6 +166,15 @@ SOFTWARE.
 [mailserver-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [mailserver-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [mailserver-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-mariadb]: https://github.com/erik73/addon-mariadb/tree/c1f6911
+[addon-doc-mariadb]: https://github.com/erik73/addon-mariadb/blob/c1f6911/README.md
+[mariadb-issue]: https://github.com/erik73/addon-mariadb/issues
+[mariadb-version-shield]: https://img.shields.io/badge/version-c1f6911-blue.svg
+[mariadb-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[mariadb-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[mariadb-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[mariadb-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[mariadb-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-steve]: https://github.com/erik73/addon-steve/tree/9074ede
 [addon-doc-steve]: https://github.com/erik73/addon-steve/blob/9074ede/README.md
 [steve-issue]: https://github.com/erik73/addon-steve/issues
