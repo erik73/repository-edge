@@ -189,10 +189,10 @@ SOFTWARE.
 [mariadb-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [mariadb-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [mariadb-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-steve]: https://github.com/erik73/addon-steve/tree/9074ede
-[addon-doc-steve]: https://github.com/erik73/addon-steve/blob/9074ede/README.md
+[addon-steve]: https://github.com/erik73/addon-steve/tree/e193ca6
+[addon-doc-steve]: https://github.com/erik73/addon-steve/blob/e193ca6/README.md
 [steve-issue]: https://github.com/erik73/addon-steve/issues
-[steve-version-shield]: https://img.shields.io/badge/version-9074ede-blue.svg
+[steve-version-shield]: https://img.shields.io/badge/version-e193ca6-blue.svg
 [steve-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [steve-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [steve-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
