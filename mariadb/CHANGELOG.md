@@ -1,9 +1,4 @@
-# Changelog since v0.1.1
-- Merge pull request #4 from erik73/rename-executables
+# Changelog since v0.1.2
+- ⬆️ Update Add-on base image to v4.0.9 (#5)
 
-Fix typo mariadb-check 
-- Fix typo mariadb-check 
-- Merge pull request #3 from erik73/rename-executables
-
-Rename executables 
-- Rename executables 
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
