@@ -1,8 +1,7 @@
-# Changelog since v3.0.2
-- Year 2025 
-- ⬆️ Update Add-on base image to v4.0.8 (#344)
+## What’s changed
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update Postfix to v3.9.4-r0 (#343)
+## ⬆️ Dependency updates
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update Postfix to v3.9.4-r0 @[renovate[bot]](https://github.com/apps/renovate) ([#343](https://github.com/erik73/addon-mail/pull/343))
+- ⬆️ Update Add-on base image to v4.0.8 @[renovate[bot]](https://github.com/apps/renovate) ([#344](https://github.com/erik73/addon-mail/pull/344))
+- ⬆️ Update Add-on base image to v4.0.9 @[renovate[bot]](https://github.com/apps/renovate) ([#345](https://github.com/erik73/addon-mail/pull/345))
