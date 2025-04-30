@@ -166,10 +166,10 @@ SOFTWARE.
 [mailserver-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [mailserver-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [mailserver-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-mariadb]: https://github.com/erik73/addon-mariadb/tree/c1f6911
-[addon-doc-mariadb]: https://github.com/erik73/addon-mariadb/blob/c1f6911/README.md
+[addon-mariadb]: https://github.com/erik73/addon-mariadb/tree/5d0b81c
+[addon-doc-mariadb]: https://github.com/erik73/addon-mariadb/blob/5d0b81c/README.md
 [mariadb-issue]: https://github.com/erik73/addon-mariadb/issues
-[mariadb-version-shield]: https://img.shields.io/badge/version-c1f6911-blue.svg
+[mariadb-version-shield]: https://img.shields.io/badge/version-5d0b81c-blue.svg
 [mariadb-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mariadb-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mariadb-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
