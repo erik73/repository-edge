@@ -102,6 +102,19 @@ TellStick and TellStick Duo service with Telldus Live
 
 [:books: TellStick with Telldus Live add-on documentation][addon-doc-tellsticklive]
 
+### &#10003; [phpMyAdmin][addon-phpmyadmin]
+
+![Latest Version][phpmyadmin-version-shield]
+![Supports armhf Architecture][phpmyadmin-armhf-shield]
+![Supports armv7 Architecture][phpmyadmin-armv7-shield]
+![Supports aarch64 Architecture][phpmyadmin-aarch64-shield]
+![Supports amd64 Architecture][phpmyadmin-amd64-shield]
+![Supports i386 Architecture][phpmyadmin-i386-shield]
+
+A web interface for the official MariaDB add-on
+
+[:books: phpMyAdmin add-on documentation][addon-doc-phpmyadmin]
+
 ## Releases
 
 Add-on releases are **NOT** based on [Semantic Versioning][semver], unlike
@@ -121,6 +134,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: MariaDB][mariadb-issue]
 - [Open an issue for the add-on: SteVe][steve-issue]
 - [Open an issue for the add-on: TellStick with Telldus Live][tellsticklive-issue]
+- [Open an issue for the add-on: phpMyAdmin][phpmyadmin-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -193,6 +207,15 @@ SOFTWARE.
 [tellsticklive-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tellsticklive-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [tellsticklive-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-phpmyadmin]: https://github.com/erik73/addon-phpmyadmin/tree/2554ec2
+[addon-doc-phpmyadmin]: https://github.com/erik73/addon-phpmyadmin/blob/2554ec2/README.md
+[phpmyadmin-issue]: https://github.com/erik73/addon-phpmyadmin/issues
+[phpmyadmin-version-shield]: https://img.shields.io/badge/version-2554ec2-blue.svg
+[phpmyadmin-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[phpmyadmin-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[phpmyadmin-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[phpmyadmin-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[phpmyadmin-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [issue]: https://github.com/erik73/repository-edge/issues
 [license-shield]: https://img.shields.io/github/license/erik73/repository-edge.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
