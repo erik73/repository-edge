@@ -1,3 +1,4 @@
-- Merge pull request #2 from erik73/renovate/add-on-base-image
+- Merge pull request #3 from erik73/cleanup-docs-and-license
 
-⬆️ Update Add-on base image to v4.0.9
+Update docs and license
+First release of a working add-on
