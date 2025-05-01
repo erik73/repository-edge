@@ -1,4 +1,8 @@
 # Changelog since v3.0.3
+- Merge pull request #349 from erik73/revert-348-update-superadmin-user
+
+Revert "Try to create user at every startup instead" 
+- Revert "Try to create user at every startup instead" 
 - Merge pull request #348 from erik73/update-superadmin-user
 
 Try to create user at every startup instead 
