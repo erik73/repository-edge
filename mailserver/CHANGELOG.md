@@ -1,4 +1,10 @@
 # Changelog since v3.0.3
+- Merge pull request #351 from erik73/update-docs
+
+Add docs regarding changing admin-password 
+- Prettified Code! 
+- Oops, forgot one line in the docs 
+- Add docs regarding changing admin-password 
 - Merge pull request #350 from erik73/fix-deprecated-warning
 
 Fix mysql warning 
