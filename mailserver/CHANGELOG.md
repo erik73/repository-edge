@@ -1,4 +1,8 @@
 # Changelog since v3.0.3
+- Merge pull request #348 from erik73/update-superadmin-user
+
+Try to create user at every startup instead 
+- Try to create user at every startup instead 
 - Merge pull request #347 from erik73/update-superadmin-user
 
 Set the superadmin user credentials on startup 
