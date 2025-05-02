@@ -1,23 +1,6 @@
-# Changelog since v3.0.3
-- Merge pull request #351 from erik73/update-docs
+# Changelog since v3.1.0
+- Merge pull request #353 from erik73/bump-php-postfixadmin
 
-Add docs regarding changing admin-password 
-- Prettified Code! 
-- Oops, forgot one line in the docs 
-- Add docs regarding changing admin-password 
-- Merge pull request #350 from erik73/fix-deprecated-warning
-
-Fix mysql warning 
-- Fix mysql warning 
-- Merge pull request #349 from erik73/revert-348-update-superadmin-user
-
-Revert "Try to create user at every startup instead" 
-- Revert "Try to create user at every startup instead" 
-- Merge pull request #348 from erik73/update-superadmin-user
-
-Try to create user at every startup instead 
-- Try to create user at every startup instead 
-- Merge pull request #347 from erik73/update-superadmin-user
-
-Set the superadmin user credentials on startup 
-- Set the superadmin user credentials on startup 
+Bump php postfixadmin 
+- Update build.yaml and dockerfile 
+- Bump postfixadmin and php 
