@@ -1,4 +1,5 @@
 # Changelog since v1.1.8
+- Update Dockerfile 
 - Merge pull request #207 from erik73/renovate/alpine_3_21-socat-1.x
 
 ⬆️ Update alpine_3_21/socat to v1.8.0.3-r0 
