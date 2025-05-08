@@ -1,4 +1,8 @@
 # Changelog since v1.1.8
+- Merge pull request #207 from erik73/renovate/alpine_3_21-socat-1.x
+
+⬆️ Update alpine_3_21/socat to v1.8.0.3-r0 
+- ⬆️ Update alpine_3_21/socat to v1.8.0.3-r0 
 - ⬆️ Update Add-on base image to v4.0.3 (#206)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
