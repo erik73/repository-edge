@@ -1,10 +1,5 @@
-# Changelog since v3.1.0
-- Merge pull request #354 from erik73/fix-phpfpm
+# Changelog since v3.1.1
+- Merge pull request #355 from erik73/renovate/just-containers-s6-overlay-3.x
 
-Fix phpfpm crash 
-- Fix phpfpm crash 
-- Merge pull request #353 from erik73/bump-php-postfixadmin
-
-Bump php postfixadmin 
-- Update build.yaml and dockerfile 
-- Bump postfixadmin and php 
+⬆️ Update just-containers/s6-overlay to v3.2.1.0 
+- ⬆️ Update just-containers/s6-overlay to v3.2.1.0 
