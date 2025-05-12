@@ -1,6 +1,5 @@
-## What’s changed
+# Changelog since v4.0.3
+- Merge pull request #271 from erik73/renovate/just-containers-s6-overlay-3.x
 
-## ⬆️ Dependency updates
-
-- ⬆️ Update Add-on base image to v4.0.8 @[renovate[bot]](https://github.com/apps/renovate) ([#269](https://github.com/erik73/addon-mailfilter/pull/269))
-- ⬆️ Update Add-on base image to v4.0.9 @[renovate[bot]](https://github.com/apps/renovate) ([#270](https://github.com/erik73/addon-mailfilter/pull/270))
+⬆️ Update just-containers/s6-overlay to v3.2.1.0 
+- ⬆️ Update just-containers/s6-overlay to v3.2.1.0 
