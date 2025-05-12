@@ -1,4 +1,7 @@
 # Changelog since v1.1.8
+- ⬆️ Update Add-on base image to v4.0.4 (#208)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Update Dockerfile 
 - Merge pull request #207 from erik73/renovate/alpine_3_21-socat-1.x
 
