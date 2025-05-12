@@ -1,6 +1,6 @@
 name: MariaDB
 slug: mariadb
-version: 126c3e3
+version: ba2b5e8
 description: A SQL database server
 url: https://github.com/erik73/hassio-addons
 arch:
