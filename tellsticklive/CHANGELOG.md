@@ -1,4 +1,5 @@
 # Changelog since v1.1.8
+- Update renovate.json 
 - ⬆️ Update Add-on base image to v4.0.4 (#208)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
