@@ -1,4 +1,5 @@
 # Changelog since v3.1.1
+- Update renovate.json 
 - ⬆️ Update ghcr.io/erik73/base Docker tag to v4.0.10 (#356)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
