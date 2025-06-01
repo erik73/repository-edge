@@ -1,4 +1,7 @@
 # Changelog since v3.1.1
+- ⬆️ Update Dovecot to v2.4.1-r2 (#361)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_22/rspamd-client to v3.11.1-r2 (#360)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
