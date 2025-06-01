@@ -1,4 +1,7 @@
 # Changelog since v3.1.1
+- ⬆️ Update PHP to v8.4.7-r0 (#358)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_22/mariadb-client to v11.4.5-r2 (#357)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
