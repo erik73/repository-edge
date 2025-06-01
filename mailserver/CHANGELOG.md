@@ -1,4 +1,7 @@
 # Changelog since v3.1.1
+- ⬆️ Update Postfix to v3.10.2-r0 (#362)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Dovecot to v2.4.1-r2 (#361)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
