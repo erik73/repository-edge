@@ -1,4 +1,9 @@
 # Changelog since v3.1.1
+- Merge pull request #363 from erik73/renovate/migrate-config
+
+⬆️: migrate renovate config 
+- Prettified Code! 
+- ⬆️: migrate config .github/renovate.json 
 - ⬆️ Update Postfix to v3.10.2-r0 (#362)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
