@@ -1,4 +1,9 @@
 # Changelog since v4.0.3
+- Merge pull request #278 from erik73/renovate/migrate-config
+
+⬆️: migrate renovate config 
+- Prettified Code! 
+- ⬆️: migrate config .github/renovate.json 
 - Update renovate.json 
 - ⬆️ Update alpine_3_21/redis to v7.2.9-r0 (#274)
 
