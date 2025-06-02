@@ -1,4 +1,9 @@
 # Changelog since v0.1.3
+- Prettified Code! 
+- Merge pull request #11 from erik73/renovate/migrate-config
+
+⬆️: migrate renovate config 
+- ⬆️: migrate config .github/renovate.json 
 - Update renovate.json 
 - ⬆️ Update ghcr.io/erik73/base Docker tag to v4.0.10 (#7)
 
