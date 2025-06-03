@@ -1,4 +1,8 @@
 # Changelog since v3.1.1
+- Merge pull request #364 from erik73/renovate/major-add-on-base-image
+
+⬆️ Update ghcr.io/erik73/base Docker tag to v5 
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v5 
 - Merge pull request #363 from erik73/renovate/migrate-config
 
 ⬆️: migrate renovate config 
