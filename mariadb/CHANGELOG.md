@@ -1,10 +1,8 @@
-# Changelog since v0.1.3
-- Prettified Code! 
-- Merge pull request #11 from erik73/renovate/migrate-config
+## What’s changed
 
-⬆️: migrate renovate config 
-- ⬆️: migrate config .github/renovate.json 
-- Update renovate.json 
-- ⬆️ Update ghcr.io/erik73/base Docker tag to v4.0.10 (#7)
+## ⬆️ Dependency updates
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v4.0.10 @[renovate[bot]](https://github.com/apps/renovate) ([#7](https://github.com/erik73/addon-mariadb/pull/7))
+- ⬆️: migrate renovate config @[renovate[bot]](https://github.com/apps/renovate) ([#11](https://github.com/erik73/addon-mariadb/pull/11))
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v5 @[renovate[bot]](https://github.com/apps/renovate) ([#12](https://github.com/erik73/addon-mariadb/pull/12))
+- ⬆️ Update MariaDB to v11.4.5-r2 @[renovate[bot]](https://github.com/apps/renovate) ([#13](https://github.com/erik73/addon-mariadb/pull/13))
