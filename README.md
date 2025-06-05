@@ -63,6 +63,19 @@ Postfix and Dovecot mail server for Home Assistant, with Postfix Admin web inter
 
 [:books: Mailserver add-on documentation][addon-doc-mailserver]
 
+### &#10003; [Mailserver2][addon-mailserver2]
+
+![Latest Version][mailserver2-version-shield]
+![Supports armhf Architecture][mailserver2-armhf-shield]
+![Supports armv7 Architecture][mailserver2-armv7-shield]
+![Supports aarch64 Architecture][mailserver2-aarch64-shield]
+![Supports amd64 Architecture][mailserver2-amd64-shield]
+![Supports i386 Architecture][mailserver2-i386-shield]
+
+Postfix and Dovecot mail server for Home Assistant, with Postfix Admin web interface
+
+[:books: Mailserver2 add-on documentation][addon-doc-mailserver2]
+
 ### &#10003; [MariaDB][addon-mariadb]
 
 ![Latest Version][mariadb-version-shield]
@@ -131,6 +144,7 @@ on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: Mailfilter][mailfilter-issue]
 - [Open an issue for the add-on: Mailserver][mailserver-issue]
+- [Open an issue for the add-on: Mailserver2][mailserver2-issue]
 - [Open an issue for the add-on: MariaDB][mariadb-issue]
 - [Open an issue for the add-on: SteVe][steve-issue]
 - [Open an issue for the add-on: TellStick with Telldus Live][tellsticklive-issue]
@@ -180,6 +194,15 @@ SOFTWARE.
 [mailserver-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [mailserver-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [mailserver-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-mailserver2]: https://github.com/erik73/addon-mail2/tree/fd70309
+[addon-doc-mailserver2]: https://github.com/erik73/addon-mail2/blob/fd70309/README.md
+[mailserver2-issue]: https://github.com/erik73/addon-mail2/issues
+[mailserver2-version-shield]: https://img.shields.io/badge/version-fd70309-blue.svg
+[mailserver2-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[mailserver2-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[mailserver2-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[mailserver2-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[mailserver2-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-mariadb]: https://github.com/erik73/addon-mariadb/tree/v1.0.0
 [addon-doc-mariadb]: https://github.com/erik73/addon-mariadb/blob/v1.0.0/README.md
 [mariadb-issue]: https://github.com/erik73/addon-mariadb/issues
