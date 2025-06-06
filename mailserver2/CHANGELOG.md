@@ -1,1 +1,1 @@
-- Fix DB-settings
+- change querys
