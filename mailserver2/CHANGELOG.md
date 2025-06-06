@@ -1,1 +1,1 @@
-- DB parameters
+- Correct path
