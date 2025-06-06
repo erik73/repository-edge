@@ -1,1 +1,1 @@
-- Allow MD5
+- Enable quota
