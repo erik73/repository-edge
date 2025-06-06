@@ -1,1 +1,1 @@
-- Correct path
+- Fix DB-settings
