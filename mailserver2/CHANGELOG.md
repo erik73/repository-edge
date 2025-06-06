@@ -1,1 +1,1 @@
-- Merge branch 'main' of https://github.com/erik73/addon-mail2
+- DB parameters
