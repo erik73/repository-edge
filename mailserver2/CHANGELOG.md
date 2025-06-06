@@ -1,1 +1,1 @@
-- test
+- Allow MD5
