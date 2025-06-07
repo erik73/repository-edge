@@ -1,1 +1,1 @@
-- Remove files not needed
+- Fix plugins syntax
