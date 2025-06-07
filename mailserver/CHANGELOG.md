@@ -1,4 +1,7 @@
 # Changelog since v3.1.1
+- ⬆️ Update PHP to v8.4.8-r0 (#365)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #364 from erik73/renovate/major-add-on-base-image
 
 ⬆️ Update ghcr.io/erik73/base Docker tag to v5 
