@@ -1,1 +1,1 @@
-- Fix plugins syntax
+- Remove mail_plugins
