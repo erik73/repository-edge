@@ -1,1 +1,1 @@
-- Change GID in SQL statement
+- Change sql syntax
