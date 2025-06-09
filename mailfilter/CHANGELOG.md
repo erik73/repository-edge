@@ -1,4 +1,8 @@
 # Changelog since v4.0.3
+- Merge pull request #280 from erik73/logging
+
+Add log settings to config 
+- Add log settings to config 
 - Merge pull request #276 from erik73/renovate/rspamd
 
 ⬆️ Update Rspamd to v3.11.1-r2 
