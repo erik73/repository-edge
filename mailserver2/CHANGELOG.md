@@ -1,1 +1,1 @@
-- fix lmpt config
+- use correct user for login
