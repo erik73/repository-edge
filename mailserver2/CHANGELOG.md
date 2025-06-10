@@ -1,1 +1,1 @@
-- Use original cnf file
+- Add config
