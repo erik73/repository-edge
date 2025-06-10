@@ -1,1 +1,3 @@
-- Add global
+- Update main.cf
+
+Change restrictions
