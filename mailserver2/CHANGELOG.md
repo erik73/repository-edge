@@ -1,1 +1,1 @@
-- Generate certs
+- Remove space
