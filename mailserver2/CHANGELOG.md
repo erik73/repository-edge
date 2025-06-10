@@ -1,1 +1,1 @@
-- Make executable
+- Generate certs
