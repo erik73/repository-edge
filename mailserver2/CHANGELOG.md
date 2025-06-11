@@ -1,1 +1,1 @@
-- Fix syntax
+- Restore settings
