@@ -1,1 +1,1 @@
-- Restore settings
+- Milter settings
