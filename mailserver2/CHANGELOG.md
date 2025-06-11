@@ -1,1 +1,1 @@
-- Try !smpt
+- Remove SMTP
