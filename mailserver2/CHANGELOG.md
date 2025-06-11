@@ -1,1 +1,1 @@
-- Milter settings
+- Try !smpt
