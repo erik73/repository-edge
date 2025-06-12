@@ -1,1 +1,1 @@
-- Remove SMTP
+- Update 10-mail.conf
