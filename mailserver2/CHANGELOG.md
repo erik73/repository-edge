@@ -1,1 +1,1 @@
-- change order of telay controls
+- Fix sender restrictions

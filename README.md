@@ -194,10 +194,10 @@ SOFTWARE.
 [mailserver-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [mailserver-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [mailserver-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-mailserver2]: https://github.com/erik73/addon-mail2/tree/32187ca
-[addon-doc-mailserver2]: https://github.com/erik73/addon-mail2/blob/32187ca/README.md
+[addon-mailserver2]: https://github.com/erik73/addon-mail2/tree/b32a9ed
+[addon-doc-mailserver2]: https://github.com/erik73/addon-mail2/blob/b32a9ed/README.md
 [mailserver2-issue]: https://github.com/erik73/addon-mail2/issues
-[mailserver2-version-shield]: https://img.shields.io/badge/version-32187ca-blue.svg
+[mailserver2-version-shield]: https://img.shields.io/badge/version-b32a9ed-blue.svg
 [mailserver2-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mailserver2-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mailserver2-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
