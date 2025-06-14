@@ -1,1 +1,1 @@
-- Restore some settings
+- Restore setting
