@@ -1,1 +1,1 @@
-- Fix sender restrictions
+- Restore some settings
