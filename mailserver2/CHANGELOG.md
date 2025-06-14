@@ -1,1 +1,1 @@
-- Restore setting
+- Correct permissions
