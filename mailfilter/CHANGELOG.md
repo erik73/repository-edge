@@ -1,5 +1,9 @@
-# Changelog since v4.1.0
-- Merge pull request #281 from erik73/gtube_tests
+## What’s changed
 
-Add option to activate additional GTUBE tests 
-- Add option to activate additional GTUBE tests 
+## ✨ New features
+
+- Add option to activate additional GTUBE tests @erik73 ([#281](https://github.com/erik73/addon-mailfilter/pull/281))
+
+## 📚 Documentation
+
+- Add documentation for GTUBE tests @erik73 ([#282](https://github.com/erik73/addon-mailfilter/pull/282))
