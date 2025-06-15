@@ -1,4 +1,8 @@
 # Changelog since v3.1.1
+- Merge pull request #366 from erik73/Dovecot_2-4
+
+Migrate add-on to Dovecot 2.4 
+- Migrate config to Dovecot 2.4 format 
 - ooops 
 - Temporary disable 
 - ⬆️ Update PHP to v8.4.8-r0 (#365)
