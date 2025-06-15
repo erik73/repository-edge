@@ -1,4 +1,8 @@
 # Changelog since v3.1.1
+- Merge pull request #367 from erik73/Dovecot_2-4
+
+Fix quota warning 
+- Fix quota warning 
 - Merge pull request #366 from erik73/Dovecot_2-4
 
 Migrate add-on to Dovecot 2.4 
