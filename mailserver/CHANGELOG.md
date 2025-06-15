@@ -1,4 +1,5 @@
 # Changelog since v3.1.1
+- Make scripts executable 
 - Merge pull request #367 from erik73/Dovecot_2-4
 
 Fix quota warning 
