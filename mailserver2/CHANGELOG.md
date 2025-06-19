@@ -1,1 +1,1 @@
-- setup home directories
+- Update auth-sql.conf.ext to remove mail location
