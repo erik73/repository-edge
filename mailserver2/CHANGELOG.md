@@ -1,1 +1,1 @@
-- Update auth-sql.conf.ext to remove mail location
+- Enable managesieve
