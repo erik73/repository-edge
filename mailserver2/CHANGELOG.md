@@ -1,1 +1,1 @@
-- Fix some things
+- Fix home path
