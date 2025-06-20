@@ -1,5 +1,5 @@
-## What’s changed
+# Changelog since v4.0.1
+- Merge pull request #369 from erik73/Fix-spam-learn
 
-## 🐛 Bug fixes
-
-- Change permissions to fix quota warning script @erik73 ([#368](https://github.com/erik73/addon-mail/pull/368))
+Fix error in spam-learning sieve script 
+- Fix error in spam-learning sieve script 
