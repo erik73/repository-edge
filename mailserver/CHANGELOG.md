@@ -1,5 +1,5 @@
-# Changelog since v4.0.1
-- Merge pull request #369 from erik73/Fix-spam-learn
+## What’s changed
 
-Fix error in spam-learning sieve script 
-- Fix error in spam-learning sieve script 
+## 🐛 Bug fixes
+
+- Remove smtpd quota restriction to fix problems with wildcard aliases @erik73 ([#372](https://github.com/erik73/addon-mail/pull/372))
