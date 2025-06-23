@@ -1,1 +1,1 @@
-- Revert compat level
+- Restore running
