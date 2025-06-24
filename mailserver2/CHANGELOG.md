@@ -1,1 +1,1 @@
-- Remove old parameter
+- Change restrictions
