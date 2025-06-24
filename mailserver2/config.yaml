@@ -1,5 +1,5 @@
 name: Mailserver2
-version: 1c01a3a
+version: ba3f30b
 slug: mailserver2
 description: Postfix and Dovecot mail server for Home Assistant, with Postfix Admin
   web interface
@@ -49,4 +49,5 @@ schema:
   smtp_relayhost_credentials: str?
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   message_size_limit: int
+  mynetworks: str?
 image: ghcr.io/erik73/mailserver2/{arch}
