@@ -1,5 +1,5 @@
-## What’s changed
+# Changelog since v4.0.3
+- Merge pull request #373 from erik73/restore-quota-check
 
-## 🐛 Bug fixes
-
-- Remove smtpd quota restriction to fix problems with wildcard aliases @erik73 ([#372](https://github.com/erik73/addon-mail/pull/372))
+Restore quota policy check 
+- Restore quota policy check 
