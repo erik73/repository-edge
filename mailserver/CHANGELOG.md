@@ -1,5 +1,8 @@
-# Changelog since v4.0.3
-- Merge pull request #373 from erik73/restore-quota-check
+# Changelog since v4.0.4
+- Merge pull request #374 from erik73/mynetworks
 
-Restore quota policy check 
-- Restore quota policy check 
+Mynetworks 
+- Add empty line 
+- Add empty line 
+- Prettified Code! 
+- Add config option for mynetworks 
