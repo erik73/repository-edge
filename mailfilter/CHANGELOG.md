@@ -1,9 +1,4 @@
-## What’s changed
+# Changelog since v4.2.0
+- ⬆️ Update Clamav to v1.4.3-r0 (#283)
 
-## ✨ New features
-
-- Add option to activate additional GTUBE tests @erik73 ([#281](https://github.com/erik73/addon-mailfilter/pull/281))
-
-## 📚 Documentation
-
-- Add documentation for GTUBE tests @erik73 ([#282](https://github.com/erik73/addon-mailfilter/pull/282))
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
