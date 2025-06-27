@@ -1,8 +1,9 @@
-# Changelog since v4.0.4
-- Merge pull request #374 from erik73/mynetworks
+## What’s changed
 
-Mynetworks 
-- Add empty line 
-- Add empty line 
-- Prettified Code! 
-- Add config option for mynetworks 
+## ✨ New features
+
+- Mynetworks @erik73 ([#374](https://github.com/erik73/addon-mail/pull/374))
+
+## 📚 Documentation
+
+- Update documentation @erik73 ([#375](https://github.com/erik73/addon-mail/pull/375))
