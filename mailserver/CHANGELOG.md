@@ -1,5 +1,5 @@
-# Changelog since v4.1.0
-- Merge pull request #376 from erik73/fix-global-sieve
+# Changelog since v4.1.1
+- Merge pull request #377 from erik73/enable-managesieve
 
-Fix global sieve script 
-- Fix global sieve script 
+Configure settings for ManageSieve 
+- Configure settings for ManageSieve 
