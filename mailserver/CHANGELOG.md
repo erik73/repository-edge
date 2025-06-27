@@ -1,10 +1,16 @@
-# Changelog since v4.1.1
-- Merge pull request #378 from erik73/personal-sieve
+## What’s changed
 
-More changes to make personal Sieve scripts work 
-- More changes to make personal Sieve scripts work 
-- Fix ports 
-- Merge pull request #377 from erik73/enable-managesieve
+Personal Sieve scripts: It is now possible to upload personal Sieve scripts on port 4190! 
+Use a mail client that supports Sieve, or a stand-alone tools for this.
 
-Configure settings for ManageSieve 
-- Configure settings for ManageSieve 
+## ✨ New features
+
+- Configure settings for ManageSieve @erik73 ([#377](https://github.com/erik73/addon-mail/pull/377))
+
+## 🐛 Bug fixes
+
+- More changes to make personal Sieve scripts work @erik73 ([#378](https://github.com/erik73/addon-mail/pull/378))
+
+## 📚 Documentation
+
+- Update documentation @erik73 ([#379](https://github.com/erik73/addon-mail/pull/379))
