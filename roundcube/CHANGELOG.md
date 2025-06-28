@@ -1,1 +1,1 @@
-- Fix logging
+- Make scripts executable
