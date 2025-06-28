@@ -1,1 +1,1 @@
-- Set database name
+- Initial config file

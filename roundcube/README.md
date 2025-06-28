@@ -34,5 +34,5 @@ If you are more interested in stable releases of our add-ons:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-c1e38c9-blue.svg
-[release]: https://github.com/erik73/addon-roundcube/tree/c1e38c9
+[release-shield]: https://img.shields.io/badge/version-cf20159-blue.svg
+[release]: https://github.com/erik73/addon-roundcube/tree/cf20159
