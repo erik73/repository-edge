@@ -1,1 +1,1 @@
-- Make script executable
+- Fix typo
