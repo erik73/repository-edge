@@ -1,1 +1,1 @@
-- Make scripts executable
+- Merge branch 'main' of https://github.com/erik73/addon-roundcube
