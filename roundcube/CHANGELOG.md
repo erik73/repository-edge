@@ -1,1 +1,1 @@
-- Initial config file
+- Fix logging
