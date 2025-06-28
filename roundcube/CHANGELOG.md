@@ -1,1 +1,1 @@
-- Split DB lines
+- Set database name
