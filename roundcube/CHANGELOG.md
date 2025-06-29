@@ -1,1 +1,1 @@
-- Add missing packages
+- Add correct imap host
