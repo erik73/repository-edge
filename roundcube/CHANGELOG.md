@@ -1,1 +1,1 @@
-- Restore setting
+- Add missing packages
