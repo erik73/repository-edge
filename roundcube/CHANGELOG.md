@@ -1,1 +1,1 @@
-- Test path
+- Restore setting
