@@ -1,1 +1,1 @@
-- Add correct imap host
+- Fix one version
