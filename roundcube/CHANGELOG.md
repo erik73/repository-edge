@@ -1,1 +1,1 @@
-- Allow all to connect
+- Auto create user
