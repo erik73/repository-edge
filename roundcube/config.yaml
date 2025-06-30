@@ -1,5 +1,5 @@
 name: Roundcube
-version: e8c52c5
+version: '7571475'
 slug: roundcube
 description: Roundcube webmail client
 url: https://github.com/erik73/hassio-addons
@@ -16,6 +16,10 @@ map:
 - ssl
 services:
 - mysql:need
+ports:
+  8099/tcp: 8099
+ports_description:
+  8099/tcp: Roundcube
 hassio_api: true
 options:
   domain_name: mydomain.no-ip.com

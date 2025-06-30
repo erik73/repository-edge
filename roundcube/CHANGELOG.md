@@ -1,1 +1,1 @@
-- Add logging settings
+- Change doc root and expose ports
