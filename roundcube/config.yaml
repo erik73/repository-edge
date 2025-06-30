@@ -1,5 +1,5 @@
 name: Roundcube
-version: 0f43132
+version: bb3cc62
 slug: roundcube
 description: Roundcube webmail client
 url: https://github.com/erik73/hassio-addons
@@ -10,7 +10,6 @@ arch:
 - i386
 init: false
 ingress: true
-ingress_stream: true
 panel_icon: mdi:email
 map:
 - ssl
