@@ -1,1 +1,1 @@
-- Add IMAP Servers list
+- Add logging settings
