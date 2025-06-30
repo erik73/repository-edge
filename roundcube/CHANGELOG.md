@@ -1,1 +1,1 @@
-- Specify managesieve-port
+- Use TLS
