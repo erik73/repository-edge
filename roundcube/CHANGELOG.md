@@ -1,1 +1,1 @@
-- restore path split
+- change root in Nginx
