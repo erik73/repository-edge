@@ -1,1 +1,1 @@
-- Change doc root and expose ports
+- Allow all to connect
