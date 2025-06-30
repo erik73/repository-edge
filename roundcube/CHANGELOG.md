@@ -1,1 +1,1 @@
-- change root in Nginx
+- Add IMAP Servers list
