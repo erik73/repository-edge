@@ -1,3 +1,5 @@
-- Merge pull request #2 from erik73/php83
+# Changelog since v0.1.1
+- Merge pull request #3 from erik73/Documentation
 
-Php83
+Update readme 
+- Update readme 
