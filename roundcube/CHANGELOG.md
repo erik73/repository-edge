@@ -1,4 +1,5 @@
 # Changelog since v0.1.1
+- Wait for the correct port 
 - Make script executable 
 - Merge pull request #4 from erik73/refactor-nginx
 
