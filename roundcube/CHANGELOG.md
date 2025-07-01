@@ -1,4 +1,5 @@
 # Changelog since v0.1.1
+- Use internal IP addressing 
 - Provide IMAP hostname 
 - Wait for the correct port 
 - Make script executable 
