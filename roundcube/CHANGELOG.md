@@ -1,4 +1,11 @@
 # Changelog since v0.1.1
+- Make script executable 
+- Merge pull request #4 from erik73/refactor-nginx
+
+Refactor nginx 
+- Add script file for Nginx 
+- Fix paste error 
+- Refactor Nginx 
 - Add icon and logo 
 - Fix typo 
 - Fix typo 
