@@ -1,4 +1,8 @@
 # Changelog since v0.1.1
+- Merge pull request #6 from erik73/config-settings
+
+Configure Roundcube 
+- Configure Roundcube 
 - Fix template and increase security 
 - More Docs 
 - Update Docs 
