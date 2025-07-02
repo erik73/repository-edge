@@ -1,4 +1,9 @@
 # Changelog since v0.1.1
+- Merge pull request #5 from erik73/renovate/php
+
+⬆️ Update PHP to v8.3.23-r0 
+- ⬆️ Update PHP to v8.3.23-r0 
+- Update renovate 
 - Use internal IP addressing 
 - Provide IMAP hostname 
 - Wait for the correct port 
