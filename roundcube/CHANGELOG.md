@@ -1,4 +1,5 @@
 # Changelog since v0.1.1
+- More Docs 
 - Update Docs 
 - Merge pull request #5 from erik73/renovate/php
 
