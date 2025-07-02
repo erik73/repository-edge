@@ -1,4 +1,5 @@
 # Changelog since v0.1.1
+- Fix template and increase security 
 - More Docs 
 - Update Docs 
 - Merge pull request #5 from erik73/renovate/php
