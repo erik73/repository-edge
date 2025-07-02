@@ -1,4 +1,8 @@
 # Changelog since v0.1.1
+- Merge pull request #7 from erik73/prepare-release
+
+Clean up config for release 
+- Clean up config for release 
 - Merge pull request #6 from erik73/config-settings
 
 Configure Roundcube 
