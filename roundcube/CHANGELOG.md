@@ -1,4 +1,6 @@
 # Changelog since v1.0.0
+- More corrections 
+- Remove include 
 - Oops, deleted file 
 - Allow run as root 
 - Use the correct user and remove include 
