@@ -1,4 +1,8 @@
 # Changelog since v3.0.0
+- Merge pull request #291 from erik73/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v5.0.2 
+- ⬆️ Update Add-on base image to v5.0.2 
 - ⬆️ Update Add-on base image to v5.0.1 (#290)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
