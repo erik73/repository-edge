@@ -1,4 +1,5 @@
-# Changelog since v1.0.1
-- ⬆️ Update PHP to v8.2.29-r0 (#11)
+## What’s changed
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+## ⬆️ Dependency updates
+
+- ⬆️ Update PHP to v8.2.29-r0 @[renovate[bot]](https://github.com/apps/renovate) ([#11](https://github.com/erik73/addon-phpmyadmin/pull/11))
