@@ -1,5 +1,4 @@
-## What’s changed
+# Changelog since v1.0.2
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v5.0.2 (#12)
 
-## ⬆️ Dependency updates
-
-- ⬆️ Update PHP to v8.2.29-r0 @[renovate[bot]](https://github.com/apps/renovate) ([#11](https://github.com/erik73/addon-phpmyadmin/pull/11))
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
