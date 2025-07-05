@@ -1,4 +1,6 @@
-# Changelog since v4.2.1
-- ⬆️ Update Add-on base image to v5.0.1 (#284)
+## What’s changed
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+## ⬆️ Dependency updates
+
+- ⬆️ Update Add-on base image to v5.0.1 @[renovate[bot]](https://github.com/apps/renovate) ([#284](https://github.com/erik73/addon-mailfilter/pull/284))
+- ⬆️ Update Add-on base image to v5.0.2 @[renovate[bot]](https://github.com/apps/renovate) ([#285](https://github.com/erik73/addon-mailfilter/pull/285))
