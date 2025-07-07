@@ -1,6 +1,4 @@
-## What’s changed
+# Changelog since v4.2.2
+- ⬆️ Update alpine_3_22/redis to v8.0.3-r0 (#286)
 
-## ⬆️ Dependency updates
-
-- ⬆️ Update Add-on base image to v5.0.1 @[renovate[bot]](https://github.com/apps/renovate) ([#284](https://github.com/erik73/addon-mailfilter/pull/284))
-- ⬆️ Update Add-on base image to v5.0.2 @[renovate[bot]](https://github.com/apps/renovate) ([#285](https://github.com/erik73/addon-mailfilter/pull/285))
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
