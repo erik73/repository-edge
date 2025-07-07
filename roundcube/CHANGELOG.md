@@ -1,4 +1,8 @@
 # Changelog since v1.0.0
+- Merge pull request #12 from erik73/Cleanup
+
+Clean up some of the config files 
+- Clean up some of the config files 
 - ⬆️ Update ghcr.io/erik73/base Docker tag to v5.0.2 (#11)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
