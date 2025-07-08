@@ -1,4 +1,10 @@
 # Changelog since v1.0.0
+- Merge pull request #14 from RubenNL/fix-ingress
+
+Fixed ingress for current hassio versions. 
+- Ignore shellcheck expansion on sed line. 
+- Automatically patch roundcube when required. 
+- Fixed ingress for current hassio versions. 
 - Merge pull request #13 from erik73/new-features
 
 Add vacation and markasjunk to configuration 
