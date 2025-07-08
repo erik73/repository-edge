@@ -1,4 +1,5 @@
 # Changelog since v1.0.0
+- Set ssl options to same as current release 
 - Merge pull request #14 from RubenNL/fix-ingress
 
 Fixed ingress for current hassio versions. 
