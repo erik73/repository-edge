@@ -1,4 +1,8 @@
 # Changelog since v1.0.0
+- Merge pull request #13 from erik73/new-features
+
+Add vacation and markasjunk to configuration 
+- Add vacation and markasjunk to configuration 
 - Merge pull request #12 from erik73/Cleanup
 
 Clean up some of the config files 
