@@ -1,5 +1,5 @@
 name: Mailserver
-version: 4.2.2
+version: 60e5977
 slug: mailserver
 description: Postfix and Dovecot mail server for Home Assistant, with Postfix Admin
   web interface
@@ -16,7 +16,9 @@ panel_icon: mdi:email
 map:
 - ssl
 services:
+- mailserver:provide
 - mysql:need
+startup: services
 ports:
   25/tcp: 25
   465/tcp: 465

@@ -1,6 +1,5 @@
-## What’s changed
+# Changelog since v4.2.2
+- Merge pull request #385 from erik73/services
 
-## ⬆️ Dependency updates
-
-- ⬆️ Update PHP to v8.4.10-r0 @[renovate[bot]](https://github.com/apps/renovate) ([#383](https://github.com/erik73/addon-mail/pull/383))
-- ⬆️ Update ghcr.io/erik73/base Docker tag to v5.0.2 @[renovate[bot]](https://github.com/apps/renovate) ([#384](https://github.com/erik73/addon-mail/pull/384))
+Publish the Mailserver as a service. 
+- Publish the Mailserver as a service. 
