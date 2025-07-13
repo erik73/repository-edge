@@ -1,5 +1,5 @@
-## What’s changed
+# Changelog since v4.2.4
+- Merge pull request #390 from RubenNL/prevent-ignored-errors
 
-## 🐛 Bug fixes
-
-- Relax postfix versions @erik73 ([#389](https://github.com/erik73/addon-mail/pull/389))
+Prevent ignoring errors caused by `;` 
+- Prevent ignoring errors caused by `;` 
