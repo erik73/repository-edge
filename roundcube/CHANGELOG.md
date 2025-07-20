@@ -1,6 +1,4 @@
-# Changelog since v1.1.0
-- Merge pull request #15 from erik73/update-docs
+# Changelog since v1.1.1
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v5.0.3 (#16)
 
-Update docs 
-- Prettified Code! 
-- Update docs 
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
