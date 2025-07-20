@@ -1,4 +1,8 @@
 # Changelog since v4.2.5
+- Merge pull request #397 from erik73/pop3s
+
+Update docs 
+- Update docs 
 - Merge pull request #396 from erik73/pop3s
 
 Add pop3 service 
