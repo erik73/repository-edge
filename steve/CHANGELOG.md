@@ -1,4 +1,8 @@
 # Changelog since v3.0.0
+- Merge pull request #294 from erik73/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v5.0.3 
+- ⬆️ Update Add-on base image to v5.0.3 
 - Merge pull request #293 from erik73/renovate/alpine_3_22-openjdk17-17.x
 
 ⬆️ Update alpine_3_22/openjdk17 to v17.0.16_p8-r0 
