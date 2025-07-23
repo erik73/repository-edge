@@ -1,4 +1,8 @@
 # Changelog since v3.0.0
+- Merge pull request #293 from erik73/renovate/alpine_3_22-openjdk17-17.x
+
+⬆️ Update alpine_3_22/openjdk17 to v17.0.16_p8-r0 
+- ⬆️ Update alpine_3_22/openjdk17 to v17.0.16_p8-r0 
 - ⬆️ Update alpine_3_22/git to v2.49.1-r0 (#292)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
