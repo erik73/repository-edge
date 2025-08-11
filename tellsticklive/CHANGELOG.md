@@ -1,4 +1,28 @@
 # Changelog since v1.1.8
+- Merge pull request #215 from erik73/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v4.0.8 
+- ⬆️ Update Add-on base image to v4.0.8 
+- Merge pull request #213 from erik73/renovate/alpine_3_22-git-2.x
+
+⬆️ Update alpine_3_22/git to v2.49.1-r0 
+- Merge pull request #212 from erik73/renovate/alpine_3_22-socat-1.x
+
+⬆️ Update alpine_3_22/socat to v1.8.0.3-r1 
+- ⬆️ Update alpine_3_22/git to v2.49.1-r0 
+- ⬆️ Update alpine_3_22/socat to v1.8.0.3-r1 
+- Merge pull request #211 from erik73/renovate/alpine_3_22-libstdc++-14.x
+
+⬆️ Update alpine_3_22/libstdc++ to v14.2.0-r6 
+- Merge pull request #210 from erik73/renovate/alpine_3_22-gcc-14.x
+
+⬆️ Update alpine_3_22/gcc to v14.2.0-r6 
+- Merge pull request #209 from erik73/renovate/alpine_3_22-cmake-3.x
+
+⬆️ Update alpine_3_22/cmake to v3.31.7-r1 
+- ⬆️ Update alpine_3_22/libstdc++ to v14.2.0-r6 
+- ⬆️ Update alpine_3_22/gcc to v14.2.0-r6 
+- ⬆️ Update alpine_3_22/cmake to v3.31.7-r1 
 - Merge pull request #214 from erik73/renovate/migrate-config
 
 ⬆️: migrate renovate config 
