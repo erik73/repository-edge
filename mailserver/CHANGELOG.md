@@ -1,4 +1,7 @@
 # Changelog since v4.3.0
+- ⬆️ Update alpine_3_22/mariadb-client to v11.4.8-r0 (#402)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #400 from erik73/renovate/postfix
 
 ⬆️ Update Postfix to v3.10.4-r0 
