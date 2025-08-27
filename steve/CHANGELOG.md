@@ -1,4 +1,7 @@
 # Changelog since v3.0.0
+- ⬆️ Update alpine_3_22/mariadb-client to v11.4.8-r0 (#296)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Add-on base image to v5.0.4 (#295)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
