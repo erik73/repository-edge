@@ -1,4 +1,12 @@
 # Changelog since v3.0.0
+- Merge pull request #297 from erik73/renovate/steve-ocpp-3.x
+
+⬆️ Update SteVe OCPP to v3.8.0 
+- ⬆️ Update SteVe OCPP to v3.8.0 
+- Merge pull request #298 from erik73/erik73-patch-1
+
+Update OpenJDK 
+- Update OpenJDK 
 - ⬆️ Update alpine_3_22/mariadb-client to v11.4.8-r0 (#296)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
