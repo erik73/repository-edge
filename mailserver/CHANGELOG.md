@@ -1,4 +1,10 @@
 # Changelog since v4.3.0
+- Merge pull request #406 from erik73/erik73-patch-2
+
+Fix tar command error 
+- Update Dockerfile
+
+Fax Tar error 
 - ⬆️ Update alpine_3_22/mariadb-client to v11.4.8-r0 (#402)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
