@@ -1,4 +1,13 @@
 # Changelog since v4.3.0
+- Merge pull request #404 from erik73/renovate/postfixadmin-postfixadmin-3.x
+
+⬆️ Update postfixadmin/postfixadmin to v3.3.16 
+- Update Dockerfile 
+- ⬆️ Update postfixadmin/postfixadmin to v3.3.16 
+- Merge pull request #407 from erik73/erik73-patch-3
+
+Change download link for postfix 
+- Change download link for postfix 
 - Merge pull request #406 from erik73/erik73-patch-2
 
 Fix tar command error 
