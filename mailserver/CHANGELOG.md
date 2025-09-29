@@ -1,4 +1,8 @@
 # Changelog since v4.3.0
+- Merge pull request #410 from erik73/max_userip
+
+Allow to change the number of IMAP connections per client 
+- Allow to change the numbewr of IMAP connections per client 
 - Merge pull request #405 from erik73/renovate/postfixadmin-postfixadmin-4.x
 
 ⬆️ Update postfixadmin/postfixadmin to v4 
