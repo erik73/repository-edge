@@ -1,4 +1,8 @@
 # Changelog since v4.3.0
+- Merge pull request #411 from erik73/composer
+
+Add composer package 
+- Add composer package 
 - Merge pull request #410 from erik73/max_userip
 
 Allow to change the number of IMAP connections per client 
