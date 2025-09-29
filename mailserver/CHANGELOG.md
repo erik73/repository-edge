@@ -1,4 +1,16 @@
 # Changelog since v4.3.0
+- Merge pull request #405 from erik73/renovate/postfixadmin-postfixadmin-4.x
+
+⬆️ Update postfixadmin/postfixadmin to v4 
+- ⬆️ Update postfixadmin/postfixadmin to v4 
+- Merge pull request #408 from erik73/renovate/php
+
+⬆️ Update PHP to v8.4.13-r0 
+- ⬆️ Update PHP to v8.4.13-r0 
+- Merge pull request #409 from erik73/renovate/add-on-base-image
+
+⬆️ Update ghcr.io/erik73/base Docker tag to v5.0.5 
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v5.0.5 
 - Merge pull request #404 from erik73/renovate/postfixadmin-postfixadmin-3.x
 
 ⬆️ Update postfixadmin/postfixadmin to v3.3.16 
