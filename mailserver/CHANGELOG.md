@@ -1,4 +1,6 @@
 # Changelog since v4.3.0
+- Do not use cd 
+- Fixes 
 - Make script executable 
 - Run install.sh 
 - Merge pull request #411 from erik73/composer
