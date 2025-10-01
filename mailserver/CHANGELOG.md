@@ -1,4 +1,12 @@
 # Changelog since v4.3.0
+- Merge pull request #412 from erik73/renovate/add-on-base-image
+
+⬆️ Update ghcr.io/erik73/base Docker tag to v5.0.6 
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v5.0.6 
+- Update 10-create-config.sh 
+- Update Dockerfile 
+- Update Dockerfile 
+- Install in dockerfile 
 - Do not use cd 
 - Fixes 
 - Make script executable 
