@@ -1,4 +1,6 @@
 # Changelog since v4.3.0
+- Correct syntax in docker file 
+- Use virtual dependencies 
 - Merge pull request #412 from erik73/renovate/add-on-base-image
 
 ⬆️ Update ghcr.io/erik73/base Docker tag to v5.0.6 
