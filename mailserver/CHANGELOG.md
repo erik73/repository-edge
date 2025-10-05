@@ -1,4 +1,6 @@
 # Changelog since v4.3.0
+- Prettified Code! 
+- Update docs 
 - Fix sed statement 
 - Correct syntax in docker file 
 - Use virtual dependencies 
