@@ -1,4 +1,7 @@
 # Changelog since v4.2.2
+- ⬆️ Update alpine_3_22/redis to v8.0.4-r0 (#291)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Add-on base image to v5.0.6 (#290)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
