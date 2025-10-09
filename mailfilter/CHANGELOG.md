@@ -1,4 +1,8 @@
 # Changelog since v4.2.2
+- Merge pull request #292 from erik73/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v5.0.7 
+- ⬆️ Update Add-on base image to v5.0.7 
 - ⬆️ Update alpine_3_22/redis to v8.0.4-r0 (#291)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
