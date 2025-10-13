@@ -1,4 +1,7 @@
 # Changelog since v1.1.1
+- Merge pull request #21 from RubenNL/remove-session-patch
+
+Removed the patch introduced in #14. 
 - Merge pull request #20 from erik73/renovate/alpine_3_22-mariadb-client-11.x
 
 ⬆️ Update alpine_3_22/mariadb-client to v11.4.8-r0 
@@ -11,6 +14,7 @@
 
 ⬆️ Update ghcr.io/erik73/base Docker tag to v5.0.7 
 - ⬆️ Update ghcr.io/erik73/base Docker tag to v5.0.7 
+- Removed the patch introduced in #14. 
 - Merge pull request #19 from erik73/renovate/add-on-base-image
 
 ⬆️ Update ghcr.io/erik73/base Docker tag to v5.0.4 
