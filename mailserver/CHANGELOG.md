@@ -1,8 +1,11 @@
-## What’s changed
+# Changelog since v5.0.1
+- ⬆️ Update Postfix to v3.10.6-r0 (#420)
 
-## 🐛 Bug fixes
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update Postfix to v3.10.5-r0 (#419)
 
-- Revert to md5crypt @erik73 ([#414](https://github.com/erik73/addon-mail/pull/414))
-- New try with "Revert to md5crypt" @erik73 ([#415](https://github.com/erik73/addon-mail/pull/415))
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Merge pull request #417 from erik73/renovate/php
 
-- Fix for #413 
+⬆️ Update PHP to v8.4.14-r0 
+- ⬆️ Update PHP to v8.4.14-r0 
