@@ -1,4 +1,5 @@
 # Changelog since v1.1.8
+- Update depNameTemplate to alpine_3_23 
 - Merge pull request #215 from erik73/renovate/add-on-base-image
 
 ⬆️ Update Add-on base image to v4.0.8 
