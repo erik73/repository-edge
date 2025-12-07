@@ -1,4 +1,28 @@
 # Changelog since v3.0.0
+- Merge pull request #307 from erik73/renovate/alpine_3_23-git-2.x
+
+⬆️ Update alpine_3_23/git to v2.52.0-r0 
+- ⬆️ Update alpine_3_23/git to v2.52.0-r0 
+- Merge pull request #306 from erik73/renovate/alpine_3_23-nginx-1.x
+
+⬆️ Update alpine_3_23/nginx to v1.28.0-r8 
+- ⬆️ Update alpine_3_23/nginx to v1.28.0-r8 
+- Merge pull request #305 from erik73/renovate/alpine_3_23-maven-3.x
+
+⬆️ Update alpine_3_23/maven to v3.9.11-r0 
+- ⬆️ Update alpine_3_23/maven to v3.9.11-r0 
+- Merge pull request #304 from erik73/renovate/alpine_3_23-mariadb-client-11.x
+
+⬆️ Update alpine_3_23/mariadb-client to v11.4.9-r0 
+- ⬆️ Update alpine_3_23/mariadb-client to v11.4.9-r0 
+- Merge pull request #303 from erik73/renovate/steve-ocpp-3.x
+
+⬆️ Update SteVe OCPP to v3.9.0 
+- ⬆️ Update SteVe OCPP to v3.9.0 
+- Merge pull request #308 from erik73/renovate/major-add-on-base-image
+
+⬆️ Update Add-on base image to v6 (major) 
+- ⬆️ Update Add-on base image to v6 
 - Update depNameTemplate to alpine_3_23 
 - ⬆️ Update alpine_3_22/openjdk21 to v21.0.9_p10-r0 (#302)
 
