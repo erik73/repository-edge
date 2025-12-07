@@ -1,4 +1,8 @@
 # Changelog since v5.0.1
+- ⬆️ Update Postfix to v3.10.7-r0 (#425)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Update depNameTemplate to alpine_3_23 
 - ⬆️ Update Postfix to v3.10.6-r0 (#420)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
