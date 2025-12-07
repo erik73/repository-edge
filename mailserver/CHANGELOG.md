@@ -1,4 +1,17 @@
 # Changelog since v5.0.1
+- Merge pull request #421 from erik73/renovate/alpine_3_23-mariadb-client-11.x
+
+⬆️ Update alpine_3_23/mariadb-client to v11.4.9-r0 
+- ⬆️ Update alpine_3_23/mariadb-client to v11.4.9-r0 
+- Merge pull request #427 from erik73/deprecated-architectures
+
+Remove deprecated architectures 
+- Merge branch 'main' into deprecated-architectures 
+- Merge pull request #428 from erik73/renovate/major-add-on-base-image
+
+⬆️ Update ghcr.io/erik73/base Docker tag to v6 
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v6 
+- Remove deprecated architectures 
 - ⬆️ Update Postfix to v3.10.7-r0 (#425)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
