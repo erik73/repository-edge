@@ -1,4 +1,5 @@
 # Changelog since v1.1.1
+- Update depNameTemplate to alpine_3_23 
 - ⬆️ Update PHP to v8.3.27-r0 (#24)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
