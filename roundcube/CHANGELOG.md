@@ -1,4 +1,8 @@
 # Changelog since v1.1.1
+- Merge pull request #30 from erik73/renovate/roundcube-roundcubemail-1.x
+
+⬆️ Update roundcube/roundcubemail to v1.6.12 
+- ⬆️ Update roundcube/roundcubemail to v1.6.12 
 - Merge pull request #27 from erik73/renovate/php
 
 ⬆️ Update PHP 
