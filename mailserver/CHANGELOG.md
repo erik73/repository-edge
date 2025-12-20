@@ -1,4 +1,7 @@
 # Changelog since v6.0.1
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v6.0.1 (#437)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #436 from erik73/Alpine-3-23
 
 Use Alpine 3.23 again 
