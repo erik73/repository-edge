@@ -1,4 +1,7 @@
 # Changelog since v3.0.0
+- ⬆️ Update Add-on base image to v6.0.1 (#310)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #307 from erik73/renovate/alpine_3_23-git-2.x
 
 ⬆️ Update alpine_3_23/git to v2.52.0-r0 
