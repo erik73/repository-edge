@@ -1,4 +1,7 @@
 # Changelog since v6.0.1
+- ⬆️ Update PHP to v8.4.16-r0 (#438)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/erik73/base Docker tag to v6.0.1 (#437)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
