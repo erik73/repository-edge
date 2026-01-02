@@ -1,6 +1,10 @@
 # Changelog since v3.0.0
+- Merge pull request #309 from erik73/renovate/steve-ocpp-3.x
+
+⬆️ Update SteVe OCPP to v3.10.0 
 - test raname file 
 - Fix timezone 
+- ⬆️ Update SteVe OCPP to v3.10.0 
 - Use correct config file 
 - Merge pull request #311 from erik73/fix-ssl
 
