@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- test raname file 
 - Fix timezone 
 - Use correct config file 
 - Merge pull request #311 from erik73/fix-ssl
