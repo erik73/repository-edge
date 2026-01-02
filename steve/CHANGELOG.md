@@ -1,4 +1,8 @@
 # Changelog since v3.0.0
+- Merge pull request #311 from erik73/fix-ssl
+
+Fix ssl errors connecting to database 
+- Fix ssl errors connecting to database 
 - ⬆️ Update Add-on base image to v6.0.1 (#310)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
