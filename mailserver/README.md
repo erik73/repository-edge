@@ -34,5 +34,5 @@ If you are more interested in stable releases of our add-ons:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-e8f37cc-blue.svg
-[release]: https://github.com/erik73/addon-mail/tree/e8f37cc
+[release-shield]: https://img.shields.io/badge/version-984c391-blue.svg
+[release]: https://github.com/erik73/addon-mail/tree/984c391

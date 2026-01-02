@@ -1,4 +1,5 @@
 # Changelog since v6.0.1
+- Add empty line 
 - Merge pull request #440 from erik73/fix-ssl
 
 Fix ssl errors in postfix 
