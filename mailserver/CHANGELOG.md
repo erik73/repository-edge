@@ -1,4 +1,9 @@
 # Changelog since v6.0.1
+- Merge pull request #440 from erik73/fix-ssl
+
+Fix ssl errors in postfix 
+- Add original contens of file 
+- Force mariadb to not use SSL 
 - ⬆️ Update PHP to v8.4.16-r0 (#438)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
