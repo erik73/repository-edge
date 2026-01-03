@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- OpenJDK 25 
 - Merge pull request #309 from erik73/renovate/steve-ocpp-3.x
 
 ⬆️ Update SteVe OCPP to v3.10.0 
