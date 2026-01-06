@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- Remove NGINX 
 - Use WEBUI 
 - More nginx fixes 
 - Add ingress template 
