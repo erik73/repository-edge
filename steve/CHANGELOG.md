@@ -1,9 +1,4 @@
 # Changelog since v3.0.0
-- Change webui path to root 
-- Set context path to root 
-- Use HTTP for WEBUI 
-- Remove NGINX 
-- Use WEBUI 
 - More nginx fixes 
 - Add ingress template 
 - Fix ports 
