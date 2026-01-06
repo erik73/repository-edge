@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- Set context path to root 
 - More nginx fixes 
 - Add ingress template 
 - Fix ports 
