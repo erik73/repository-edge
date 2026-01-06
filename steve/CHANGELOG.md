@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- Use HTTP for WEBUI 
 - Remove NGINX 
 - Use WEBUI 
 - More nginx fixes 
