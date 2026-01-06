@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- Use WEBUI 
 - More nginx fixes 
 - Add ingress template 
 - Fix ports 
