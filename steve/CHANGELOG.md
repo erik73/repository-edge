@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- Add ingress template 
 - Fix ports 
 - Fix permissions 
 - Try to add Ingress 
