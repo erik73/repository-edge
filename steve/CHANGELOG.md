@@ -1,4 +1,7 @@
 # Changelog since v3.0.0
+- Update config.yaml 
+- Update ingress.gtpl 
+- Update config.yaml 
 - Use headless JDK 
 - Use move to save space 
 - Revert context path 

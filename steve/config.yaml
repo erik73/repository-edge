@@ -1,5 +1,5 @@
 name: SteVe
-version: 0b72f1b
+version: e4cf886
 slug: steve
 description: OCPP server for EV charging stations
 url: https://github.com/erik73/addon-steve
@@ -8,6 +8,8 @@ arch:
 - amd64
 stage: experimental
 ingress: true
+ingress_port: 0
+host_network: true
 ingress_stream: true
 init: false
 panel_icon: mdi:CarElectric
