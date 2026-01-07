@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- Remove Nginx and use webui 
 - test 
 - Update config.yaml 
 - Update config.yaml 
