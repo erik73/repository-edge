@@ -212,10 +212,10 @@ SOFTWARE.
 [roundcube-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [roundcube-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [roundcube-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-steve]: https://github.com/erik73/addon-steve/tree/84e2de5
-[addon-doc-steve]: https://github.com/erik73/addon-steve/blob/84e2de5/README.md
+[addon-steve]: https://github.com/erik73/addon-steve/tree/c566b4d
+[addon-doc-steve]: https://github.com/erik73/addon-steve/blob/c566b4d/README.md
 [steve-issue]: https://github.com/erik73/addon-steve/issues
-[steve-version-shield]: https://img.shields.io/badge/version-84e2de5-blue.svg
+[steve-version-shield]: https://img.shields.io/badge/version-c566b4d-blue.svg
 [steve-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [steve-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [steve-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
