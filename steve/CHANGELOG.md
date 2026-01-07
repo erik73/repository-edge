@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- Revert context path 
 - Test wirk slash as context 
 - Set context path to root 
 - More nginx fixes 
