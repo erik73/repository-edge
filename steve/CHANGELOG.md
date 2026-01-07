@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- Use headless JDK 
 - Use move to save space 
 - Revert context path 
 - Test wirk slash as context 
