@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- Update 20-nginx.sh 
 - Update config.yaml 
 - Update ingress.gtpl 
 - Update config.yaml 
