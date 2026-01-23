@@ -1,14 +1,11 @@
 name: TellStick with Telldus Live
-version: 8edba2a
+version: 124fbbb
 slug: tellsticklive
 description: TellStick and TellStick Duo service with Telldus Live
 url: https://github.com/erik73/hassio-addons
 arch:
 - aarch64
 - amd64
-- armhf
-- armv7
-- i386
 startup: system
 init: false
 stdin: true

@@ -1,4 +1,25 @@
 # Changelog since v1.1.8
+- Merge pull request #220 from erik73/renovate/alpine_3_23-libstdc++-15.x
+
+⬆️ Update alpine_3_23/libstdc++ to v15 
+- Remove deprecated architectures 
+- ⬆️ Update alpine_3_23/libstdc++ to v15 
+- Merge pull request #219 from erik73/renovate/alpine_3_23-gcc-15.x
+
+⬆️ Update alpine_3_23/gcc to v15 
+- ⬆️ Update alpine_3_23/gcc to v15 
+- Merge pull request #218 from erik73/renovate/alpine_3_23-cmake-4.x
+
+⬆️ Update alpine_3_23/cmake to v4 
+- ⬆️ Update alpine_3_23/cmake to v4 
+- Merge pull request #217 from erik73/renovate/alpine_3_23-git-2.x
+
+⬆️ Update alpine_3_23/git to v2.52.0-r0 
+- Merge pull request #216 from erik73/renovate/major-add-on-base-image
+
+⬆️ Update Add-on base image to v5 (major) 
+- ⬆️ Update Add-on base image to v5 
+- ⬆️ Update alpine_3_23/git to v2.52.0-r0 
 - Update depNameTemplate to alpine_3_23 
 - Merge pull request #215 from erik73/renovate/add-on-base-image
 
