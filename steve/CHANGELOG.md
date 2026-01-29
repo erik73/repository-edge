@@ -1,4 +1,7 @@
 # Changelog since v3.0.0
+- ⬆️ Update alpine_3_23/openjdk25-jre-headless to v25.0.2_p10-r1 (#312)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Remove Nginx and use webui 
 - test 
 - Update config.yaml 
