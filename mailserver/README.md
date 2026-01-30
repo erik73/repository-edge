@@ -7,9 +7,9 @@ Provides Postfix, Postfix Admin web interface and Dovecot IMAP.
 
 ## About
 
-Important: This addon requires that the MariaDB addon is installed and running!
+Important: This app requires that the MariaDB app is installed and running!
 
-This addon is experimental, and provides a mailserver for your domain.
+This app is provides a mailserver for your domain.
 It is also possible to configure additional email domains and accounts in the Postfixadmin
 web interface.
 
@@ -32,7 +32,7 @@ If you are more interested in stable releases of our apps:
 
 <https://github.com/erik73/hassio-addons>
 
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-9168acd-blue.svg
-[release]: https://github.com/erik73/addon-mail/tree/9168acd
+[release-shield]: https://img.shields.io/badge/version-6189343-blue.svg
+[release]: https://github.com/erik73/addon-mail/tree/6189343

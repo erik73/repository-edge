@@ -1,4 +1,9 @@
 # Changelog since v6.0.2
+- Merge pull request #447 from erik73/2026
+
+Year 2026 and use app insted of addon 
+- Merge branch 'main' into 2026 
+- Year 2026 and use app insted of addon 
 - Merge pull request #446 from erik73/rename
 
 Rename Add-on to App 
