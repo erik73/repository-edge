@@ -1,4 +1,8 @@
 # Changelog since v2.0.0
+- Merge pull request #37 from erik73/ci-fix
+
+Point to correct CI Location 
+- Point to correct CI Location 
 - Merge pull request #36 from erik73/new-CI
 
 Update CI 
