@@ -1,4 +1,7 @@
 # Changelog since v5.0.0
+- ⬆️ Update Add-on base image to v6.0.2 (#303)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #302 from erik73/New-CI
 
 Migrate to new CI 
