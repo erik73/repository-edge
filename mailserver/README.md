@@ -1,4 +1,4 @@
-# Home Assistant Add-on: Mailserver
+# Home Assistant App: Mailserver
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -15,8 +15,8 @@ web interface.
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This repository contains edge builds of add-ons.
-Edge builds add-ons are based upon the latest development version.
+This repository contains edge builds of apps.
+Edge builds apps are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -25,14 +25,14 @@ Edge builds add-ons are based upon the latest development version.
 This repository was created for:
 
 - Anybody willing to test.
-- Anybody interested in trying out upcoming add-ons or add-on features.
+- Anybody interested in trying out upcoming apps or app features.
 - Developers.
 
-If you are more interested in stable releases of our add-ons:
+If you are more interested in stable releases of our apps:
 
 <https://github.com/erik73/hassio-addons>
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-327fdbc-blue.svg
-[release]: https://github.com/erik73/addon-mail/tree/327fdbc
+[release-shield]: https://img.shields.io/badge/version-9168acd-blue.svg
+[release]: https://github.com/erik73/addon-mail/tree/9168acd
