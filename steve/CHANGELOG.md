@@ -1,4 +1,8 @@
 # Changelog since v3.0.0
+- Merge pull request #313 from erik73/New-CI
+
+Migrate to new CI 
+- Migrate to new CI 
 - ⬆️ Update alpine_3_23/openjdk25-jre-headless to v25.0.2_p10-r1 (#312)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
