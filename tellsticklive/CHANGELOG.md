@@ -1,4 +1,8 @@
 # Changelog since v1.1.8
+- Merge pull request #221 from erik73/New-CI
+
+Migrate to new CI 
+- Migrate to new CI 
 - Merge pull request #220 from erik73/renovate/alpine_3_23-libstdc++-15.x
 
 ⬆️ Update alpine_3_23/libstdc++ to v15 
