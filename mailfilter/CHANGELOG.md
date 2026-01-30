@@ -1,4 +1,8 @@
 # Changelog since v5.0.0
+- Merge pull request #302 from erik73/New-CI
+
+Migrate to new CI 
+- Migrate to new CI 
 - Merge pull request #301 from erik73/renovate/just-containers-s6-overlay-3.x
 
 ⬆️ Update just-containers/s6-overlay to v3.2.2.0 
