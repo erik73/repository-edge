@@ -1,4 +1,8 @@
 # Changelog since v2.0.0
+- Merge pull request #39 from erik73/rename
+
+Rename Add-on to App 
+- Rename Add-on to App 
 - Merge pull request #38 from erik73/renovate/app-base-image
 
 ⬆️ Update ghcr.io/erik73/base Docker tag to v6.0.2 
