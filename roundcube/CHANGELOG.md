@@ -1,4 +1,9 @@
 # Changelog since v2.0.0
+- Merge pull request #38 from erik73/renovate/app-base-image
+
+⬆️ Update ghcr.io/erik73/base Docker tag to v6.0.2 
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v6.0.2 
+- Update renovate.json 
 - Merge pull request #35 from erik73/renovate/just-containers-s6-overlay-3.x
 
 ⬆️ Update just-containers/s6-overlay to v3.2.2.0 
