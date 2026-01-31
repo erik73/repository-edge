@@ -1,4 +1,8 @@
 # Changelog since v2.0.1
+- Merge pull request #28 from erik73/Rename
+
+Rename Add-on to App 
+- Rename Add-on to App 
 - Merge pull request #27 from erik73/New-CI
 
 Migrate to new CI 
