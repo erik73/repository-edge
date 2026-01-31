@@ -1,4 +1,5 @@
 # Changelog since v1.1.8
+- Add extends property for GitHub Action digests 
 - Merge pull request #221 from erik73/New-CI
 
 Migrate to new CI 
