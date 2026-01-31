@@ -1,4 +1,5 @@
 # Changelog since v6.0.2
+- Add extends property for GitHub Action digests 
 - Merge pull request #447 from erik73/2026
 
 Year 2026 and use app insted of addon 
