@@ -1,4 +1,5 @@
 # Changelog since v5.0.0
+- Add extends property for GitHub Action digests 
 - Merge pull request #304 from erik73/rename-year
 
 Year 2026 and rename add-on to app 
