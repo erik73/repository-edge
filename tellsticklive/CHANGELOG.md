@@ -1,4 +1,11 @@
 # Changelog since v1.1.8
+- Merge pull request #223 from erik73/Rename
+
+Rename Add-on to App 
+- ⬆️ Update Add-on base image to v5.0.4 (#222)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Rename Add-on to App 
 - Add extends property for GitHub Action digests 
 - Merge pull request #221 from erik73/New-CI
 

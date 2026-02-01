@@ -1,19 +1,19 @@
-# Home Assistant Add-on: TellStick with Telldus Live
+# Home Assistant App: TellStick with Telldus Live
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
-A modification version of the official Tellstick addon.
+A modification version of the official Tellstick app.
 
 ## About
 
-This add-on is a modification of the official TellStick addon.
+This app is a modification of the official TellStick app.
 It adds the ability to have your devices and sensors published Telldus Live.
-See the official addon documentation for details on device setup.
+See the official app documentation for details on device setup.
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This repository contains edge builds of add-ons.
-Edge builds add-ons are based upon the latest development version.
+This repository contains edge builds of apps.
+Edge builds apps are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -22,14 +22,14 @@ Edge builds add-ons are based upon the latest development version.
 This repository was created for:
 
 - Anybody willing to test.
-- Anybody interested in trying out upcoming add-ons or add-on features.
+- Anybody interested in trying out upcoming apps or app features.
 - Developers.
 
-If you are more interested in stable releases of our add-ons:
+If you are more interested in stable releases of our apps:
 
 <https://github.com/erik73/hassio-addons>
 
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-9b09e31-blue.svg
-[release]: https://github.com/erik73/addon-tellsticklive/tree/9b09e31
+[release-shield]: https://img.shields.io/badge/version-607988a-blue.svg
+[release]: https://github.com/erik73/addon-tellsticklive/tree/607988a
