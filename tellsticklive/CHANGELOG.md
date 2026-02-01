@@ -1,4 +1,5 @@
 # Changelog since v1.1.8
+- Update docs 
 - Prettified Code! 
 - Change permissions from read to write for contents 
 - Merge pull request #229 from erik73/renovate/erik73-workflows-1.x
@@ -820,6 +821,3 @@ updated-dependencies:
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #103 from erik73/dependabot/github_actions/docker/build-push-action-3.1.0
-
-Bump docker/build-push-action from 3.0.0 to 3.1.0 
