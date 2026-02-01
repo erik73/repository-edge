@@ -1,5 +1,5 @@
 name: TellStick with Telldus Live
-version: 607988a
+version: 6c8c77c
 slug: tellsticklive
 description: TellStick and TellStick Duo service with Telldus Live
 url: https://github.com/erik73/hassio-addons
@@ -45,7 +45,7 @@ schema:
   - id: int(1,)
     name: str
     protocol: match(arctech|brateck|comen|everflourish|fineoffset|fuhaote|hasta|ikea|kangtai|mandolyn|oregon|risingsun|sartano|silvanchip|upm|waveman|x10|yidong)
-    model: match(codeswitch|bell|selflearning-switch|selflearning-dimmer|selflearning|ecosavers|kp100|temperaturehumidity|temperature)?
+    model: str?
     house: str?
     code: str?
     unit: str?
@@ -54,5 +54,5 @@ schema:
   - id: int(1,)
     name: str
     protocol: match(arctech|brateck|comen|everflourish|fineoffset|fuhaote|hasta|ikea|kangtai|mandolyn|oregon|risingsun|sartano|silvanchip|upm|waveman|x10|yidong)
-    model: match(codeswitch|bell|selflearning-switch|selflearning-dimmer|selflearning|ecosavers|kp100|temperaturehumidity|temperature)?
+    model: str?
 image: ghcr.io/erik73/tellsticklive/{arch}
