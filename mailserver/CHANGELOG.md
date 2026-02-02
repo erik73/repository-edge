@@ -1,4 +1,8 @@
 # Changelog since v6.0.2
+- Merge pull request #448 from erik73/renovate/erik73-workflows-1.x
+
+⬆️ Update erik73/workflows action to v1.0.5 
+- ⬆️ Update erik73/workflows action to v1.0.5 
 - Add extends property for GitHub Action digests 
 - Merge pull request #447 from erik73/2026
 
