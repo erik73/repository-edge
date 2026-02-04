@@ -1,4 +1,12 @@
 # Changelog since v1.1.8
+- Remove API 
+- Fix spelling 
+- Remove api 
+- Update config 
+- Merge pull request #231 from erik73/renovate/erik73-workflows-1.x
+
+⬆️ Update erik73/workflows action to v1.0.5 
+- ⬆️ Update erik73/workflows action to v1.0.5 
 - Update docs 
 - Prettified Code! 
 - Change permissions from read to write for contents 
@@ -800,24 +808,3 @@ Signed-off-by: dependabot[bot] <support@github.com>
 - Use my fork for telldus 
 - Update build.json 
 - Alpine 3.16.2 
-- Try master branch for Telldus 
-- Adapt scripts for s6-overlay v3 
-- Make scripts executable 
-- Upgrade base image 
-- Merge pull request #104 from erik73/dependabot/github_actions/docker/build-push-action-3.1.1
-
-Bump docker/build-push-action from 3.1.0 to 3.1.1 
-- Bump docker/build-push-action from 3.1.0 to 3.1.1
-
-Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 3.1.0 to 3.1.1.
-- [Release notes](https://github.com/docker/build-push-action/releases)
-- [Commits](https://github.com/docker/build-push-action/compare/v3.1.0...v3.1.1)
-
----
-updated-dependencies:
-- dependency-name: docker/build-push-action
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
