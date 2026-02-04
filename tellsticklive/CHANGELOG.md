@@ -1,4 +1,8 @@
 # Changelog since v1.1.8
+- Merge pull request #233 from erik73/renovate/app-base-image
+
+⬆️ Update App base image to v5.0.5 
+- ⬆️ Update App base image to v5.0.5 
 - Set permissions 
 - Merge pull request #232 from erik73/s6-overlay
 
@@ -808,5 +812,3 @@ updated-dependencies:
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com> 
-- Init false 
-- Upgrade base 
