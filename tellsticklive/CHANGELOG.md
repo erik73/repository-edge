@@ -1,4 +1,5 @@
 # Changelog since v1.1.8
+- Set permissions 
 - Merge pull request #232 from erik73/s6-overlay
 
 Migrate S6-overlay to new layout 
@@ -809,4 +810,3 @@ updated-dependencies:
 Signed-off-by: dependabot[bot] <support@github.com> 
 - Init false 
 - Upgrade base 
-- Use my fork for telldus 
