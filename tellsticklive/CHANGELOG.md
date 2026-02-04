@@ -1,4 +1,8 @@
 # Changelog since v1.1.8
+- Merge pull request #232 from erik73/s6-overlay
+
+Migrate S6-overlay to new layout 
+- Migrate S6-overlay to new layout 
 - Remove API 
 - Fix spelling 
 - Remove api 
@@ -806,5 +810,3 @@ Signed-off-by: dependabot[bot] <support@github.com>
 - Init false 
 - Upgrade base 
 - Use my fork for telldus 
-- Update build.json 
-- Alpine 3.16.2 
