@@ -1,4 +1,7 @@
 # Changelog since v3.0.0
+- ⬆️ Update App base image to v6.0.4 (#317)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Add extends property for GitHub Action digests 
 - Merge pull request #315 from erik73/rename-year
 
