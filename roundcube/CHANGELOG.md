@@ -1,4 +1,8 @@
 # Changelog since v2.0.0
+- Merge pull request #46 from erik73/rename-year
+
+Year 2026 and fix missing rename of add-on 
+- Year 2026 and fix missing rename of add-on 
 - Merge pull request #43 from erik73/renovate/roundcube-roundcubemail-1.x
 
 ⬆️ Update roundcube/roundcubemail to v1.6.13 
