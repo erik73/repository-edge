@@ -1,4 +1,8 @@
 # Changelog since v6.0.2
+- Merge pull request #451 from erik73/renovate/app-base-image
+
+⬆️ Update ghcr.io/erik73/base Docker tag to v6.0.5 
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v6.0.5 
 - ⬆️ Update alpine_3_23/nginx to v1.28.2-r0 (#450)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
