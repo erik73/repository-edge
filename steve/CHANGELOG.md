@@ -1,4 +1,8 @@
 # Changelog since v3.0.0
+- Merge pull request #320 from erik73/renovate/app-base-image
+
+⬆️ Update App base image to v6.0.6 
+- ⬆️ Update App base image to v6.0.6 
 - Merge pull request #319 from erik73/renovate/app-base-image
 
 ⬆️ Update App base image to v6.0.5 
