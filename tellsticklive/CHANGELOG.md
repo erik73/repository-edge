@@ -1,4 +1,8 @@
 # Changelog since v1.1.8
+- Merge pull request #235 from erik73/renovate/app-base-image
+
+⬆️ Update App base image to v5.0.7 
+- ⬆️ Update App base image to v5.0.7 
 - Merge pull request #234 from erik73/renovate/app-base-image
 
 ⬆️ Update App base image to v5.0.6 
@@ -746,31 +750,3 @@ Bump release-drafter/release-drafter from 5.20.0 to 5.21.0
 - Merge pull request #112 from erik73/dependabot/github_actions/frenck/action-addon-linter-2.10
 
 Bump frenck/action-addon-linter from 2.9 to 2.10 
-- Bump docker/build-push-action from 3.1.1 to 3.2.0
-
-Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 3.1.1 to 3.2.0.
-- [Release notes](https://github.com/docker/build-push-action/releases)
-- [Commits](https://github.com/docker/build-push-action/compare/v3.1.1...v3.2.0)
-
----
-updated-dependencies:
-- dependency-name: docker/build-push-action
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Bump frenck/action-yamllint from 1.2 to 1.3
-
-Bumps [frenck/action-yamllint](https://github.com/frenck/action-yamllint) from 1.2 to 1.3.
-- [Release notes](https://github.com/frenck/action-yamllint/releases)
-- [Commits](https://github.com/frenck/action-yamllint/compare/v1.2...v1.3)
-
----
-updated-dependencies:
-- dependency-name: frenck/action-yamllint
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
