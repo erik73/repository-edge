@@ -1,4 +1,8 @@
 # Changelog since v2.0.0
+- Merge pull request #47 from erik73/rename-rep
+
+Rename repo to app-roundcube 
+- Rename repo to app-roundcube 
 - Merge pull request #46 from erik73/rename-year
 
 Year 2026 and fix missing rename of add-on 
