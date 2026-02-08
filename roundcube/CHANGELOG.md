@@ -1,4 +1,12 @@
 # Changelog since v2.0.0
+- Merge pull request #44 from erik73/renovate/app-base-image
+
+⬆️ Update ghcr.io/erik73/base Docker tag to v6.0.6 
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v6.0.6 
+- Merge pull request #45 from erik73/renovate/erik73-workflows-1.x
+
+⬆️ Update erik73/workflows action to v1.0.6 
+- ⬆️ Update erik73/workflows action to v1.0.6 
 - ⬆️ Update alpine_3_23/nginx to v1.28.2-r0 (#42)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
