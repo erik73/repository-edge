@@ -29,5 +29,5 @@ If you are more interested in stable releases of our apps:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-5a256a2-blue.svg
-[release]: https://github.com/erik73/app-steve/tree/5a256a2
+[release-shield]: https://img.shields.io/badge/version-0fa57a7-blue.svg
+[release]: https://github.com/erik73/app-steve/tree/0fa57a7
