@@ -45,6 +45,6 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-2b4ca5c-blue.svg
-[release]: https://github.com/erik73/addon-phpmyadmin/tree/2b4ca5c
+[release-shield]: https://img.shields.io/badge/version-6b04b8e-blue.svg
+[release]: https://github.com/erik73/addon-phpmyadmin/tree/6b04b8e
 [screenshot]: https://github.com/erik73/addon-phpmyadmin/raw/main/images/screenshot.png
