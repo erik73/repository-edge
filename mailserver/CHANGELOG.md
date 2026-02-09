@@ -1,4 +1,7 @@
 # Changelog since v6.0.2
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v6.0.6 (#453)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #451 from erik73/renovate/app-base-image
 
 ⬆️ Update ghcr.io/erik73/base Docker tag to v6.0.5 
