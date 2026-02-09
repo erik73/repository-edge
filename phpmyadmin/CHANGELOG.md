@@ -1,4 +1,7 @@
 # Changelog since v2.0.2
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v6.0.6 (#32)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_23/nginx to v1.28.2-r0 (#31)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
