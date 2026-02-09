@@ -1,4 +1,13 @@
 # Changelog since v3.0.0
+- Merge pull request #322 from erik73/s6-overlay
+
+Migrate to new S6-overlay layout 
+- Rename repo 
+- Migrate to new S6-overlay layout 
+- Merge pull request #321 from erik73/renovate/erik73-workflows-1.x
+
+⬆️ Update erik73/workflows action to v1.0.6 
+- ⬆️ Update erik73/workflows action to v1.0.6 
 - Merge pull request #320 from erik73/renovate/app-base-image
 
 ⬆️ Update App base image to v6.0.6 
