@@ -1,4 +1,8 @@
 # Changelog since v2.0.2
+- Merge pull request #34 from erik73/rename-year
+
+Rename repo and set year to 2026 
+- Rename repo and set year to 2026 
 - Merge pull request #33 from erik73/renovate/erik73-workflows-1.x
 
 ⬆️ Update erik73/workflows action to v1.0.6 
