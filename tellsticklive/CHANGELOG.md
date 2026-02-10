@@ -1,4 +1,12 @@
 # Changelog since v1.1.8
+- Merge pull request #237 from erik73/Rename
+
+Rename add-on to app 
+- Rename add-on to app 
+- Merge pull request #236 from erik73/renovate/erik73-workflows-1.x
+
+⬆️ Update erik73/workflows action to v1.0.6 
+- ⬆️ Update erik73/workflows action to v1.0.6 
 - Merge pull request #235 from erik73/renovate/app-base-image
 
 ⬆️ Update App base image to v5.0.7 
@@ -727,26 +735,3 @@ updated-dependencies:
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com> 
-- Bump docker/setup-buildx-action from 2.0.0 to 2.1.0
-
-Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 2.0.0 to 2.1.0.
-- [Release notes](https://github.com/docker/setup-buildx-action/releases)
-- [Commits](https://github.com/docker/setup-buildx-action/compare/v2.0.0...v2.1.0)
-
----
-updated-dependencies:
-- dependency-name: docker/setup-buildx-action
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #114 from erik73/dependabot/github_actions/actions/stale-6
-
-Bump actions/stale from 5 to 6 
-- Merge pull request #113 from erik73/dependabot/github_actions/release-drafter/release-drafter-5.21.0
-
-Bump release-drafter/release-drafter from 5.20.0 to 5.21.0 
-- Merge pull request #112 from erik73/dependabot/github_actions/frenck/action-addon-linter-2.10
-
-Bump frenck/action-addon-linter from 2.9 to 2.10 
