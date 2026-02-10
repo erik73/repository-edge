@@ -1,4 +1,4 @@
-# EDGE - Home Assistant Appss by erik73
+# EDGE - Home Assistant Apps by erik73
 
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
