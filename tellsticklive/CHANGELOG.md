@@ -1,4 +1,5 @@
 # Changelog since v1.1.8
+- Rename to app_stdin 
 - Merge pull request #237 from erik73/Rename
 
 Rename add-on to app 
@@ -716,20 +717,6 @@ Bumps [docker/login-action](https://github.com/docker/login-action) from 2.0.0 t
 ---
 updated-dependencies:
 - dependency-name: docker/login-action
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Bump docker/setup-qemu-action from 2.0.0 to 2.1.0
-
-Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from 2.0.0 to 2.1.0.
-- [Release notes](https://github.com/docker/setup-qemu-action/releases)
-- [Commits](https://github.com/docker/setup-qemu-action/compare/v2.0.0...v2.1.0)
-
----
-updated-dependencies:
-- dependency-name: docker/setup-qemu-action
   dependency-type: direct:production
   update-type: version-update:semver-minor
 ...
