@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- Update DOCS.md 
 - Create build-steve 
 - Merge pull request #322 from erik73/s6-overlay
 
