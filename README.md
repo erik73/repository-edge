@@ -1,4 +1,4 @@
-# EDGE - Home Assistant Add-ons by erik73
+# EDGE - Home Assistant Appss by erik73
 
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
@@ -6,8 +6,8 @@
 
 ## WARNING! THIS IS AN EDGE REPOSITORY
 
-This Home Assistant Add-ons repository contains edge builds of add-ons. Edge
-builds add-ons are based upon the latest development version.
+This Home Assistant Apps repository contains edge builds of apps. Edge
+builds apps are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -16,17 +16,17 @@ builds add-ons are based upon the latest development version.
 This repository was created for:
 
 - Anybody willing to test.
-- Anybody interested in trying out upcoming add-ons or add-on features.
+- Anybody interested in trying out upcoming apps or app features.
 - Developers.
 
-If you are more interested in stable releases of our add-ons:
+If you are more interested in stable releases of our apps:
 
 <https://github.com/erik73/hassio-addons/>
 
 ## Installation
 
-Adding this add-ons repository to your Home Assistant instance is
-pretty straightforward. In the Home Assistant add-on store,
+Adding this apps repository to your Home Assistant instance is
+pretty straightforward. In the Home Assistant app store,
 a possibility to add a repository is provided.
 
 Use the following URL to add this repository:
@@ -35,7 +35,7 @@ Use the following URL to add this repository:
 https://github.com/erik73/repository-edge
 ```
 
-## Add-ons provided by this repository
+## Apps provided by this repository
 
 ### &#10003; [Mailfilter][addon-mailfilter]
 
@@ -48,7 +48,7 @@ https://github.com/erik73/repository-edge
 
 Rspamd mailfilter for Home Assistant
 
-[:books: Mailfilter add-on documentation][addon-doc-mailfilter]
+[:books: Mailfilter app documentation][addon-doc-mailfilter]
 
 ### &#10003; [Mailserver][addon-mailserver]
 
@@ -61,7 +61,7 @@ Rspamd mailfilter for Home Assistant
 
 Postfix and Dovecot mail server for Home Assistant, with Postfix Admin web interface
 
-[:books: Mailserver add-on documentation][addon-doc-mailserver]
+[:books: Mailserver app documentation][addon-doc-mailserver]
 
 ### &#10003; [MariaDB][addon-mariadb]
 
@@ -74,7 +74,7 @@ Postfix and Dovecot mail server for Home Assistant, with Postfix Admin web inter
 
 A SQL database server
 
-[:books: MariaDB add-on documentation][addon-doc-mariadb]
+[:books: MariaDB app documentation][addon-doc-mariadb]
 
 ### &#10003; [Roundcube][addon-roundcube]
 
@@ -87,7 +87,7 @@ A SQL database server
 
 Roundcube webmail client
 
-[:books: Roundcube add-on documentation][addon-doc-roundcube]
+[:books: Roundcube app documentation][addon-doc-roundcube]
 
 ### &#10003; [SteVe][addon-steve]
 
@@ -100,7 +100,7 @@ Roundcube webmail client
 
 OCPP server for EV charging stations
 
-[:books: SteVe add-on documentation][addon-doc-steve]
+[:books: SteVe app documentation][addon-doc-steve]
 
 ### &#10003; [TellStick with Telldus Live][addon-tellsticklive]
 
@@ -113,7 +113,7 @@ OCPP server for EV charging stations
 
 TellStick and TellStick Duo service with Telldus Live
 
-[:books: TellStick with Telldus Live add-on documentation][addon-doc-tellsticklive]
+[:books: TellStick with Telldus Live app documentation][addon-doc-tellsticklive]
 
 ### &#10003; [phpMyAdmin][addon-phpmyadmin]
 
@@ -126,37 +126,37 @@ TellStick and TellStick Duo service with Telldus Live
 
 A web interface for the official MariaDB app
 
-[:books: phpMyAdmin add-on documentation][addon-doc-phpmyadmin]
+[:books: phpMyAdmin app documentation][addon-doc-phpmyadmin]
 
 ## Releases
 
-Add-on releases are **NOT** based on [Semantic Versioning][semver], unlike
+App releases are **NOT** based on [Semantic Versioning][semver], unlike
 all our other repositories. The latest build commit SHA hash of each
-add-on, represents the version number.
+app, represents the version number.
 
 ## Support
 
 Got questions?
 
 You could open an issue here on GitHub. Note, we use a separate
-GitHub repository for each add-on. Please ensure you are creating the issue
-on the correct GitHub repository matching the add-on.
+GitHub repository for each app. Please ensure you are creating the issue
+on the correct GitHub repository matching the app.
 
-- [Open an issue for the add-on: Mailfilter][mailfilter-issue]
-- [Open an issue for the add-on: Mailserver][mailserver-issue]
-- [Open an issue for the add-on: MariaDB][mariadb-issue]
-- [Open an issue for the add-on: Roundcube][roundcube-issue]
-- [Open an issue for the add-on: SteVe][steve-issue]
-- [Open an issue for the add-on: TellStick with Telldus Live][tellsticklive-issue]
-- [Open an issue for the add-on: phpMyAdmin][phpmyadmin-issue]
+- [Open an issue for the app: Mailfilter][mailfilter-issue]
+- [Open an issue for the app: Mailserver][mailserver-issue]
+- [Open an issue for the app: MariaDB][mariadb-issue]
+- [Open an issue for the app: Roundcube][roundcube-issue]
+- [Open an issue for the app: SteVe][steve-issue]
+- [Open an issue for the app: TellStick with Telldus Live][tellsticklive-issue]
+- [Open an issue for the app: phpMyAdmin][phpmyadmin-issue]
 
-For a general repository issue or add-on ideas [open an issue here][issue]
+For a general repository issue or app ideas [open an issue here][issue]
 
 ## License
 
 MIT License
 
-Copyright (c) 2018-2025 Erik Hilton
+Copyright (c) 2018-2026 Erik Hilton
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -241,6 +241,6 @@ SOFTWARE.
 [phpmyadmin-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [issue]: https://github.com/erik73/repository-edge/issues
 [license-shield]: https://img.shields.io/github/license/erik73/repository-edge.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
 [semver]: http://semver.org/spec/v2.0.0.html
