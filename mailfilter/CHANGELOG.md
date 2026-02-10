@@ -1,4 +1,7 @@
 # Changelog since v5.0.0
+- ⬆️ Update alpine_3_23/redis to v8.4.1-r0 (#310)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #309 from erik73/renovate/erik73-workflows-1.x
 
 ⬆️ Update erik73/workflows action to v1.0.6 
