@@ -1,4 +1,8 @@
 # Changelog since v3.0.0
+- Merge pull request #323 from erik73/renovate/steve-ocpp-3.x
+
+⬆️ Update SteVe OCPP to v3.11.0 
+- ⬆️ Update SteVe OCPP to v3.11.0 
 - Update DOCS.md 
 - Create build-steve 
 - Merge pull request #322 from erik73/s6-overlay
