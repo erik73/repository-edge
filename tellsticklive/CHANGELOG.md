@@ -1,4 +1,5 @@
 # Changelog since v1.1.8
+- Update .README.j2 
 - Rename to app_stdin 
 - Merge pull request #237 from erik73/Rename
 
@@ -708,17 +709,3 @@ Bump docker/build-push-action from 3.1.1 to 3.2.0
 - Merge pull request #115 from erik73/dependabot/github_actions/frenck/action-yamllint-1.3
 
 Bump frenck/action-yamllint from 1.2 to 1.3 
-- Bump docker/login-action from 2.0.0 to 2.1.0
-
-Bumps [docker/login-action](https://github.com/docker/login-action) from 2.0.0 to 2.1.0.
-- [Release notes](https://github.com/docker/login-action/releases)
-- [Commits](https://github.com/docker/login-action/compare/v2.0.0...v2.1.0)
-
----
-updated-dependencies:
-- dependency-name: docker/login-action
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
