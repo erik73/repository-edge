@@ -176,18 +176,18 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[app-mailfilter]: https://github.com/erik73/addon-mailfilter/tree/eabd2c0
-[app-doc-mailfilter]: https://github.com/erik73/addon-mailfilter/blob/eabd2c0/README.md
-[mailfilter-issue]: https://github.com/erik73/addon-mailfilter/issues
+[app-mailfilter]: https://github.com/erik73/app-mailfilter/tree/eabd2c0
+[app-doc-mailfilter]: https://github.com/erik73/app-mailfilter/blob/eabd2c0/README.md
+[mailfilter-issue]: https://github.com/erik73/app-mailfilter/issues
 [mailfilter-version-shield]: https://img.shields.io/badge/version-eabd2c0-blue.svg
 [mailfilter-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mailfilter-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mailfilter-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [mailfilter-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [mailfilter-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[app-mailserver]: https://github.com/erik73/addon-mail/tree/7e4312e
-[app-doc-mailserver]: https://github.com/erik73/addon-mail/blob/7e4312e/README.md
-[mailserver-issue]: https://github.com/erik73/addon-mail/issues
+[app-mailserver]: https://github.com/erik73/app-mail/tree/7e4312e
+[app-doc-mailserver]: https://github.com/erik73/app-mail/blob/7e4312e/README.md
+[mailserver-issue]: https://github.com/erik73/app-mail/issues
 [mailserver-version-shield]: https://img.shields.io/badge/version-7e4312e-blue.svg
 [mailserver-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mailserver-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
