@@ -1,4 +1,5 @@
 # Changelog since v2.0.1
+- Update .hadolint.yaml 
 - Fix S6-logging 
 - Comment out logging sed commands in init-roundcube run script
 
