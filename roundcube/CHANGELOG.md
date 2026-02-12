@@ -1,4 +1,5 @@
 # Changelog since v2.0.1
+- Fix S6-logging 
 - Comment out logging sed commands in init-roundcube run script
 
 Comment out sed commands for syslogd-log and syslogd configuration. 
