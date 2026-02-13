@@ -1,4 +1,8 @@
 # Changelog since v5.0.0
+- Merge pull request #313 from erik73/disable-services
+
+Implement new way of disabling services for new S6-format 
+- Implement new way of disabling services for new S6-format 
 - Merge pull request #312 from erik73/fix-dependencies
 
 Fix S6 service dependencies 
