@@ -1,4 +1,6 @@
 # Changelog since v5.0.0
+- Fix dockerfile 
+- Fix logging 
 - Fix script paths 
 - Make script executable 
 - Merge pull request #313 from erik73/disable-services
