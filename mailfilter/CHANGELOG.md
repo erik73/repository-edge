@@ -1,4 +1,5 @@
 # Changelog since v5.0.0
+- Make script executable 
 - Merge pull request #313 from erik73/disable-services
 
 Implement new way of disabling services for new S6-format 
