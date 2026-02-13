@@ -1,4 +1,9 @@
 # Changelog since v5.0.0
+- Merge pull request #311 from erik73/migrate-s6overlay
+
+Migrate to new S6-overlay layout 
+- Remove trailing backslash 
+- Migrate to new S6-overlay layout 
 - ⬆️ Update alpine_3_23/redis to v8.4.1-r0 (#310)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
