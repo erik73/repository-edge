@@ -1,4 +1,5 @@
 # Changelog since v1.1.8
+- Use correct path 
 - Make files executable 
 - Add crond 
 - Update .README.j2 
@@ -702,6 +703,3 @@ Bump docker/login-action from 2.0.0 to 2.1.0
 - Merge pull request #118 from erik73/dependabot/github_actions/docker/setup-qemu-action-2.1.0
 
 Bump docker/setup-qemu-action from 2.0.0 to 2.1.0 
-- Merge pull request #117 from erik73/dependabot/github_actions/docker/setup-buildx-action-2.1.0
-
-Bump docker/setup-buildx-action from 2.0.0 to 2.1.0 
