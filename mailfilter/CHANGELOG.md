@@ -1,4 +1,8 @@
 # Changelog since v5.0.0
+- Merge pull request #312 from erik73/fix-dependencies
+
+Fix S6 service dependencies 
+- Fix S6 service dependencies 
 - Merge pull request #311 from erik73/migrate-s6overlay
 
 Migrate to new S6-overlay layout 
