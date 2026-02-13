@@ -1,4 +1,9 @@
 # Changelog since v6.0.2
+- Merge pull request #454 from erik73/migrate-s6-overlay
+
+Migrate s6 overlay to new layout 
+- Update .hadolint.yaml 
+- Migrate to new S6-overlay layout 
 - Merge pull request #452 from erik73/renovate/erik73-workflows-1.x
 
 ⬆️ Update erik73/workflows action to v1.0.6 
