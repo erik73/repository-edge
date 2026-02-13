@@ -1,4 +1,6 @@
 # Changelog since v1.1.8
+- Make files executable 
+- Add crond 
 - Update .README.j2 
 - Rename to app_stdin 
 - Merge pull request #237 from erik73/Rename
@@ -703,9 +705,3 @@ Bump docker/setup-qemu-action from 2.0.0 to 2.1.0
 - Merge pull request #117 from erik73/dependabot/github_actions/docker/setup-buildx-action-2.1.0
 
 Bump docker/setup-buildx-action from 2.0.0 to 2.1.0 
-- Merge pull request #116 from erik73/dependabot/github_actions/docker/build-push-action-3.2.0
-
-Bump docker/build-push-action from 3.1.1 to 3.2.0 
-- Merge pull request #115 from erik73/dependabot/github_actions/frenck/action-yamllint-1.3
-
-Bump frenck/action-yamllint from 1.2 to 1.3 
