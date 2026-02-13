@@ -1,4 +1,8 @@
 # Changelog since v6.0.2
+- Merge pull request #455 from erik73/fix-type
+
+Add service type 
+- Add service type 
 - Merge pull request #454 from erik73/migrate-s6-overlay
 
 Migrate s6 overlay to new layout 
