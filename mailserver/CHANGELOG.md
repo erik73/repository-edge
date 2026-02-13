@@ -1,4 +1,5 @@
 # Changelog since v6.0.2
+- Fix service types 
 - Merge pull request #455 from erik73/fix-type
 
 Add service type 
