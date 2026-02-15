@@ -31,5 +31,5 @@ If you are more interested in stable releases of our apps:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-0772887-blue.svg
-[release]: https://github.com/erik73/app-tellsticklive/tree/0772887
+[release-shield]: https://img.shields.io/badge/version-cbfbdcf-blue.svg
+[release]: https://github.com/erik73/app-tellsticklive/tree/cbfbdcf
