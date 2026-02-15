@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- Improve finish script 
 - Merge pull request #323 from erik73/renovate/steve-ocpp-3.x
 
 ⬆️ Update SteVe OCPP to v3.11.0 
