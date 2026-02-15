@@ -1,4 +1,5 @@
 # Changelog since v1.1.8
+- Change sensor listing command to use tdtool 
 - Make scripts executable 
 - Merge pull request #239 from erik73/service-fixes
 
@@ -657,6 +658,3 @@ updated-dependencies:
 Signed-off-by: dependabot[bot] <support@github.com> 
 - Bump base 
 - Bump base image 
-- Merge pull request #122 from erik73/dependabot/github_actions/docker/setup-buildx-action-2.2.1
-
-Bump docker/setup-buildx-action from 2.2.0 to 2.2.1 
