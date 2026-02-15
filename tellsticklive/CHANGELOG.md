@@ -1,4 +1,8 @@
 # Changelog since v1.1.8
+- Merge pull request #238 from erik73/some-fixes
+
+Add crond to enable periodic sensor listing 
+- Add crond to enable periodic sesor listing 
 - Improve finish script 
 - Improve finish scripts 
 - Use correct path 
@@ -671,31 +675,3 @@ Bump docker/setup-buildx-action from 2.1.0 to 2.2.0
 - Merge pull request #120 from erik73/dependabot/github_actions/release-drafter/release-drafter-5.21.1
 
 Bump release-drafter/release-drafter from 5.21.0 to 5.21.1 
-- Bump docker/setup-buildx-action from 2.1.0 to 2.2.0
-
-Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 2.1.0 to 2.2.0.
-- [Release notes](https://github.com/docker/setup-buildx-action/releases)
-- [Commits](https://github.com/docker/setup-buildx-action/compare/v2.1.0...v2.2.0)
-
----
-updated-dependencies:
-- dependency-name: docker/setup-buildx-action
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Bump release-drafter/release-drafter from 5.21.0 to 5.21.1
-
-Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from 5.21.0 to 5.21.1.
-- [Release notes](https://github.com/release-drafter/release-drafter/releases)
-- [Commits](https://github.com/release-drafter/release-drafter/compare/v5.21.0...v5.21.1)
-
----
-updated-dependencies:
-- dependency-name: release-drafter/release-drafter
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
