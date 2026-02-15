@@ -1,4 +1,5 @@
 # Changelog since v1.1.8
+- Improve finish script 
 - Improve finish scripts 
 - Use correct path 
 - Make files executable 
@@ -698,6 +699,3 @@ updated-dependencies:
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #119 from erik73/dependabot/github_actions/docker/login-action-2.1.0
-
-Bump docker/login-action from 2.0.0 to 2.1.0 
