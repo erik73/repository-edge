@@ -1,4 +1,8 @@
 # Changelog since v1.1.8
+- Merge pull request #239 from erik73/service-fixes
+
+Change service logic 
+- Change service logic 
 - Merge pull request #238 from erik73/some-fixes
 
 Add crond to enable periodic sensor listing 
@@ -669,9 +673,3 @@ updated-dependencies:
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #121 from erik73/dependabot/github_actions/docker/setup-buildx-action-2.2.0
-
-Bump docker/setup-buildx-action from 2.1.0 to 2.2.0 
-- Merge pull request #120 from erik73/dependabot/github_actions/release-drafter/release-drafter-5.21.1
-
-Bump release-drafter/release-drafter from 5.21.0 to 5.21.1 
