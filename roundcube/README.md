@@ -8,7 +8,7 @@ Roundcube web based email client.
 
 Important: This app requires that the MariaDB app is installed and running!
 
-This app is experimental, and provides a Roundcube web based email client
+This app is provides a Roundcube web based email client
 that connects to the Mailserver app from this repo
 
 ## WARNING! THIS IS AN EDGE VERSION!
@@ -31,6 +31,6 @@ If you are more interested in stable releases of our apps:
 <https://github.com/erik73/hassio-addons>
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
-[project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-e82e3ba-blue.svg
-[release]: https://github.com/erik73/app-roundcube/tree/e82e3ba
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
+[release-shield]: https://img.shields.io/badge/version-1ce4a42-blue.svg
+[release]: https://github.com/erik73/app-roundcube/tree/1ce4a42
