@@ -32,4 +32,4 @@ addons:
   influxdbv2:
     repository: erik73/app-influxdbv2
     target: influxdbv2
-    image: ghcr.io/erik73/roundcube/{arch}
+    image: ghcr.io/erik73/influxdbv2/{arch}
