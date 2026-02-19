@@ -29,3 +29,7 @@ addons:
     repository: erik73/app-roundcube
     target: roundcube
     image: ghcr.io/erik73/roundcube/{arch}
+  influxdbv2:
+    repository: erik73/app-influxdbv2
+    target: influxdbv2
+    image: ghcr.io/erik73/roundcube/{arch}
