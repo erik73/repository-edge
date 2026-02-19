@@ -1,0 +1,31 @@
+name: InfluxDB v2
+version: e2eba96
+slug: influxdbv2
+description: Scalable datastore for metrics, events, and real-time analytics
+url: https://github.com/erik73/hassio-addons
+panel_icon: mdi:chart-areaspline
+startup: services
+homeassistant: 0.92.0b2
+hassio_api: true
+arch:
+- aarch64
+- amd64
+init: false
+map:
+- share:rw
+- ssl
+ports:
+  8080/tcp: 8080
+  8086/tcp: 8086
+ports_description:
+  8080/tcp: Traefik Dashboard
+  8086/tcp: InfluxDB server
+auth_api: true
+options:
+  envvars: []
+schema:
+  log_level: list(trace|debug|info|notice|warning|error|fatal)?
+  envvars:
+  - name: match(^INFLUXDB_([A-Z0-9_])+$)
+    value: str
+image: ghcr.io/erik73/influxdbv2/{arch}
