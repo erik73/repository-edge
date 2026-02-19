@@ -190,10 +190,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[app-influxdbv2]: https://github.com/erik73/app-influxdbv2/tree/e2eba96
-[app-doc-influxdbv2]: https://github.com/erik73/app-influxdbv2/blob/e2eba96/README.md
+[app-influxdbv2]: https://github.com/erik73/app-influxdbv2/tree/b57aa3f
+[app-doc-influxdbv2]: https://github.com/erik73/app-influxdbv2/blob/b57aa3f/README.md
 [influxdbv2-issue]: https://github.com/erik73/app-influxdbv2/issues
-[influxdbv2-version-shield]: https://img.shields.io/badge/version-e2eba96-blue.svg
+[influxdbv2-version-shield]: https://img.shields.io/badge/version-b57aa3f-blue.svg
 [influxdbv2-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [influxdbv2-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [influxdbv2-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
