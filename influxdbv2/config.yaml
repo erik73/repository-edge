@@ -1,5 +1,5 @@
 name: InfluxDB v2
-version: 84e78f2
+version: '6156017'
 slug: influxdbv2
 description: Scalable datastore for metrics, events, and real-time analytics
 url: https://github.com/erik73/hassio-addons
@@ -39,4 +39,4 @@ schema:
   envvars:
   - name: match(^INFLUXD_([A-Z0-9_])+$)
     value: str
-image: ghcr.io/erik73/influxdbv2/{arch}
+image: ghcr.io/erik73/influxdb2/{arch}
