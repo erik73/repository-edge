@@ -1,4 +1,14 @@
 # Changelog since v0.1.0
+- Merge pull request #6 from erik73/renovate/erik73-workflows-1.x
+
+⬆️ Update erik73/workflows action to v1.0.10 
+- ⬆️ Update erik73/workflows action to v1.0.10 
+- Remove update-ca-certificates command from Dockerfile
+
+Removed update-ca-certificates from the Dockerfile. 
+- Optimize Dockerfile by removing unused packages
+
+Removed unnecessary packages from Dockerfile. 
 - Change CI job permissions to read-only 
 - Update permissions in CI workflow
 
