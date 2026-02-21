@@ -37,19 +37,6 @@ https://github.com/erik73/repository-edge
 
 ## Apps provided by this repository
 
-### &#10003; [InfluxDB v2][app-influxdbv2]
-
-![Latest Version][influxdbv2-version-shield]
-![Supports armhf Architecture][influxdbv2-armhf-shield]
-![Supports armv7 Architecture][influxdbv2-armv7-shield]
-![Supports aarch64 Architecture][influxdbv2-aarch64-shield]
-![Supports amd64 Architecture][influxdbv2-amd64-shield]
-![Supports i386 Architecture][influxdbv2-i386-shield]
-
-Scalable datastore for metrics, events, and real-time analytics
-
-[:books: InfluxDB v2 app documentation][app-doc-influxdbv2]
-
 ### &#10003; [Mailfilter][app-mailfilter]
 
 ![Latest Version][mailfilter-version-shield]
@@ -155,7 +142,6 @@ You could open an issue here on GitHub. Note, we use a separate
 GitHub repository for each app. Please ensure you are creating the issue
 on the correct GitHub repository matching the app.
 
-- [Open an issue for the app: InfluxDB v2][influxdbv2-issue]
 - [Open an issue for the app: Mailfilter][mailfilter-issue]
 - [Open an issue for the app: Mailserver][mailserver-issue]
 - [Open an issue for the app: MariaDB][mariadb-issue]
@@ -190,15 +176,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[app-influxdbv2]: https://github.com/erik73/app-influxdb2/tree/6156017
-[app-doc-influxdbv2]: https://github.com/erik73/app-influxdb2/blob/6156017/README.md
-[influxdbv2-issue]: https://github.com/erik73/app-influxdb2/issues
-[influxdbv2-version-shield]: https://img.shields.io/badge/version-6156017-blue.svg
-[influxdbv2-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[influxdbv2-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[influxdbv2-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[influxdbv2-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[influxdbv2-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [app-mailfilter]: https://github.com/erik73/app-mailfilter/tree/b7e9c7a
 [app-doc-mailfilter]: https://github.com/erik73/app-mailfilter/blob/b7e9c7a/README.md
 [mailfilter-issue]: https://github.com/erik73/app-mailfilter/issues
