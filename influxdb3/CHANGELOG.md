@@ -1,0 +1,1 @@
+- Fix typo in Dockerfile for influxd binary
