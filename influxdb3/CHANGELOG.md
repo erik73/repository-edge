@@ -1,1 +1,1 @@
-- Add config file
+- Use env
