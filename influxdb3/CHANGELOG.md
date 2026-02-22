@@ -1,1 +1,1 @@
-- Test with license
+- Use absolute path
