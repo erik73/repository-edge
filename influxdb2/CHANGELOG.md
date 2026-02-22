@@ -1,36 +1,6 @@
-# Changelog since v0.1.0
-- Merge pull request #6 from erik73/renovate/erik73-workflows-1.x
+# Changelog since v0.1.1
+- Merge pull request #7 from erik73/fix-s6
 
-⬆️ Update erik73/workflows action to v1.0.10 
-- ⬆️ Update erik73/workflows action to v1.0.10 
-- Remove update-ca-certificates command from Dockerfile
-
-Removed update-ca-certificates from the Dockerfile. 
-- Optimize Dockerfile by removing unused packages
-
-Removed unnecessary packages from Dockerfile. 
-- Change CI job permissions to read-only 
-- Update permissions in CI workflow
-
-Change permissions from write to read for actions and contents. 
-- Update README header from InfluxDB v2 to InfluxDB2 
-- Rename app 
-- Fix DOCS 
-- Change GitHub Actions permissions to write for contents 
-- Change contents permission from read to write 
-- Merge pull request #5 from erik73/renovate/erik73-workflows-1.x
-
-⬆️ Update erik73/workflows action to v1.0.7 
-- ⬆️ Update erik73/workflows action to v1.0.7 
-- Change GitHub Actions permissions from read to write 
-- Change GitHub Actions permissions to write 
-- Rename 
-- Fix docs 
-- Fix docs 
-- Fix docs 
-- Add ingress 
-- Make files executable 
-- Fix S6 
-- Make files executable 
-- Rename 
-- Add files 
+Migrate to new S6-overlay layout 
+- Fix dependencies 
+- Migrate to new S6-overlay layout 

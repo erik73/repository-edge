@@ -13,3 +13,24 @@ InfluxDB v2 gives you a nice InfluxDB admin interface for managing your users, d
 data retention settings, and lets you peek inside the database using the
 Data Explorer.
 
+## WARNING! THIS IS AN EDGE VERSION!
+
+This repository contains edge builds of apps.
+Edge builds apps are based upon the latest development version.
+
+- They may not work at all.
+- They might stop working at any time.
+- They could have a negative impact on your system.
+
+This repository was created for:
+
+- Anybody willing to test.
+- Anybody interested in trying out upcoming apps or app features.
+- Developers.
+
+If you are more interested in stable releases of our apps:
+
+<https://github.com/erik73/hassio-addons>
+
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
