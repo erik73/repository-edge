@@ -1,1 +1,1 @@
-- Correct paths
+- Add config file
