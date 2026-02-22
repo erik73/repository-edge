@@ -1,1 +1,1 @@
-- Fix copy
+- Change versioning template to 'loose' in renovate.json
