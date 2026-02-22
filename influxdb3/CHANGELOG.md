@@ -1,1 +1,1 @@
-- Change versioning template to 'loose' in renovate.json
+- Test with license
