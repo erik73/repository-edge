@@ -1,1 +1,1 @@
-- Use correct port
+- Add plugins dir
