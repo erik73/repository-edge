@@ -1,1 +1,1 @@
-- Update README.md
+- Update config.yaml

@@ -1,5 +1,5 @@
 name: InfluxDB3
-version: dee8efd
+version: 4fe044b
 slug: influxdb3
 description: Scalable datastore for metrics, events, and real-time analytics
 url: https://github.com/erik73/hassio-addons
@@ -32,6 +32,7 @@ options:
 schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   influxd_log_level: list(debug|info|warn|error)?
+  license_email: match(^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$)
   reporting: bool
   ssl: bool
   certfile: str
