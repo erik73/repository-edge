@@ -1,1 +1,1 @@
-- Create init-influxdb3
+- Make file executable
