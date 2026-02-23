@@ -1,1 +1,1 @@
-- Remove init stage
+- Set log filter
