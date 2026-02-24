@@ -1,1 +1,1 @@
-- Add script
+- Make file executable
