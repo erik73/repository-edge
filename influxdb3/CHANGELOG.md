@@ -1,1 +1,1 @@
-- Remove NGINX package
+- Add script
