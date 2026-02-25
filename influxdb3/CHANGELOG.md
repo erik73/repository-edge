@@ -1,1 +1,1 @@
-- Add token to startup
+- Create admin token
