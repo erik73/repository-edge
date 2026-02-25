@@ -1,4 +1,7 @@
 # Changelog since v3.0.0
+- ⬆️ Update alpine_3_23/nginx to v1.28.2-r1 (#327)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Improve finish script 
 - Merge pull request #323 from erik73/renovate/steve-ocpp-3.x
 
