@@ -1,1 +1,1 @@
-- tuning
+- Change InfluxDB serve command to use 'all' mode
