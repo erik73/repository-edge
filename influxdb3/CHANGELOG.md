@@ -1,1 +1,1 @@
-- Create admin token
+- Update renovate.json
