@@ -1,1 +1,1 @@
-- Update Dockerfile
+- Update config.yaml
