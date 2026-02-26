@@ -1,1 +1,1 @@
-- Fix InfluxDB run command syntax
+- Update Dockerfile
