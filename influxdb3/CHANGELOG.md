@@ -1,1 +1,1 @@
-- Change InfluxDB serve command to use 'all' mode
+- Fix InfluxDB run command syntax
