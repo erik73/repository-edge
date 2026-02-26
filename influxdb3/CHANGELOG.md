@@ -1,1 +1,1 @@
-- Update run
+- Add INFLUXDB3_MAX_HTTP_REQUEST_SIZE environment variable
