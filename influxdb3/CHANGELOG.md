@@ -1,3 +1,3 @@
-- Add ulimits for nofile limit in config.yaml
+- Enhance token creation script with API key logging
 
-Added ulimits configuration to increase nofile limit.
+Added logging for API keys if they exist and the config allows it.
