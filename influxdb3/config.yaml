@@ -1,5 +1,5 @@
 name: InfluxDB3
-version: af00590
+version: 4fde282
 slug: influxdb3
 description: Scalable datastore for metrics, events, and real-time analytics
 url: https://github.com/erik73/hassio-addons
@@ -37,6 +37,6 @@ schema:
   keyfile: str
   show_api_keys: bool
   envvars:
-  - name: match(^INFLUXD_([A-Z0-9_])+$)
+  - name: match(^INFLUXDB3_([A-Z0-9_])+$)
     value: str
 image: ghcr.io/erik73/influxdb3/{arch}
