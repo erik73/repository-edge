@@ -1,1 +1,3 @@
-- Update environment variable prefix in config.yaml
+- Add ulimits for nofile limit in config.yaml
+
+Added ulimits configuration to increase nofile limit.
