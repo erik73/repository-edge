@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- Update webui path in config.yaml 
 - Comment out context.path modification in config script
 
 Comment out the line that modifies context.path in application-prod.properties. 
