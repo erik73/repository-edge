@@ -1,1 +1,3 @@
-- Add INFLUXDB3_MAX_HTTP_REQUEST_SIZE environment variable
+- Modify InfluxDB run script for environment variables
+
+Commented out environment variable exports and updated InfluxDB run command options.
