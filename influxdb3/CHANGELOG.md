@@ -1,1 +1,1 @@
-- Fix docs
+- Remove some settings
