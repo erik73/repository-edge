@@ -1,5 +1,5 @@
-## What’s changed
+# Changelog since v0.1.3
+- Merge pull request #10 from erik73/envvars
 
-## 📚 Documentation
-
-- Add links to docs @erik73 ([#9](https://github.com/erik73/app-influxdb3/pull/9))
+Add ENVVARS to doc 
+- Add ENVVARS to doc 
