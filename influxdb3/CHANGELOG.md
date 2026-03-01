@@ -1,5 +1,5 @@
-# Changelog since v0.1.3
-- Merge pull request #10 from erik73/envvars
+# Changelog since v0.1.4
+- Merge pull request #11 from erik73/rename-to-app
 
-Add ENVVARS to doc 
-- Add ENVVARS to doc 
+Rename add-on to app 
+- Rename add-on to app 
