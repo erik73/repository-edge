@@ -1,5 +1,5 @@
 name: Example
-version: 2ea9860
+version: 4c0d521
 slug: example
 description: Example app by Home Assistant Community Apps
 url: https://github.com/hassio-addons/app-example
@@ -7,6 +7,10 @@ init: false
 arch:
 - aarch64
 - amd64
+ports:
+  8888/tcp: 8888
+ports_description:
+  8888/tcp: InfluxDB3 Explorer
 options:
   log_level: info
   seconds_between_quotes: 5
