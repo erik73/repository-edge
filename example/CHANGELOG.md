@@ -1,1 +1,1 @@
-- Add notwork ports
+- Change port mapping from 8888 to 80
