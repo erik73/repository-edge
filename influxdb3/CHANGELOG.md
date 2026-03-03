@@ -1,4 +1,5 @@
 # Changelog since v0.1.5
+- Update readme 
 - Update README with At-Home license details
 
 Clarified the licensing information for At-Home use. 
