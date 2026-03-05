@@ -1,1 +1,1 @@
-- Add nginx conf
+- Fix connection
