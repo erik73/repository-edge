@@ -1,1 +1,1 @@
-- Test remove admin
+- Ingress test
