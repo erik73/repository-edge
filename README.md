@@ -218,10 +218,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[app-example]: https://github.com/erik73/explorer-test/tree/f625aed
-[app-doc-example]: https://github.com/erik73/explorer-test/blob/f625aed/README.md
+[app-example]: https://github.com/erik73/explorer-test/tree/c96c4b7
+[app-doc-example]: https://github.com/erik73/explorer-test/blob/c96c4b7/README.md
 [example-issue]: https://github.com/erik73/explorer-test/issues
-[example-version-shield]: https://img.shields.io/badge/version-f625aed-blue.svg
+[example-version-shield]: https://img.shields.io/badge/version-c96c4b7-blue.svg
 [example-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [example-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [example-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
