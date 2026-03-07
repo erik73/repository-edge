@@ -1,1 +1,1 @@
-- Delete example/rootfs/etc/s6-overlay/s6-rc.d/user/contents.d/nginx
+- Fix startup
