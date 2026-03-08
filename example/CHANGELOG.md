@@ -1,1 +1,1 @@
-- Fix startup
+- Set executable flag
