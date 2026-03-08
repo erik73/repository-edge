@@ -1,1 +1,1 @@
-- Remove init service
+- Fix renovate
