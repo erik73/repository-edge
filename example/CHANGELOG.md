@@ -1,1 +1,1 @@
-- Merge branch 'main' of https://github.com/erik73/explorer-test
+- Remove init service
