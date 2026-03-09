@@ -76,7 +76,7 @@ Scalable datastore for metrics, events, and real-time analytics
 
 [:books: InfluxDB3 app documentation][app-doc-influxdb3]
 
-### &#10003; [Influxdb3 Explorer][app-influxdb3-explorer]
+### &#10003; [InfluxDB3 Explorer][app-influxdb3-explorer]
 
 ![Latest Version][influxdb3-explorer-version-shield]
 ![Supports armhf Architecture][influxdb3-explorer-armhf-shield]
@@ -87,7 +87,7 @@ Scalable datastore for metrics, events, and real-time analytics
 
 InfluxDB3 Explorer
 
-[:books: Influxdb3 Explorer app documentation][app-doc-influxdb3-explorer]
+[:books: InfluxDB3 Explorer app documentation][app-doc-influxdb3-explorer]
 
 ### &#10003; [Mailfilter][app-mailfilter]
 
@@ -197,7 +197,7 @@ on the correct GitHub repository matching the app.
 - [Open an issue for the app: Example][example-issue]
 - [Open an issue for the app: InfluxDB2][influxdb2-issue]
 - [Open an issue for the app: InfluxDB3][influxdb3-issue]
-- [Open an issue for the app: Influxdb3 Explorer][influxdb3-explorer-issue]
+- [Open an issue for the app: InfluxDB3 Explorer][influxdb3-explorer-issue]
 - [Open an issue for the app: Mailfilter][mailfilter-issue]
 - [Open an issue for the app: Mailserver][mailserver-issue]
 - [Open an issue for the app: MariaDB][mariadb-issue]
