@@ -1,5 +1,5 @@
 name: Example
-version: bbc27f6
+version: 9cde59c
 slug: example
 description: Example app by Home Assistant Community Apps
 url: https://github.com/hassio-addons/app-example
@@ -9,6 +9,7 @@ arch:
 - amd64
 ingress: true
 ingress_stream: true
+ingress_port: 8098
 ports:
   80/tcp: 8888
 ports_description:
