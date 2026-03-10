@@ -1,1 +1,1 @@
-- Update config.yaml
+- Add logo
