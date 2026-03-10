@@ -6,7 +6,7 @@ Management web interface for InfluxDB3.
 
 ## About
 
-This app provides a management web interface for the InluxDB3 app located in this repo.
+This app provides a management web interface for the InfluxDB3 app located in this repo.
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
@@ -29,5 +29,5 @@ If you are more interested in stable releases of our apps:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-e58f6d7-blue.svg
-[release]: https://github.com/erik73/app-influxdb3-explorer/tree/e58f6d7
+[release-shield]: https://img.shields.io/badge/version-978acdd-blue.svg
+[release]: https://github.com/erik73/app-influxdb3-explorer/tree/978acdd
