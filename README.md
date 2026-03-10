@@ -85,7 +85,7 @@ Scalable datastore for metrics, events, and real-time analytics
 ![Supports amd64 Architecture][influxdb3-explorer-amd64-shield]
 ![Supports i386 Architecture][influxdb3-explorer-i386-shield]
 
-InfluxDB3 Explorer
+Example app by Home Assistant Community Apps
 
 [:books: InfluxDB3 Explorer app documentation][app-doc-influxdb3-explorer]
 
