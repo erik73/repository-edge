@@ -1,5 +1,5 @@
-## What’s changed
+# Changelog since v1.0.1
+- Merge pull request #9 from erik73/renovate/erik73-workflows-1.x
 
-## 🐛 Bug fixes
-
-- Remove tar file after install @erik73 ([#8](https://github.com/erik73/app-influxdb2/pull/8))
+⬆️ Update erik73/workflows action to v1.0.11 
+- ⬆️ Update erik73/workflows action to v1.0.11 
