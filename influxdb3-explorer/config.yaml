@@ -1,6 +1,7 @@
 name: InfluxDB3 Explorer
-version: 59a572e
+version: cef5c29
 slug: influxdb3-explorer
+stage: experimental
 description: Example app by Home Assistant Community Apps
 url: https://github.com/hassio-addons/app-example
 init: false
