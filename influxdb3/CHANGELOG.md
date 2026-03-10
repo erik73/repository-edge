@@ -1,14 +1,5 @@
-# Changelog since v0.1.5
-- Update readme 
-- Update README with At-Home license details
+# Changelog since v0.1.6
+- Merge pull request #13 from erik73/renovate/erik73-workflows-1.x
 
-Clarified the licensing information for At-Home use. 
-- Update LICENSE.md to specify free At-Home license
-
-Clarified that the At-Home license is free for At-Home use. 
-- Prettier 
-- Merge pull request #12 from erik73/more-docs
-
-Update documentation 
-- Additional fixes 
-- Update documentation 
+⬆️ Update erik73/workflows action to v1.0.11 
+- ⬆️ Update erik73/workflows action to v1.0.11 
