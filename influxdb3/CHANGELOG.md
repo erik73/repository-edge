@@ -1,9 +1,5 @@
-# Changelog since v0.1.6
-- Merge pull request #14 from erik73/influxdb3-explorer
+# Changelog since v0.2.0
+- Merge pull request #15 from erik73/bump-influxdb3
 
-Add information regarding InfluxDB3 Explorer 
-- Add information regarding InfluxDB3 Explorer 
-- Merge pull request #13 from erik73/renovate/erik73-workflows-1.x
-
-⬆️ Update erik73/workflows action to v1.0.11 
-- ⬆️ Update erik73/workflows action to v1.0.11 
+Update InfluxDB3 to 3.8.4 
+- Update InfluxDB3 to 3.8.4 
