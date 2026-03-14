@@ -1,4 +1,12 @@
 # Changelog since v1.1.8
+- Merge pull request #241 from erik73/renovate/app-base-image
+
+⬆️ Update App base image to v5.0.8 
+- ⬆️ Update App base image to v5.0.8 
+- Merge pull request #240 from erik73/renovate/erik73-workflows-1.x
+
+⬆️ Update erik73/workflows action to v1.0.10 
+- ⬆️ Update erik73/workflows action to v1.0.10 
 - Change sensor listing command to use tdtool 
 - Make scripts executable 
 - Merge pull request #239 from erik73/service-fixes
@@ -638,23 +646,3 @@ updated-dependencies:
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #123 from erik73/dependabot/github_actions/dessant/lock-threads-4
-
-Bump dessant/lock-threads from 3 to 4 
-- Bump dessant/lock-threads from 3 to 4
-
-Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 3 to 4.
-- [Release notes](https://github.com/dessant/lock-threads/releases)
-- [Changelog](https://github.com/dessant/lock-threads/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/dessant/lock-threads/compare/v3...v4)
-
----
-updated-dependencies:
-- dependency-name: dessant/lock-threads
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Bump base 
-- Bump base image 
