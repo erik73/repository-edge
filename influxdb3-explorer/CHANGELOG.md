@@ -1,4 +1,5 @@
 # Changelog since v0.1.0
+- Fix S6 
 - Merge pull request #4 from erik73/add-base
 
 Add base image scripts 
