@@ -1,4 +1,4 @@
-# Home Assistant Community App: Example
+# Home Assistant Community App: Explorer Test
 
 This is an example app for Home Assistant. When started, it displays a
 random quote every 5 seconds.
