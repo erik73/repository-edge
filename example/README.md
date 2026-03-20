@@ -1,4 +1,4 @@
-# Home Assistant Community App: Example
+# Home Assistant Community App: Explorer-Test
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -56,5 +56,5 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-41a932c-blue.svg
-[release]: https://github.com/erik73/explorer-test/tree/41a932c
+[release-shield]: https://img.shields.io/badge/version-fa70555-blue.svg
+[release]: https://github.com/erik73/explorer-test/tree/fa70555
