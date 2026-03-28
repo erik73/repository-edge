@@ -1,5 +1,9 @@
-# Changelog since v0.2.0
-- Merge pull request #15 from erik73/bump-influxdb3
+# Changelog since v0.2.1
+- Merge pull request #18 from erik73/new-ci
 
-Update InfluxDB3 to 3.8.4 
-- Update InfluxDB3 to 3.8.4 
+Run release drafter as last step of CI 
+- Run release drafter as last step of CI 
+- Merge pull request #16 from erik73/renovate/erik73-workflows-1.x
+
+⬆️ Update erik73/workflows action to v1.1.0 
+- ⬆️ Update erik73/workflows action to v1.1.0 
