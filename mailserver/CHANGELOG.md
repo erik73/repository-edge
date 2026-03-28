@@ -1,4 +1,8 @@
 # Changelog since v6.0.4
+- Merge pull request #466 from erik73/improve-scripts
+
+Improve S6-Overlay finish scripts 
+- Improve S6-Overlay finish scripts 
 - Merge pull request #465 from erik73/new-ci
 
 Run release drafter as last step of CI 
