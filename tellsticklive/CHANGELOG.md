@@ -1,4 +1,8 @@
 # Changelog since v1.1.8
+- Merge pull request #245 from erik73/renovate/app-base-image
+
+⬆️ Update App base image to v5.0.9 
+- ⬆️ Update App base image to v5.0.9 
 - Merge pull request #244 from erik73/new-ci
 
 Run release drafter as last step of CI 
@@ -584,23 +588,6 @@ Bumps [docker/build-push-action](https://github.com/docker/build-push-action) fr
 ---
 updated-dependencies:
 - dependency-name: docker/build-push-action
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #128 from erik73/dependabot/github_actions/frenck/action-yamllint-1.4
-
-Bump frenck/action-yamllint from 1.3 to 1.4 
-- Bump frenck/action-yamllint from 1.3 to 1.4
-
-Bumps [frenck/action-yamllint](https://github.com/frenck/action-yamllint) from 1.3 to 1.4.
-- [Release notes](https://github.com/frenck/action-yamllint/releases)
-- [Commits](https://github.com/frenck/action-yamllint/compare/v1.3...v1.4)
-
----
-updated-dependencies:
-- dependency-name: frenck/action-yamllint
   dependency-type: direct:production
   update-type: version-update:semver-minor
 ...
