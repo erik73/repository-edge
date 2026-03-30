@@ -322,10 +322,10 @@ SOFTWARE.
 [tellsticklive-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [tellsticklive-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [tellsticklive-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[app-phpmyadmin]: https://github.com/erik73/app-phpmyadmin/tree/6dd65e0
-[app-doc-phpmyadmin]: https://github.com/erik73/app-phpmyadmin/blob/6dd65e0/README.md
+[app-phpmyadmin]: https://github.com/erik73/app-phpmyadmin/tree/v2.0.8
+[app-doc-phpmyadmin]: https://github.com/erik73/app-phpmyadmin/blob/v2.0.8/README.md
 [phpmyadmin-issue]: https://github.com/erik73/app-phpmyadmin/issues
-[phpmyadmin-version-shield]: https://img.shields.io/badge/version-6dd65e0-blue.svg
+[phpmyadmin-version-shield]: https://img.shields.io/badge/version-v2.0.8-blue.svg
 [phpmyadmin-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [phpmyadmin-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [phpmyadmin-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
