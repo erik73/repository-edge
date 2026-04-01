@@ -37,19 +37,6 @@ https://github.com/erik73/repository-edge
 
 ## Apps provided by this repository
 
-### &#10003; [Example][app-example]
-
-![Latest Version][example-version-shield]
-![Supports armhf Architecture][example-armhf-shield]
-![Supports armv7 Architecture][example-armv7-shield]
-![Supports aarch64 Architecture][example-aarch64-shield]
-![Supports amd64 Architecture][example-amd64-shield]
-![Supports i386 Architecture][example-i386-shield]
-
-Example app by Home Assistant Community Apps
-
-[:books: Example app documentation][app-doc-example]
-
 ### &#10003; [InfluxDB2][app-influxdb2]
 
 ![Latest Version][influxdb2-version-shield]
@@ -194,7 +181,6 @@ You could open an issue here on GitHub. Note, we use a separate
 GitHub repository for each app. Please ensure you are creating the issue
 on the correct GitHub repository matching the app.
 
-- [Open an issue for the app: Example][example-issue]
 - [Open an issue for the app: InfluxDB2][influxdb2-issue]
 - [Open an issue for the app: InfluxDB3][influxdb3-issue]
 - [Open an issue for the app: InfluxDB3 Explorer][influxdb3-explorer-issue]
@@ -232,15 +218,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[app-example]: https://github.com/erik73/explorer-test/tree/fa70555
-[app-doc-example]: https://github.com/erik73/explorer-test/blob/fa70555/README.md
-[example-issue]: https://github.com/erik73/explorer-test/issues
-[example-version-shield]: https://img.shields.io/badge/version-fa70555-blue.svg
-[example-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[example-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[example-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[example-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[example-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [app-influxdb2]: https://github.com/erik73/app-influxdb2/tree/67d7140
 [app-doc-influxdb2]: https://github.com/erik73/app-influxdb2/blob/67d7140/README.md
 [influxdb2-issue]: https://github.com/erik73/app-influxdb2/issues
