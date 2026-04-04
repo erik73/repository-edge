@@ -1,20 +1,13 @@
-# Changelog since v4.0.0
-- Merge pull request #332 from erik73/renovate/steve-ocpp-3.x
+## What’s changed
 
-⬆️ Update SteVe OCPP to v3.12.0 
-- ⬆️ Update SteVe OCPP to v3.12.0 
-- Merge pull request #331 from erik73/new-ci
+## 🧰 Maintenance
 
-Run release drafter as last step of CI 
-- Run release drafter as last step of CI 
-- Merge pull request #329 from erik73/renovate/erik73-workflows-1.x
+- Run release drafter as last step of CI @erik73 ([#331](https://github.com/erik73/app-steve/pull/331))
+- Change to production stage @erik73 ([#333](https://github.com/erik73/app-steve/pull/333))
 
-⬆️ Update erik73/workflows action to v1.1.0 
-- ⬆️ Update erik73/workflows action to v1.1.0 
-- ⬆️ Update alpine_3_23/nginx to v1.28.3-r0 (#330)
+## ⬆️ Dependency updates
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Merge pull request #328 from erik73/renovate/erik73-workflows-1.x
-
-⬆️ Update erik73/workflows action to v1.0.11 
-- ⬆️ Update erik73/workflows action to v1.0.11 
+- ⬆️ Update erik73/workflows action to v1.0.11 @[renovate[bot]](https://github.com/apps/renovate) ([#328](https://github.com/erik73/app-steve/pull/328))
+- ⬆️ Update alpine_3_23/nginx to v1.28.3-r0 @[renovate[bot]](https://github.com/apps/renovate) ([#330](https://github.com/erik73/app-steve/pull/330))
+- ⬆️ Update erik73/workflows action to v1.1.0 @[renovate[bot]](https://github.com/apps/renovate) ([#329](https://github.com/erik73/app-steve/pull/329))
+- ⬆️ Update SteVe OCPP to v3.12.0 @[renovate[bot]](https://github.com/apps/renovate) ([#332](https://github.com/erik73/app-steve/pull/332))
