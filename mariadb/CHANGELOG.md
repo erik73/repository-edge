@@ -1,9 +1,4 @@
-# Changelog since v2.0.4
-- Merge pull request #38 from erik73/new-ci
+# Changelog since v2.0.5
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v6.0.7 (#39)
 
-Run release drafter as last step of CI 
-- Run release drafter as last step of CI 
-- Merge pull request #36 from erik73/renovate/erik73-workflows-1.x
-
-⬆️ Update erik73/workflows action to v1.1.0 
-- ⬆️ Update erik73/workflows action to v1.1.0 
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
