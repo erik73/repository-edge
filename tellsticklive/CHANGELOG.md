@@ -1,4 +1,7 @@
 # Changelog since v1.1.8
+- ⬆️ Update App base image to v5.0.10 (#246)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #245 from erik73/renovate/app-base-image
 
 ⬆️ Update App base image to v5.0.9 
@@ -579,17 +582,3 @@ Signed-off-by: dependabot[bot] <support@github.com>
 - Merge pull request #129 from erik73/dependabot/github_actions/docker/build-push-action-3.3.0
 
 Bump docker/build-push-action from 3.2.0 to 3.3.0 
-- Bump docker/build-push-action from 3.2.0 to 3.3.0
-
-Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 3.2.0 to 3.3.0.
-- [Release notes](https://github.com/docker/build-push-action/releases)
-- [Commits](https://github.com/docker/build-push-action/compare/v3.2.0...v3.3.0)
-
----
-updated-dependencies:
-- dependency-name: docker/build-push-action
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
