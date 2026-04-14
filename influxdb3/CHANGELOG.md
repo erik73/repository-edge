@@ -1,5 +1,5 @@
-# Changelog since v0.3.0
-- Merge pull request #23 from erik73/erik73-patch-1
+# Changelog since v0.3.1
+- Merge pull request #24 from erik73/docs
 
-Bump InfluxDB3 to 3.9.1 
-- Bump InfluxDB3 to 3.9.1 
+Update docs with new import syntax 
+- Update docs with new import syntax 
