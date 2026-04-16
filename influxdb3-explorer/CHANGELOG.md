@@ -1,4 +1,10 @@
 # Changelog since v0.1.1
+- Merge pull request #8 from erik73/renovate/app-base-image
+
+⬆️ Update influxdata/influxdb3-ui Docker tag to v1.7.0 
+- ⬆️ Update influxdata/influxdb3-ui Docker tag to v1.7.0 
+- Update Dockerfile 
+- Update Dockerfile with USER directive 
 - Update Dockerfile 
 - Update Dockerfile 
 - Merge pull request #5 from erik73/renovate/erik73-workflows-1.x
