@@ -1,4 +1,7 @@
 # Changelog since v0.1.1
+- Hadolint 
+- Fix Hadolint 
+- Hadolint ignore 
 - Update run 
 - Merge pull request #8 from erik73/renovate/app-base-image
 
