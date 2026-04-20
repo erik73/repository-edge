@@ -1,4 +1,7 @@
 # Changelog since v1.1.8
+- ⬆️ Update App base image to v5.0.11 (#247)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update App base image to v5.0.10 (#246)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
@@ -579,6 +582,3 @@ updated-dependencies:
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #129 from erik73/dependabot/github_actions/docker/build-push-action-3.3.0
-
-Bump docker/build-push-action from 3.2.0 to 3.3.0 
