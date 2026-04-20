@@ -299,10 +299,10 @@ SOFTWARE.
 [tellsticklive-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [tellsticklive-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [tellsticklive-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[app-phpmyadmin]: https://github.com/erik73/app-phpmyadmin/tree/69b7197
-[app-doc-phpmyadmin]: https://github.com/erik73/app-phpmyadmin/blob/69b7197/README.md
+[app-phpmyadmin]: https://github.com/erik73/app-phpmyadmin/tree/b0f108b
+[app-doc-phpmyadmin]: https://github.com/erik73/app-phpmyadmin/blob/b0f108b/README.md
 [phpmyadmin-issue]: https://github.com/erik73/app-phpmyadmin/issues
-[phpmyadmin-version-shield]: https://img.shields.io/badge/version-69b7197-blue.svg
+[phpmyadmin-version-shield]: https://img.shields.io/badge/version-b0f108b-blue.svg
 [phpmyadmin-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [phpmyadmin-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [phpmyadmin-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
