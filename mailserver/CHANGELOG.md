@@ -1,4 +1,7 @@
 # Changelog since v6.1.1
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v6.0.8 (#472)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_23/mariadb-client to v11.4.10-r0 (#471)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
