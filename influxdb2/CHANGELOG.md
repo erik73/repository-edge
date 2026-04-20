@@ -1,4 +1,7 @@
 # Changelog since v1.0.1
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v6.0.8 (#13)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #12 from erik73/new-ci
 
 Run release drafter as last step of CI 
