@@ -1,4 +1,7 @@
 # Changelog since v6.1.1
+- ⬆️ Update alpine_3_23/mariadb-client to v11.4.10-r0 (#471)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Dovecot to v2.4.3-r1 (#470)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
