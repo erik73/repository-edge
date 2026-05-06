@@ -1,4 +1,12 @@
 # Changelog since v6.1.1
+- Merge pull request #473 from erik73/renovate/erik73-workflows-1.x
+
+⬆️ Update erik73/workflows action to v1.1.1 
+- ⬆️ Update erik73/workflows action to v1.1.1 
+- Merge pull request #474 from erik73/renovate/postfix
+
+⬆️ Update Postfix to v3.10.9-r0 
+- ⬆️ Update Postfix to v3.10.9-r0 
 - ⬆️ Update ghcr.io/erik73/base Docker tag to v6.0.8 (#472)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
