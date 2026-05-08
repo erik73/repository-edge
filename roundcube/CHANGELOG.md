@@ -1,4 +1,7 @@
 # Changelog since v2.0.4
+- ⬆️ Update PHP to v8.3.31-r0 (#62)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #61 from erik73/renovate/erik73-workflows-1.x
 
 ⬆️ Update erik73/workflows action to v1.1.1 
