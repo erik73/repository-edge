@@ -1,7 +1,5 @@
-# Changelog since v0.1.2
-- ⬆️ Update influxdata/influxdb3-ui Docker tag to v1.8.0 (#10)
+# Changelog since v0.1.3
+- Merge pull request #11 from erik73/renovate/erik73-workflows-1.x
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_22/xz to v5.8.3-r0 (#9)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+⬆️ Update erik73/workflows action to v1.1.1 
+- ⬆️ Update erik73/workflows action to v1.1.1 
