@@ -1,4 +1,8 @@
 # Changelog since v2.0.4
+- Merge pull request #63 from erik73/renovate/just-containers-s6-overlay-3.x
+
+⬆️ Update just-containers/s6-overlay to v3.2.3.0 
+- ⬆️ Update just-containers/s6-overlay to v3.2.3.0 
 - ⬆️ Update PHP to v8.3.31-r0 (#62)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
