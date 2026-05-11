@@ -1,4 +1,12 @@
 # Changelog since v2.0.4
+- Merge pull request #66 from erik73/renovate/erik73-workflows-2.x
+
+⬆️ Update erik73/workflows action to v2 
+- ⬆️ Update erik73/workflows action to v2 
+- Merge pull request #64 from erik73/renovate/roundcube-roundcubemail-1.x
+
+⬆️ Update roundcube/roundcubemail to v1.7.0 
+- ⬆️ Update roundcube/roundcubemail to v1.7.0 
 - ⬆️ Update ghcr.io/erik73/base Docker tag to v6.0.9 (#65)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
