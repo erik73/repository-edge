@@ -1,9 +1,9 @@
-# Changelog since v0.3.1
-- Merge pull request #25 from erik73/bump-influxdb3-3.9.2
+# Changelog since v0.3.2
+- Merge pull request #27 from erik73/renovate/erik73-workflows-2.x
 
-Bump InfluxDB3 to 3.9.2 
-- Bump InfluxDB3 to 3.9.2 
-- Merge pull request #24 from erik73/docs
+⬆️ Update erik73/workflows action to v2 
+- ⬆️ Update erik73/workflows action to v2 
+- Merge pull request #26 from erik73/renovate/erik73-workflows-1.x
 
-Update docs with new import syntax 
-- Update docs with new import syntax 
+⬆️ Update erik73/workflows action to v1.1.1 
+- ⬆️ Update erik73/workflows action to v1.1.1 
