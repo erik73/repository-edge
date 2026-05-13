@@ -1,4 +1,8 @@
 # Changelog since v2.0.4
+- Merge pull request #67 from erik73/nginx-root
+
+Change Nginx doc root for 1.7 
+- Change Nginx doc root for 1.7 
 - Merge pull request #66 from erik73/renovate/erik73-workflows-2.x
 
 ⬆️ Update erik73/workflows action to v2 
