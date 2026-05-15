@@ -1,4 +1,7 @@
 # Changelog since v2.0.4
+- ⬆️ Update alpine_3_23/nginx to v1.28.3-r1 (#68)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #67 from erik73/nginx-root
 
 Change Nginx doc root for 1.7 
