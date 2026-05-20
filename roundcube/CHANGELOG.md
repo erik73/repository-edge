@@ -1,4 +1,11 @@
 # Changelog since v2.0.4
+- Merge pull request #69 from erik73/nginx-root
+
+Update to php84 and fix Nginx config 
+- Fix spelling 
+- Use pecl imap 
+- Merge branch 'main' into nginx-root 
+- Update to php84 and fix Nginx config 
 - ⬆️ Update alpine_3_23/nginx to v1.28.3-r1 (#68)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
