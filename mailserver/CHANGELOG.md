@@ -1,4 +1,8 @@
 # Changelog since v6.1.1
+- Merge pull request #480 from erik73/renovate/postfix
+
+⬆️ Update Postfix to v3.10.10-r0 
+- ⬆️ Update Postfix to v3.10.10-r0 
 - ⬆️ Update alpine_3_23/nginx to v1.28.3-r1 (#479)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
