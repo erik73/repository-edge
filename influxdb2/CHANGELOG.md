@@ -1,4 +1,9 @@
 # Changelog since v1.0.1
+- Merge pull request #17 from erik73/erik73-patch-1
+
+Update influxdb to 2.9.1 and cli to 2.8.0 
+- Fix InfluxDB2 download link 
+- Update influxdb to 2.9.1 and cli to 2.8.0 
 - Merge pull request #16 from erik73/renovate/erik73-workflows-2.x
 
 ⬆️ Update erik73/workflows action to v2 
