@@ -1,4 +1,8 @@
 # Changelog since v5.0.0
+- Merge pull request #345 from erik73/mariadb
+
+Fix run scripts for mariadb 
+- Fix run scripts for mariadb 
 - Merge pull request #344 from erik73/renovate/steve-ocpp-3.x
 
 ⬆️ Update SteVe OCPP to v3.13.0 
