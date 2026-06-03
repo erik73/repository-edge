@@ -1,4 +1,8 @@
 # Changelog since v5.0.0
+- Merge pull request #344 from erik73/renovate/steve-ocpp-3.x
+
+⬆️ Update SteVe OCPP to v3.13.0 
+- ⬆️ Update SteVe OCPP to v3.13.0 
 - ⬆️ Update alpine_3_23/mariadb-client to v11.4.12-r0 (#343)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
