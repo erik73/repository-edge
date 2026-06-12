@@ -1,5 +1,5 @@
 name: InfluxDB2
-version: 479f5b2
+version: ae16b3c
 slug: influxdb2
 description: Scalable datastore for metrics, events, and real-time analytics
 url: https://github.com/erik73/hassio-addons
