@@ -1,4 +1,7 @@
 # Changelog since v1.0.2
+- ⬆️ Update App base image to v7.0.1 (#20)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #19 from erik73/renovate/major-app-base-image
 
 ⬆️ Update App base image to v7 
