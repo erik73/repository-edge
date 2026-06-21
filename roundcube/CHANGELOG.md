@@ -1,4 +1,8 @@
 # Changelog since v3.0.1
+- Merge pull request #78 from erik73/renovate/app-base-image
+
+⬆️ Update App base image to v7.0.1 
+- ⬆️ Update App base image to v7.0.1 
 - Merge pull request #76 from erik73/renovate/alpine_3_24-nginx-1.x
 
 ⬆️ Update alpine_3_24/nginx to v1.30.2-r1 
