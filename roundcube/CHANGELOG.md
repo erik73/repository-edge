@@ -1,7 +1,11 @@
 # Changelog since v3.0.1
+- Merge pull request #79 from erik73/renovate/erik73-workflows-2.x
+
+⬆️ Update erik73/workflows action to v2.0.2 
 - Merge pull request #78 from erik73/renovate/app-base-image
 
 ⬆️ Update App base image to v7.0.1 
+- ⬆️ Update erik73/workflows action to v2.0.2 
 - ⬆️ Update App base image to v7.0.1 
 - Merge pull request #76 from erik73/renovate/alpine_3_24-nginx-1.x
 
