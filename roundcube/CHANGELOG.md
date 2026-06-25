@@ -1,4 +1,7 @@
 # Changelog since v3.0.1
+- ⬆️ Update alpine_3_24/nginx to v1.30.3-r0 (#80)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #79 from erik73/renovate/erik73-workflows-2.x
 
 ⬆️ Update erik73/workflows action to v2.0.2 
