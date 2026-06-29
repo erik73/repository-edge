@@ -1,4 +1,8 @@
 # Changelog since v6.1.3
+- Merge pull request #500 from erik73/renovate/app-base-image
+
+⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.2 
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.2 
 - Merge pull request #499 from erik73/renovate/postfixadmin-postfixadmin-4.x
 
 ⬆️ Update postfixadmin/postfixadmin to v4.0.4 
