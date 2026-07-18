@@ -1,4 +1,7 @@
 # Changelog since v6.1.4
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.3 (#506)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #505 from erik73/renovate/just-containers-s6-overlay-3.x
 
 ⬆️ Update just-containers/s6-overlay to v3.2.3.2 
