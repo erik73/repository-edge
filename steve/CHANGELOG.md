@@ -1,4 +1,7 @@
 # Changelog since v5.0.1
+- ⬆️ Update App base image to v7.0.3 (#358)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #357 from erik73/renovate/erik73-workflows-2.x
 
 ⬆️ Update erik73/workflows action to v2.0.3 
