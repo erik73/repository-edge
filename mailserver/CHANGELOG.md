@@ -1,4 +1,8 @@
 # Changelog since v6.1.4
+- Merge pull request #505 from erik73/renovate/just-containers-s6-overlay-3.x
+
+⬆️ Update just-containers/s6-overlay to v3.2.3.2 
+- ⬆️ Update just-containers/s6-overlay to v3.2.3.2 
 - Merge pull request #502 from erik73/renovate/postfixadmin-postfixadmin-4.x
 
 ⬆️ Update postfixadmin/postfixadmin to v4.0.5 
