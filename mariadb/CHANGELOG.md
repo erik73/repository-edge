@@ -1,4 +1,7 @@
 # Changelog since v2.0.9
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.3 (#54)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.2 (#52)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

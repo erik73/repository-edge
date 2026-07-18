@@ -263,10 +263,10 @@ SOFTWARE.
 [mailserver-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [mailserver-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [mailserver-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[app-mariadb]: https://github.com/erik73/app-mariadb/tree/7218a6f
-[app-doc-mariadb]: https://github.com/erik73/app-mariadb/blob/7218a6f/README.md
+[app-mariadb]: https://github.com/erik73/app-mariadb/tree/107d611
+[app-doc-mariadb]: https://github.com/erik73/app-mariadb/blob/107d611/README.md
 [mariadb-issue]: https://github.com/erik73/app-mariadb/issues
-[mariadb-version-shield]: https://img.shields.io/badge/version-7218a6f-blue.svg
+[mariadb-version-shield]: https://img.shields.io/badge/version-107d611-blue.svg
 [mariadb-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mariadb-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mariadb-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
