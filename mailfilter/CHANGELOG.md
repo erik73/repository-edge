@@ -1,4 +1,7 @@
 # Changelog since v6.0.1
+- ⬆️ Update App base image to v7.0.3 (#346)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #345 from erik73/renovate/just-containers-s6-overlay-3.x
 
 ⬆️ Update just-containers/s6-overlay to v3.2.3.2 
