@@ -290,10 +290,10 @@ SOFTWARE.
 [steve-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [steve-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [steve-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[app-tellsticklive]: https://github.com/erik73/app-tellsticklive/tree/91a421a
-[app-doc-tellsticklive]: https://github.com/erik73/app-tellsticklive/blob/91a421a/README.md
+[app-tellsticklive]: https://github.com/erik73/app-tellsticklive/tree/d00e4c4
+[app-doc-tellsticklive]: https://github.com/erik73/app-tellsticklive/blob/d00e4c4/README.md
 [tellsticklive-issue]: https://github.com/erik73/app-tellsticklive/issues
-[tellsticklive-version-shield]: https://img.shields.io/badge/version-91a421a-blue.svg
+[tellsticklive-version-shield]: https://img.shields.io/badge/version-d00e4c4-blue.svg
 [tellsticklive-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tellsticklive-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tellsticklive-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
