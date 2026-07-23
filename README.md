@@ -272,10 +272,10 @@ SOFTWARE.
 [mariadb-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [mariadb-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [mariadb-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[app-roundcube]: https://github.com/erik73/app-roundcube/tree/23b1f70
-[app-doc-roundcube]: https://github.com/erik73/app-roundcube/blob/23b1f70/README.md
+[app-roundcube]: https://github.com/erik73/app-roundcube/tree/8c61c2c
+[app-doc-roundcube]: https://github.com/erik73/app-roundcube/blob/8c61c2c/README.md
 [roundcube-issue]: https://github.com/erik73/app-roundcube/issues
-[roundcube-version-shield]: https://img.shields.io/badge/version-23b1f70-blue.svg
+[roundcube-version-shield]: https://img.shields.io/badge/version-8c61c2c-blue.svg
 [roundcube-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [roundcube-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [roundcube-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
