@@ -1,4 +1,8 @@
 # Changelog since v0.3.10
+- Merge pull request #41 from erik73/enable-webui
+
+Enable WebUI 
+- Enable WebUI 
 - Merge pull request #40 from erik73/erik73-patch-3
 
 Update InfluxDB version to 3.11.0 
