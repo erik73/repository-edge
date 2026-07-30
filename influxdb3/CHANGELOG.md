@@ -1,5 +1,7 @@
-# Changelog since v0.3.9
-- Merge pull request #39 from erik73/erik73-patch-2
+# Changelog since v0.3.10
+- Merge pull request #40 from erik73/erik73-patch-3
 
-Update InfluxDB version to 3.10.5 
-- Update InfluxDB version to 3.10.5 
+Update InfluxDB version to 3.11.0 
+- Update InfluxDB version to 3.11.0
+
+Update InfluxDB3 to version 3.11.0 
