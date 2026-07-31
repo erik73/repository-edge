@@ -1,5 +1,5 @@
 name: InfluxDB3
-version: d3b0770
+version: 54efae6
 slug: influxdb3
 description: Scalable datastore for metrics, events, and real-time analytics
 url: https://github.com/erik73/hassio-addons
@@ -16,7 +16,7 @@ init: false
 map:
 - share:rw
 - ssl
-webui: http://[HOST]:[PORT:8181]
+webui: http://[HOST]:[PORT:8181]/system-overview
 ports:
   8181/tcp: 8181
 ports_description:

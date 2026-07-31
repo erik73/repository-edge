@@ -1,4 +1,8 @@
 # Changelog since v0.3.10
+- Merge pull request #44 from erik73/maintenance
+
+Fix variables and config for 3.11 
+- Fix variables and config for 3.11 
 - Merge pull request #43 from erik73/webui-config
 
 Add HA WebUI support 
