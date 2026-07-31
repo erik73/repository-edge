@@ -1,4 +1,8 @@
 # Changelog since v0.3.10
+- Merge pull request #46 from erik73/fix-url
+
+Fix WebUI URL 
+- Fix WebUI URL 
 - Merge pull request #45 from erik73/fix-ipv6
 
 Fix ipv6 not working 
