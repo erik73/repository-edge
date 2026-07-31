@@ -1,4 +1,8 @@
 # Changelog since v0.3.10
+- Merge pull request #42 from erik73/session-secret
+
+Generate session secret if missing 
+- Generate session secret if missing 
 - Merge pull request #41 from erik73/enable-webui
 
 Enable WebUI 
