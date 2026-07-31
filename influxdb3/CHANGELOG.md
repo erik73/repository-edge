@@ -1,4 +1,8 @@
 # Changelog since v0.3.10
+- Merge pull request #43 from erik73/webui-config
+
+Add HA WebUI support 
+- Add HA WebUI support 
 - Merge pull request #42 from erik73/session-secret
 
 Generate session secret if missing 
