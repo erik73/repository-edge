@@ -1,4 +1,8 @@
 # Changelog since v0.3.10
+- Merge pull request #45 from erik73/fix-ipv6
+
+Fix ipv6 not working 
+- Fix ipv6 not working 
 - Merge pull request #44 from erik73/maintenance
 
 Fix variables and config for 3.11 
