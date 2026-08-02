@@ -1,4 +1,9 @@
 # Changelog since v0.3.10
+- Prettier 
+- Merge pull request #47 from erik73/docs
+
+Update docs since InfluxDB3-Explorer is now included 
+- Update docs since InfluxDB3-Explorer is now included 
 - Merge pull request #46 from erik73/fix-url
 
 Fix WebUI URL 
