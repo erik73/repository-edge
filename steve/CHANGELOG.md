@@ -1,4 +1,8 @@
 # Changelog since v5.0.1
+- Merge pull request #361 from erik73/renovate/steve-ocpp-3.x
+
+⬆️ Update SteVe OCPP to v3.14.0 
+- ⬆️ Update SteVe OCPP to v3.14.0 
 - ⬆️ Update alpine_3_24/openjdk25-jre-headless to v25.0.4_p7-r0 (#362)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
