@@ -1,4 +1,8 @@
 # Changelog since v3.0.3
+- Merge pull request #91 from erik73/renovate/php
+
+⬆️ Update PHP to v8.4.24-r0 
+- ⬆️ Update PHP to v8.4.24-r0 
 - ⬆️ Update alpine_3_24/nginx to v1.30.4-r1 (#89)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
