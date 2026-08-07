@@ -1,4 +1,12 @@
 # Changelog since v1.0.0
+- Merge pull request #51 from erik73/renovate/app-base-image
+
+⬆️ Update ghcr.io/erik73/debian-base Docker tag to v1.0.1 
+- ⬆️ Update ghcr.io/erik73/debian-base Docker tag to v1.0.1 
+- Merge pull request #50 from erik73/base-image
+
+Use my own base image and add docs 
+- Use my own base image and add docs 
 - Merge pull request #49 from erik73/revert-48-nginx
 
 Revert "Try if ingress is possible" 

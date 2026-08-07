@@ -227,10 +227,10 @@ SOFTWARE.
 [influxdb2-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [influxdb2-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [influxdb2-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[app-influxdb3]: https://github.com/erik73/app-influxdb3/tree/2bcd41d
-[app-doc-influxdb3]: https://github.com/erik73/app-influxdb3/blob/2bcd41d/README.md
+[app-influxdb3]: https://github.com/erik73/app-influxdb3/tree/8d2d95f
+[app-doc-influxdb3]: https://github.com/erik73/app-influxdb3/blob/8d2d95f/README.md
 [influxdb3-issue]: https://github.com/erik73/app-influxdb3/issues
-[influxdb3-version-shield]: https://img.shields.io/badge/version-2bcd41d-blue.svg
+[influxdb3-version-shield]: https://img.shields.io/badge/version-8d2d95f-blue.svg
 [influxdb3-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [influxdb3-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [influxdb3-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
