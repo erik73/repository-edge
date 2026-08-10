@@ -32,5 +32,5 @@ If you are more interested in stable releases of our apps:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-3713560-blue.svg
-[release]: https://github.com/erik73/app-roundcube/tree/3713560
+[release-shield]: https://img.shields.io/badge/version-5dc8700-blue.svg
+[release]: https://github.com/erik73/app-roundcube/tree/5dc8700
