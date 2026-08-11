@@ -1,4 +1,8 @@
 # Changelog since v1.0.0
+- Merge pull request #52 from erik73/bump-influxdb3
+
+Update InfluxDB3 to 3.11.1 
+- Update InfluxDB3 to 3.11.1 
 - Merge pull request #51 from erik73/renovate/app-base-image
 
 ⬆️ Update ghcr.io/erik73/debian-base Docker tag to v1.0.1 
