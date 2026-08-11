@@ -1,4 +1,8 @@
 # Changelog since v1.0.0
+- Merge pull request #54 from erik73/Move-S6-files
+
+Move S6 user bundle to new location 
+- Move S6 user bundle to new location 
 - Merge pull request #53 from erik73/renovate/app-base-image
 
 ⬆️ Update ghcr.io/erik73/debian-base Docker tag to v1.0.2 
