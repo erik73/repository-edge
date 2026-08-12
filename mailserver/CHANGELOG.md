@@ -1,4 +1,8 @@
 # Changelog since v6.1.5
+- Merge pull request #511 from erik73/renovate/postfix
+
+⬆️ Update Postfix to v3.11.6-r0 
+- ⬆️ Update Postfix to v3.11.6-r0 
 - Merge pull request #510 from erik73/renovate/php
 
 ⬆️ Update PHP to v8.4.24-r0 
