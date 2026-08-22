@@ -1,4 +1,8 @@
 # Changelog since v1.1.0
+- Merge pull request #57 from erik73/erik73-patch-1
+
+Update InfluxDB version to 3.11.2 
+- Update InfluxDB version to 3.11.2 
 - Merge pull request #56 from erik73/auth
 
 Use correct path for tokens 
