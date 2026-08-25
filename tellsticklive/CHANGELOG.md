@@ -1,4 +1,7 @@
 # Changelog since v1.1.8
+- ⬆️ Update App base image to v5.0.13 (#261)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #260 from erik73/renovate/alpine_3_24-cmake-4.x
 
 ⬆️ Update alpine_3_24/cmake to v4.2.3-r0 
@@ -438,4 +441,3 @@ Add renovate
 - Fix yaml syntax 
 - Move to yaml 
 - Fix labels 
-- Fix syntax 
