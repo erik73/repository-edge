@@ -1,4 +1,7 @@
 # Changelog since v6.1.5
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.4 (#512)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #511 from erik73/renovate/postfix
 
 ⬆️ Update Postfix to v3.11.6-r0 
