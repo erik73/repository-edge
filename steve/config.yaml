@@ -1,5 +1,5 @@
 name: SteVe
-version: 1abfc7c
+version: 52d66f1
 slug: steve
 description: OCPP server for EV charging stations
 url: https://github.com/erik73/app-steve
