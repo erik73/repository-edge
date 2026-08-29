@@ -245,10 +245,10 @@ SOFTWARE.
 [influxdb3-explorer-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [influxdb3-explorer-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [influxdb3-explorer-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[app-mailfilter]: https://github.com/erik73/app-mailfilter/tree/6f38d43
-[app-doc-mailfilter]: https://github.com/erik73/app-mailfilter/blob/6f38d43/README.md
+[app-mailfilter]: https://github.com/erik73/app-mailfilter/tree/559646b
+[app-doc-mailfilter]: https://github.com/erik73/app-mailfilter/blob/559646b/README.md
 [mailfilter-issue]: https://github.com/erik73/app-mailfilter/issues
-[mailfilter-version-shield]: https://img.shields.io/badge/version-6f38d43-blue.svg
+[mailfilter-version-shield]: https://img.shields.io/badge/version-559646b-blue.svg
 [mailfilter-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mailfilter-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mailfilter-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
