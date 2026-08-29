@@ -1,4 +1,8 @@
 # Changelog since v6.1.5
+- Merge pull request #513 from erik73/s6-maintenance
+
+Move S6-overlay user bundles to new location 
+- Move S6-overlay user bundles to new location 
 - ⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.4 (#512)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
