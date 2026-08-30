@@ -1,4 +1,7 @@
 # Changelog since v6.1.5
+- ⬆️ Update Dovecot to v2.4.5-r0 (#514)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #513 from erik73/s6-maintenance
 
 Move S6-overlay user bundles to new location 
