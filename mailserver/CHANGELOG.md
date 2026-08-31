@@ -1,4 +1,7 @@
 # Changelog since v6.1.5
+- ⬆️ Update PHP to v8.4.25-r0 (#515)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Dovecot to v2.4.5-r0 (#514)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
