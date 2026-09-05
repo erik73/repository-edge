@@ -1,4 +1,7 @@
 # Changelog since v1.0.0
+- ⬆️ Update alpine_3_23/curl to v8.22.0-r0 (#27)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_23/jq to v1.8.2-r0 (#26)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
