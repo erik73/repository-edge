@@ -1,4 +1,8 @@
 # Changelog since v1.0.0
+- Merge pull request #23 from erik73/renovate/home-assistant-tempio-2026.x
+
+⬆️ Update home-assistant/tempio to v2026.07.0 
+- ⬆️ Update home-assistant/tempio to v2026.07.0 
 - ⬆️ Update alpine_3_23/curl to v8.22.0-r0 (#27)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
