@@ -1,4 +1,8 @@
 # Changelog since v1.0.0
+- Merge pull request #25 from erik73/renovate/hassio-addons-bashio-0.x
+
+⬆️ Update hassio-addons/bashio to v0.19.0 
+- ⬆️ Update hassio-addons/bashio to v0.19.0 
 - Merge pull request #29 from erik73/renovate/alpine_3_23-xz-5.x
 
 ⬆️ Update alpine_3_23/xz to v5.8.4-r0 
