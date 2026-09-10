@@ -1,4 +1,8 @@
 # Changelog since v1.0.0
+- Merge pull request #29 from erik73/renovate/alpine_3_23-xz-5.x
+
+⬆️ Update alpine_3_23/xz to v5.8.4-r0 
+- ⬆️ Update alpine_3_23/xz to v5.8.4-r0 
 - Merge pull request #23 from erik73/renovate/home-assistant-tempio-2026.x
 
 ⬆️ Update home-assistant/tempio to v2026.07.0 
