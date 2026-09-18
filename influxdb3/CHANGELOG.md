@@ -1,5 +1,6 @@
-# Changelog since v1.1.3
-- Merge pull request #66 from erik73/erik73-patch-1
+# Changelog since v1.1.4
+- Merge pull request #67 from erik73/Enable-SSL
 
-Update InfluxDB version to 3.11.5 
-- Update InfluxDB version to 3.11.5 
+Enable ssl 
+- Add support for SSL 
+- Add support for SSL 
