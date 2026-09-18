@@ -1,5 +1,5 @@
-## What’s changed
+# Changelog since v1.1.3
+- Merge pull request #66 from erik73/erik73-patch-1
 
-## ⬆️ Dependency updates
-
-- Update InfluxDB version to 3.11.4 @erik73 ([#60](https://github.com/erik73/app-influxdb3/pull/60))
+Update InfluxDB version to 3.11.5 
+- Update InfluxDB version to 3.11.5 
