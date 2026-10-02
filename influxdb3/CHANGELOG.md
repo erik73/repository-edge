@@ -1,4 +1,8 @@
 # Changelog since v1.1.4
+- Merge pull request #69 from prvashisht/fix/influxdb3-finish-diagnostic
+
+Fix InfluxDB3 service name 
+- Fix InfluxDB3 service name 
 - Merge pull request #68 from erik73/Enable-SSL
 
 Fix if statement for ssl 
