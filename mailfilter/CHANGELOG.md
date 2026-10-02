@@ -1,4 +1,7 @@
 # Changelog since v6.0.2
+- ⬆️ Update App base image to v7.0.5 (#352)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #351 from erik73/s6-maintenance
 
 Move s6-overlay user bundles to new location 
