@@ -1,4 +1,8 @@
 # Changelog since v1.1.4
+- Merge pull request #72 from erik73/docs
+
+Update docs 
+- Update docs 
 - Merge pull request #71 from erik73/erik73-patch-2
 
 Update InfluxDB3 to 3.12.0 
