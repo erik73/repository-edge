@@ -254,10 +254,10 @@ SOFTWARE.
 [mailfilter-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [mailfilter-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [mailfilter-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[app-mailserver]: https://github.com/erik73/app-mail/tree/c8f8ef7
-[app-doc-mailserver]: https://github.com/erik73/app-mail/blob/c8f8ef7/README.md
+[app-mailserver]: https://github.com/erik73/app-mail/tree/e9b0afd
+[app-doc-mailserver]: https://github.com/erik73/app-mail/blob/e9b0afd/README.md
 [mailserver-issue]: https://github.com/erik73/app-mail/issues
-[mailserver-version-shield]: https://img.shields.io/badge/version-c8f8ef7-blue.svg
+[mailserver-version-shield]: https://img.shields.io/badge/version-e9b0afd-blue.svg
 [mailserver-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mailserver-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mailserver-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

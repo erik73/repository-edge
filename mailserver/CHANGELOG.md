@@ -1,4 +1,23 @@
 # Changelog since v6.1.5
+- Merge pull request #521 from erik73/renovate/php
+
+⬆️ Update PHP to v8.4.26-r0 
+- ⬆️ Update PHP to v8.4.26-r0 
+- Merge pull request #520 from erik73/renovate/app-base-image
+
+⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.5 
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.5 
+- Merge pull request #519 from erik73/erik73-patch-1
+
+Add share permission to mail config 
+- Add share permission to mail config 
+- Update renovate.json 
+- Update renovate.json 
+- Add community packages 
+- Merge pull request #518 from erik73/renovate
+
+Use Alpine repo for Renovate 
+- Use Alpine repo for Renovate 
 - ⬆️ Update Postfix to v3.11.7-r0 (#517)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
