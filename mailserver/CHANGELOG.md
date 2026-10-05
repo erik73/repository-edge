@@ -1,4 +1,8 @@
 # Changelog since v6.1.5
+- Merge pull request #522 from erik73/revert-513-s6-maintenance
+
+Revert "Move S6-overlay user bundles to new location" 
+- Revert "Move S6-overlay user bundles to new location" 
 - Merge pull request #521 from erik73/renovate/php
 
 ⬆️ Update PHP to v8.4.26-r0 
