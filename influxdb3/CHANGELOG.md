@@ -1,4 +1,8 @@
 # Changelog since v1.2.0
+- Merge pull request #77 from erik73/bugfix2
+
+Improve handling of custom data directory 
+- Improve handling of custom data directory 
 - Merge pull request #76 from erik73/erik73-patch-3
 
 Update run script to handle env variables 
