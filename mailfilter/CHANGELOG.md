@@ -1,4 +1,8 @@
 # Changelog since v6.0.2
+- Merge pull request #353 from erik73/revert-351-s6-maintenance
+
+Revert "Move s6-overlay user bundles to new location" 
+- Revert "Move s6-overlay user bundles to new location" 
 - Use Alpine repo for Renovate 
 - ⬆️ Update App base image to v7.0.5 (#352)
 
