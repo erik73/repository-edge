@@ -1,4 +1,8 @@
 # Changelog since v1.2.0
+- Merge pull request #78 from erik73/limit-resources
+
+Limit resource usage 
+- Limit resource usage 
 - Merge pull request #75 from prvashisht/docs/envvar-precedence
 
 Document environment variable precedence 
