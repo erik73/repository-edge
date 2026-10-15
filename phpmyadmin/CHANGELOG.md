@@ -1,4 +1,8 @@
 # Changelog since v2.0.13
+- Merge pull request #73 from erik73/renovate/erik73-workflows-2.x
+
+⬆️ Update erik73/workflows action to v2.0.4 
+- ⬆️ Update erik73/workflows action to v2.0.4 
 - Use Alpine repos 
 - ⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.5 (#71)
 
