@@ -1,4 +1,8 @@
 # Changelog since v2.0.0
+- Merge pull request #82 from erik73/renovate/erik73-workflows-2.x
+
+⬆️ Update erik73/workflows action to v2.0.4 
+- ⬆️ Update erik73/workflows action to v2.0.4 
 - Merge pull request #81 from erik73/basic-user-auth
 
 Basic user auth 
