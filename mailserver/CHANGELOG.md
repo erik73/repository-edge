@@ -1,54 +1,5 @@
-# Changelog since v6.1.5
-- Merge pull request #522 from erik73/revert-513-s6-maintenance
+# Changelog since v6.2.0
+- Merge pull request #523 from erik73/renovate/erik73-workflows-2.x
 
-Revert "Move S6-overlay user bundles to new location" 
-- Revert "Move S6-overlay user bundles to new location" 
-- Merge pull request #521 from erik73/renovate/php
-
-⬆️ Update PHP to v8.4.26-r0 
-- ⬆️ Update PHP to v8.4.26-r0 
-- Merge pull request #520 from erik73/renovate/app-base-image
-
-⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.5 
-- ⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.5 
-- Merge pull request #519 from erik73/erik73-patch-1
-
-Add share permission to mail config 
-- Add share permission to mail config 
-- Update renovate.json 
-- Update renovate.json 
-- Add community packages 
-- Merge pull request #518 from erik73/renovate
-
-Use Alpine repo for Renovate 
-- Use Alpine repo for Renovate 
-- ⬆️ Update Postfix to v3.11.7-r0 (#517)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update PHP to v8.4.25-r0 (#515)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update Dovecot to v2.4.5-r0 (#514)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Merge pull request #513 from erik73/s6-maintenance
-
-Move S6-overlay user bundles to new location 
-- Move S6-overlay user bundles to new location 
-- ⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.4 (#512)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Merge pull request #511 from erik73/renovate/postfix
-
-⬆️ Update Postfix to v3.11.6-r0 
-- ⬆️ Update Postfix to v3.11.6-r0 
-- Merge pull request #510 from erik73/renovate/php
-
-⬆️ Update PHP to v8.4.24-r0 
-- ⬆️ Update PHP to v8.4.24-r0 
-- ⬆️ Update Dovecot to v2.4.4-r0 (#509)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_24/nginx to v1.30.4-r1 (#508)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+⬆️ Update erik73/workflows action to v2.0.4 
+- ⬆️ Update erik73/workflows action to v2.0.4 
