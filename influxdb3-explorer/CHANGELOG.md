@@ -1,4 +1,5 @@
 # Changelog since v1.0.0
+- More log level 
 - Handle loglevels 
 - Merge pull request #35 from erik73/debian
 
