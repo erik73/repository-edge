@@ -1,4 +1,6 @@
 # Changelog since v1.0.0
+- Set corrct data dir 
+- admin mode 
 - Try prefix for variables 
 - Some fixes 
 - Use port 80 for backards compatibility 
