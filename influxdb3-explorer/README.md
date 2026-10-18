@@ -29,5 +29,5 @@ If you are more interested in stable releases of our apps:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-282c385-blue.svg
-[release]: https://github.com/erik73/app-influxdb3-explorer/tree/282c385
+[release-shield]: https://img.shields.io/badge/version-4b8fc48-blue.svg
+[release]: https://github.com/erik73/app-influxdb3-explorer/tree/4b8fc48
