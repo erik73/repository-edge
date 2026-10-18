@@ -1,4 +1,5 @@
 # Changelog since v1.0.0
+- Revert to ipv4 
 - Enable IPv6? 
 - Set corrct data dir 
 - admin mode 
