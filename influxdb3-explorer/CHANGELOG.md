@@ -1,4 +1,21 @@
 # Changelog since v1.0.0
+- Merge pull request #34 from erik73/debian
+
+Debian is now used 
+- Merge pull request #33 from erik73/renovate/erik73-workflows-2.x
+
+⬆️ Update erik73/workflows action to v2.0.4 
+- Use bookworm 
+- Remove package pins 
+- Use bash 
+- ENV 
+- Fix typo 
+- Debian is now used 
+- ⬆️ Update erik73/workflows action to v2.0.4 
+- Merge pull request #32 from erik73/renovate/app-base-image
+
+⬆️ Update influxdata/influxdb3-ui Docker tag to v1.11.1 
+- ⬆️ Update influxdata/influxdb3-ui Docker tag to v1.11.1 
 - Merge pull request #25 from erik73/renovate/hassio-addons-bashio-0.x
 
 ⬆️ Update hassio-addons/bashio to v0.19.0 
