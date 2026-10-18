@@ -1,5 +1,5 @@
 name: InfluxDB3 Explorer
-version: 4b8fc48
+version: fffd8e1
 slug: influxdb3-explorer
 description: InfluxDB3 Explorer for Home Assistant
 url: https://github.com/erik73/hassio-addons
@@ -15,6 +15,7 @@ ports_description:
 options:
   influxd_log_level: warn
   log_level: info
+  envvars: []
 schema:
   influxd_log_level: list(debug|info|warn|error)?
   log_level: list(trace|debug|info|notice|warning|error|fatal)

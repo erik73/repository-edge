@@ -1,4 +1,5 @@
 # Changelog since v1.0.0
+- Some fixes 
 - Use port 80 for backards compatibility 
 - More log level 
 - Handle loglevels 
