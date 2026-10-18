@@ -1,4 +1,8 @@
 # Changelog since v1.0.0
+- Merge pull request #35 from erik73/debian
+
+Run the new executable 
+- Run the new executable 
 - Merge pull request #34 from erik73/debian
 
 Debian is now used 
