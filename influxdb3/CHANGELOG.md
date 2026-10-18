@@ -1,4 +1,8 @@
 # Changelog since v2.0.0
+- Merge pull request #84 from erik73/basic-user-auth
+
+Create jwt secret 
+- Create jwt secret 
 - Merge pull request #83 from erik73/erik73-patch-4
 
 Update InfluxDB3 to 3.12.1 
