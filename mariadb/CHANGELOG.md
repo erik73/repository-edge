@@ -1,4 +1,7 @@
 # Changelog since v2.0.9
+- ⬆️ Update MariaDB to v11.8.9-r0 (#58)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #57 from erik73/renovate/erik73-workflows-2.x
 
 ⬆️ Update erik73/workflows action to v2.0.4 
