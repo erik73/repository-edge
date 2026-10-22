@@ -42,6 +42,6 @@ If you are more interested in stable releases of our apps:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-2406233-blue.svg
-[release]: https://github.com/erik73/app-phpmyadmin/tree/2406233
+[release-shield]: https://img.shields.io/badge/version-1fdea4b-blue.svg
+[release]: https://github.com/erik73/app-phpmyadmin/tree/1fdea4b
 [screenshot]: https://github.com/erik73/app-phpmyadmin/raw/main/images/screenshot.png

@@ -1,45 +1,4 @@
-# Changelog since v2.0.13
-- Merge pull request #75 from erik73/renovate/php
-
-⬆️ Update PHP to v8.5.12-r0 
-- ⬆️ Update PHP to v8.5.12-r0 
-- Merge pull request #74 from erik73/renovate/alpine_3_24-mariadb-client-11.x
-
-⬆️ Update alpine_3_24/mariadb-client to v11.8.9-r0 
-- ⬆️ Update alpine_3_24/mariadb-client to v11.8.9-r0 
-- Merge pull request #73 from erik73/renovate/erik73-workflows-2.x
-
-⬆️ Update erik73/workflows action to v2.0.4 
-- ⬆️ Update erik73/workflows action to v2.0.4 
-- Use Alpine repos 
-- ⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.5 (#71)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update PHP to v8.5.11-r0 (#72)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update PHP to v8.5.10-r0 (#70)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.4 (#69)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update PHP to v8.5.9-r0 (#68)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_24/nginx to v1.30.4-r1 (#67)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_24/nginx to v1.30.4-r0 (#66)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.3 (#65)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Merge pull request #64 from erik73/renovate/erik73-workflows-2.x
-
-⬆️ Update erik73/workflows action to v2.0.3 
-- ⬆️ Update erik73/workflows action to v2.0.3 
-- ⬆️ Update PHP to v8.5.8-r0 (#63)
+# Changelog since v2.0.14
+- ⬆️ Update alpine_3_24/nginx to v1.30.6-r0 (#76)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
