@@ -1,4 +1,7 @@
 # Changelog since v1.0.0
+- ⬆️ Update influxdata/influxdb3-ui Docker tag to v1.11.2 (#36)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Rename add-on to app 
 - Revert to ipv4 
 - Enable IPv6? 

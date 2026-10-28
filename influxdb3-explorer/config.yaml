@@ -1,5 +1,5 @@
 name: InfluxDB3 Explorer
-version: 0bba0f0
+version: 4a2f915
 slug: influxdb3-explorer
 description: InfluxDB3 Explorer for Home Assistant
 url: https://github.com/erik73/hassio-addons
