@@ -1,4 +1,7 @@
 # Changelog since v6.0.3
+- ⬆️ Update App base image to v7.0.6 (#356)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_24/nginx to v1.30.6-r0 (#355)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
