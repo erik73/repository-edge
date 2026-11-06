@@ -1,4 +1,8 @@
 # Changelog since v1.0.0
+- Merge pull request #37 from erik73/renovate/erik73-workflows-2.x
+
+⬆️ Update erik73/workflows action to v2.0.5 
+- ⬆️ Update erik73/workflows action to v2.0.5 
 - ⬆️ Update influxdata/influxdb3-ui Docker tag to v1.11.2 (#36)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
