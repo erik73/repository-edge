@@ -34,5 +34,5 @@ If you are more interested in stable releases of our apps:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-549b347-blue.svg
-[release]: https://github.com/erik73/app-mariadb/tree/549b347
+[release-shield]: https://img.shields.io/badge/version-09fe8bd-blue.svg
+[release]: https://github.com/erik73/app-mariadb/tree/09fe8bd
