@@ -1,4 +1,8 @@
 # Changelog since v6.2.1
+- Merge pull request #529 from erik73/renovate/postfixadmin-postfixadmin-4.x
+
+⬆️ Update postfixadmin/postfixadmin to v4.0.6 
+- ⬆️ Update postfixadmin/postfixadmin to v4.0.6 
 - ⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.7 (#530)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
