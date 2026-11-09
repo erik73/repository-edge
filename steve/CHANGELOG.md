@@ -1,4 +1,7 @@
 # Changelog since v5.0.3
+- ⬆️ Update App base image to v7.0.7 (#373)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_24/openjdk25-jre-headless to v25.0.5.0.3_p1-r0 (#372)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
