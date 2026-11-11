@@ -1,4 +1,7 @@
 # Changelog since v5.0.3
+- ⬆️ Update alpine_3_24/git to v2.54.1-r0 (#376)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #374 from erik73/renovate/erik73-workflows-2.x
 
 ⬆️ Update erik73/workflows action to v2.0.5 
