@@ -1,4 +1,8 @@
 # Changelog since v3.0.6
+- Merge pull request #106 from erik73/renovate/roundcube-roundcubemail-1.x
+
+⬆️ Update roundcube/roundcubemail to v1.7.6 
+- ⬆️ Update roundcube/roundcubemail to v1.7.6 
 - ⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.7 (#105)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
