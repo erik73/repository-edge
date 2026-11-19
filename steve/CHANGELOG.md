@@ -1,4 +1,10 @@
 # Changelog since v5.0.3
+- ⬆️ Update alpine_3_24/nginx to v1.30.7-r0 (#378)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_24/openjdk25-jre-headless to v25.0.5.1_p2-r0 (#377)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_24/git to v2.54.1-r0 (#376)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
