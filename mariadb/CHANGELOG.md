@@ -1,4 +1,8 @@
 # Changelog since v2.0.10
+- Merge pull request #63 from erik73/renovate/app-base-image
+
+⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.8 
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.8 
 - ⬆️ Update MariaDB to v11.8.10-r0 (#62)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
