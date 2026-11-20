@@ -1,4 +1,8 @@
 # Changelog since v1.0.2
+- Merge pull request #33 from erik73/erik73-patch-2
+
+Update InfluxDB version to 2.10.1 
+- Update InfluxDB version to 2.10.1 
 - Merge pull request #31 from erik73/renovate/app-base-image
 
 ⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.8 
