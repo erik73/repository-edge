@@ -1,4 +1,8 @@
 # Changelog since v1.0.2
+- Merge pull request #31 from erik73/renovate/app-base-image
+
+⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.8 
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.8 
 - Merge pull request #32 from erik73/renovate/migrate-config
 
 ⬆️: migrate Renovate config 
