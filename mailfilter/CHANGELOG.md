@@ -1,4 +1,8 @@
 # Changelog since v6.0.3
+- Merge pull request #361 from erik73/renovate/app-base-image
+
+⬆️ Update App base image to v7.0.8 
+- ⬆️ Update App base image to v7.0.8 
 - Merge pull request #360 from erik73/renovate/clamav
 
 ⬆️ Update Clamav to v1.4.7-r0 
