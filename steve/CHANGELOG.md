@@ -1,4 +1,8 @@
 # Changelog since v5.0.3
+- Merge pull request #380 from erik73/renovate/app-base-image
+
+⬆️ Update App base image to v7.0.8 
+- ⬆️ Update App base image to v7.0.8 
 - Merge pull request #379 from erik73/renovate/alpine_3_24-mariadb-client-11.x
 
 ⬆️ Update alpine_3_24/mariadb-client to v11.8.10-r0 
