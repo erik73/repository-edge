@@ -1,4 +1,8 @@
 # Changelog since v1.0.2
+- Merge pull request #34 from erik73/erik73-patch-3
+
+Update Influx CLI version to 2.9.1 
+- Update Influx CLI version to 2.9.1 
 - Merge pull request #33 from erik73/erik73-patch-2
 
 Update InfluxDB version to 2.10.1 
