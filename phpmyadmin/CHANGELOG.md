@@ -1,4 +1,16 @@
 # Changelog since v2.0.14
+- Merge pull request #83 from erik73/renovate/php
+
+⬆️ Update PHP to v8.5.13-r0 
+- ⬆️ Update PHP to v8.5.13-r0 
+- Merge pull request #82 from erik73/renovate/app-base-image
+
+⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.8 
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.8 
+- Merge pull request #81 from erik73/renovate/alpine_3_24-mariadb-client-11.x
+
+⬆️ Update alpine_3_24/mariadb-client to v11.8.10-r0 
+- ⬆️ Update alpine_3_24/mariadb-client to v11.8.10-r0 
 - ⬆️ Update alpine_3_24/nginx to v1.30.7-r0 (#80)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
