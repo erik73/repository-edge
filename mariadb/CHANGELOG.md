@@ -1,4 +1,7 @@
 # Changelog since v2.0.10
+- ⬆️ Update MariaDB to v11.8.10-r0 (#62)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.7 (#61)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
