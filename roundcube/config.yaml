@@ -1,5 +1,5 @@
 name: Roundcube
-version: '6239788'
+version: 250f168
 slug: roundcube
 description: Roundcube webmail client
 url: https://github.com/erik73/hassio-addons
