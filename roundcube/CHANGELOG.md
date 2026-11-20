@@ -1,4 +1,8 @@
 # Changelog since v3.0.7
+- Merge pull request #110 from erik73/renovate/app-base-image
+
+⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.8 
+- ⬆️ Update ghcr.io/erik73/base Docker tag to v7.0.8 
 - Merge pull request #109 from erik73/renovate/php
 
 ⬆️ Update PHP to v8.4.28-r0 
