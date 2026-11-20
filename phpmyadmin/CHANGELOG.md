@@ -1,4 +1,8 @@
 # Changelog since v2.0.14
+- Merge pull request #84 from erik73/renovate/migrate-config
+
+⬆️: migrate Renovate config 
+- ⬆️: migrate config .github/renovate.json 
 - Merge pull request #83 from erik73/renovate/php
 
 ⬆️ Update PHP to v8.5.13-r0 
