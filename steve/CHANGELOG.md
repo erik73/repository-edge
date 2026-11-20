@@ -1,4 +1,8 @@
 # Changelog since v5.0.3
+- Merge pull request #381 from erik73/renovate/migrate-config
+
+⬆️: migrate Renovate config 
+- ⬆️: migrate config .github/renovate.json 
 - Merge pull request #380 from erik73/renovate/app-base-image
 
 ⬆️ Update App base image to v7.0.8 
