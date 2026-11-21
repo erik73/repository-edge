@@ -1,4 +1,7 @@
 # Changelog since v2.1.2
+- ⬆️ Update ghcr.io/erik73/debian-base Docker tag to v1.0.6 (#92)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #91 from erik73/renovate/migrate-config
 
 ⬆️: migrate Renovate config 
