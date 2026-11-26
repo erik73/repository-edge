@@ -1,33 +1,4 @@
-# Changelog since v6.0.3
-- Merge pull request #362 from erik73/renovate/migrate-config
-
-⬆️: migrate Renovate config 
-- ⬆️: migrate config .github/renovate.json 
-- Merge pull request #361 from erik73/renovate/app-base-image
-
-⬆️ Update App base image to v7.0.8 
-- ⬆️ Update App base image to v7.0.8 
-- Merge pull request #360 from erik73/renovate/clamav
-
-⬆️ Update Clamav to v1.4.7-r0 
-- ⬆️ Update Clamav to v1.4.7-r0 
-- ⬆️ Update alpine_3_24/nginx to v1.30.7-r0 (#359)
+# Changelog since v6.0.4
+- ⬆️ Update alpine_3_24/nginx to v1.30.8-r0 (#363)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update App base image to v7.0.7 (#358)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Merge pull request #357 from erik73/renovate/erik73-workflows-2.x
-
-⬆️ Update erik73/workflows action to v2.0.5 
-- ⬆️ Update erik73/workflows action to v2.0.5 
-- ⬆️ Update App base image to v7.0.6 (#356)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_24/nginx to v1.30.6-r0 (#355)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Merge pull request #354 from erik73/renovate/erik73-workflows-2.x
-
-⬆️ Update erik73/workflows action to v2.0.4 
-- ⬆️ Update erik73/workflows action to v2.0.4 
