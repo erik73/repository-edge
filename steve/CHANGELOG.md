@@ -1,4 +1,7 @@
 # Changelog since v5.0.3
+- ⬆️ Update alpine_3_24/nginx to v1.30.8-r0 (#382)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #381 from erik73/renovate/migrate-config
 
 ⬆️: migrate Renovate config 
